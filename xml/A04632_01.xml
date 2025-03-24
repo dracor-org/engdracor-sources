@@ -12221,17 +12221,17 @@
     </div>
     <div n="3" type="scene" xml:id="A04632_01-e107530">
      <head>
-      <stage place="margin" xml:id="A04632_01-e107540">
-       <w lemma="to" pos="acp" rend="hi" xml:id="A04632-018-a-2370">To</w>
-       <w lemma="they" pos="pno" rend="hi" xml:id="A04632-018-a-2380">them</w>
-       <pc rend="hi" unit="sentence" xml:id="A04632-018-a-2390">.</pc>
-      </stage>
       <w lemma="act" pos="n1" rend="hi" xml:id="A04632-018-a-2400">Act</w>
       <w lemma="2" pos="crd" xml:id="A04632-018-a-2410">II.</w>
       <w lemma="scene" pos="n1" rend="hi" xml:id="A04632-018-a-2420">Scene</w>
       <w lemma="3" pos="crd" xml:id="A04632-018-a-2430">III</w>
       <pc unit="sentence" xml:id="A04632-018-a-2440">.</pc>
      </head>
+     <stage place="margin" xml:id="A04632_01-e107540">
+      <w lemma="to" pos="acp" rend="hi" xml:id="A04632-018-a-2370">To</w>
+      <w lemma="they" pos="pno" rend="hi" xml:id="A04632-018-a-2380">them</w>
+      <pc rend="hi" unit="sentence" xml:id="A04632-018-a-2390">.</pc>
+     </stage>
      <stage xml:id="A04632_01-e107550">
       <w lemma="Kitely" pos="nn1" xml:id="A04632-018-a-2450">KITELY</w>
       <pc xml:id="A04632-018-a-2460">,</pc>
