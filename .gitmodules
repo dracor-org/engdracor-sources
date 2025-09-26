@@ -1,0 +1,6 @@
+[submodule "earlyprint/eccotcp"]
+	path = earlyprint/eccotcp
+	url = https://bitbucket.org/eads004/eccotcp.git
+[submodule "earlyprint/eebotcp"]
+	path = earlyprint/eebotcp
+	url = https://bitbucket.org/eads004/eebotcp.git
