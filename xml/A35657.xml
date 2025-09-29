@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A35657</idno>
+    <idno type="STC">Wing D1009</idno>
+    <idno type="STC">ESTC R15850</idno>
+    <idno type="EEBO-CITATION">11725164</idno>
+    <idno type="OCLC">ocm 11725164</idno>
+    <idno type="VID">48377</idno>
+    <idno type="PROQUESTGOID">2240904924</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A35657.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,11 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 March (TCP phase 1)</date>
-      <idno type="marc">11725164</idno>
-      <idno type="stc">Wing D1009.</idno>
-      <idno type="vid">48377</idno>
-      <idno type="DLPS">A35657</idno>
-      <idno type="PROQUESTGOID">2240904924</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -1271,7 +1272,7 @@
        </l>
        <l xml:id="A35657-e101200">
         <w lemma="yet" pos="av" xml:id="A35657-005-a-0940">Yet</w>
-        <w lemma="neither" pos="dx" xml:id="A35657-005-a-0950">neither</w>
+        <w lemma="neither" pos="avx-d" xml:id="A35657-005-a-0950">neither</w>
         <w lemma="temper" pos="n2" xml:id="A35657-005-a-0960">tempers</w>
         <pc xml:id="A35657-005-a-0970">,</pc>
         <w lemma="nor" pos="ccx" xml:id="A35657-005-a-0980">nor</w>
@@ -1325,7 +1326,7 @@
         <w lemma="hour" pos="n2" reg="hours" xml:id="A35657-005-a-1340">houres</w>
         <pc xml:id="A35657-005-a-1350">,</pc>
         <w lemma="may" pos="vmd" xml:id="A35657-005-a-1360">might</w>
-        <w lemma="best" pos="av-j" xml:id="A35657-005-a-1370">best</w>
+        <w lemma="best" pos="avs-j" xml:id="A35657-005-a-1370">best</w>
         <w lemma="acquaint" pos="vvi" xml:id="A35657-005-a-1380">acquaint</w>
         <w lemma="he" pos="pno" xml:id="A35657-005-a-1390">him</w>
         <w lemma="with" pos="acp" xml:id="A35657-005-a-1400">with</w>
@@ -11424,7 +11425,7 @@
         <w lemma="life" pos="n1" xml:id="A35657-013-b-3760">life</w>
         <pc xml:id="A35657-013-b-3770">:</pc>
         <w lemma="but" pos="acp" xml:id="A35657-013-b-3780">But</w>
-        <w lemma="neither" pos="dx" xml:id="A35657-013-b-3790">neither</w>
+        <w lemma="neither" pos="avx-d" xml:id="A35657-013-b-3790">neither</w>
         <w lemma="prayer" pos="n2" xml:id="A35657-013-b-3800">prayers</w>
         <w lemma="nor" pos="ccx" xml:id="A35657-013-b-3810">nor</w>
         <w lemma="power" pos="n1" xml:id="A35657-013-b-3820">power</w>
@@ -13577,7 +13578,7 @@
         <w lemma="look" pos="n2" reg="looks" xml:id="A35657-015-b-1920">lookes</w>
         <pc xml:id="A35657-015-b-1930">,</pc>
         <w lemma="and" pos="cc" xml:id="A35657-015-b-1940">and</w>
-        <w join="right" lemma="make" pos="vvb" reg="make" xml:id="A35657-015-b-1950">make</w>
+        <w join="right" lemma="make" pos="vvb" xml:id="A35657-015-b-1950">make</w>
         <w join="left" lemma="they" pos="pno" xml:id="A35657-015-b-1951">'em</w>
         <w lemma="walk" pos="vvi" reg="walk" xml:id="A35657-015-b-1960">walke</w>
         <w lemma="in" pos="acp" xml:id="A35657-015-b-1970">in</w>
@@ -18808,7 +18809,7 @@
       </l>
       <l xml:id="A35657-e119150">
        <w lemma="since" pos="acp" xml:id="A35657-020-a-0620">Since</w>
-       <w lemma="neither" pos="dx" xml:id="A35657-020-a-0630">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A35657-020-a-0630">neither</w>
        <w lemma="all" pos="d" xml:id="A35657-020-a-0640">all</w>
        <w lemma="his" pos="po" xml:id="A35657-020-a-0650">his</w>
        <w lemma="fury" pos="n1" reg="fury" xml:id="A35657-020-a-0660">furie</w>
@@ -21558,7 +21559,7 @@
        <w lemma="be" pos="vvb" xml:id="A35657-022-a-3700">Are</w>
        <w lemma="not" pos="xx" xml:id="A35657-022-a-3710">not</w>
        <w lemma="subject" pos="n2" xml:id="A35657-022-a-3720">Subjects</w>
-       <w lemma="worthy" pos="av-j" xml:id="A35657-022-a-3730">worthy</w>
+       <w lemma="worthy" pos="j" xml:id="A35657-022-a-3730">worthy</w>
        <w lemma="a" pos="d" xml:id="A35657-022-a-3740">a</w>
        <w lemma="prince" pos="ng1" reg="PRINCE's" xml:id="A35657-022-a-3750">Princes</w>
        <w lemma="anger" pos="n1" xml:id="A35657-022-a-3760">anger</w>
@@ -22916,7 +22917,7 @@
        <w lemma="innocence" pos="n1" xml:id="A35657-023-b-1210">innocence</w>
        <w lemma="to" pos="acp" xml:id="A35657-023-b-1220">to</w>
        <w join="right" lemma="the" pos="d" xml:id="A35657-023-b-1230">th'</w>
-       <w join="left" lemma="other" pos="j" xml:id="A35657-023-b-1231">other</w>
+       <w join="left" lemma="other" pos="d" xml:id="A35657-023-b-1231">other</w>
        <w lemma="world" pos="n1" xml:id="A35657-023-b-1240">world</w>
        <pc xml:id="A35657-023-b-1250">,</pc>
        <w lemma="and" pos="cc" xml:id="A35657-023-b-1260">and</w>

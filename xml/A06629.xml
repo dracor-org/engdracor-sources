@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A06629</idno>
+    <idno type="STC">STC 17090</idno>
+    <idno type="STC">ESTC S109746</idno>
+    <idno type="EEBO-CITATION">99845392</idno>
+    <idno type="PROQUEST">99845392</idno>
+    <idno type="VID">10289</idno>
+    <idno type="PROQUESTGOID">2240866577</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A06629.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2004 August (TCP phase 1)</date>
-      <idno type="marc">99845392</idno>
-      <idno type="stc">STC (2nd ed.) 17090.</idno>
-      <idno type="stc">Greg, I, 144.</idno>
-      <idno type="vid">10289</idno>
-      <idno type="DLPS">A06629</idno>
-      <idno type="PROQUESTGOID">2240866577</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -22749,7 +22749,7 @@
         <w lemma="now" pos="av" xml:id="A06629-026-b-2640">Now</w>
         <w lemma="follow" pos="vvb" xml:id="A06629-026-b-2650">follow</w>
         <w lemma="i" pos="pno" xml:id="A06629-026-b-2660">me</w>
-        <w lemma="you" pos="pn" reg="ye" xml:id="A06629-026-b-2670">ye</w>
+        <w lemma="you" pos="pn" xml:id="A06629-026-b-2670">ye</w>
         <w lemma="wander" pos="j-vg" reg="wandering" xml:id="A06629-026-b-2680">wandring</w>
         <w lemma="light" pos="n2" reg="lights" xml:id="A06629-026-b-2690">lightes</w>
         <w lemma="of" pos="acp" xml:id="A06629-026-b-2700">of</w>

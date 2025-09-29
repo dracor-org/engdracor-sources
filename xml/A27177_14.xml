@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A27177</idno>
+    <idno type="STC">Wing B1581</idno>
+    <idno type="STC">ESTC R22900</idno>
+    <idno type="EEBO-CITATION">12491932</idno>
+    <idno type="OCLC">ocm 12491932</idno>
+    <idno type="VID">52257</idno>
+    <idno type="PROQUESTGOID">2240940222</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A27177_14.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,11 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2001</date>
-      <idno type="marc">12491932</idno>
-      <idno type="stc">Wing B1581.</idno>
-      <idno type="vid">52257</idno>
-      <idno type="DLPS">A27177</idno>
-      <idno type="PROQUESTGOID">2240940222</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -402,7 +403,7 @@
         <w lemma="bid" pos="vvz" xml:id="A27177-376-01230">bids</w>
         <w lemma="we" pos="pno" xml:id="A27177-376-01240">us</w>
         <w lemma="be" pos="vvi" xml:id="A27177-376-01250">be</w>
-        <w lemma="wise" pos="j" xml:id="A27177-376-01260">wise</w>
+        <w lemma="neither" pos="avx-d" xml:id="A27177-376-01260">neither</w>
         <w lemma="and" pos="cc" xml:id="A27177-376-01270">and</w>
         <w lemma="circumspect" pos="j" xml:id="A27177-376-01280">circumspect</w>
         <pc unit="sentence" xml:id="A27177-376-01290">.</pc>
@@ -3445,7 +3446,7 @@
         <w join="right" lemma="let" pos="vvb" xml:id="A27177-379-02100">Let</w>
         <w join="left" lemma="we" pos="pno" xml:id="A27177-379-02101">'s</w>
         <w join="right" lemma="to" pos="acp" xml:id="A27177-379-02110">to</w>
-        <w join="left" lemma="the" pos="d" reg="th'" xml:id="A27177-379-02111">th'</w>
+        <w join="left" lemma="the" pos="d" xml:id="A27177-379-02111">th'</w>
         <w lemma="banquet" pos="n1" xml:id="A27177-379-02120">banquet</w>
         <pc xml:id="A27177-379-02130">,</pc>
        </l>
@@ -7405,7 +7406,7 @@
        </l>
        <l xml:id="A27177-e107420">
         <w lemma="where" pos="crq" xml:id="A27177-381-08450">Where</w>
-        <w lemma="neither" pos="dx" xml:id="A27177-381-08460">neither</w>
+        <w lemma="neither" pos="avx-d" xml:id="A27177-381-08460">neither</w>
         <w lemma="light" pos="n1" xml:id="A27177-381-08470">light</w>
         <w lemma="or" pos="cc" xml:id="A27177-381-08480">or</w>
         <w lemma="comfort" pos="n1" xml:id="A27177-381-08490">comfort</w>
@@ -11600,7 +11601,7 @@
        <w lemma="his" pos="po" xml:id="A27177-384-02830">his</w>
        <w lemma="company" pos="n1" xml:id="A27177-384-02840">company</w>
        <w lemma="break" pos="vvg" xml:id="A27177-384-02850">breaking</w>
-       <w lemma="open" pos="av-j" xml:id="A27177-384-02860">open</w>
+       <w lemma="open" pos="j" xml:id="A27177-384-02860">open</w>
        <w lemma="a" pos="d" xml:id="A27177-384-02870">a</w>
        <w lemma="door" pos="n1" reg="door" xml:id="A27177-384-02880">doore</w>
        <pc unit="sentence" xml:id="A27177-384-02890">.</pc>
@@ -16523,7 +16524,7 @@
        <w lemma="a" pos="d" xml:id="A27177-387-01950">a</w>
        <w lemma="sigh" pos="n1" xml:id="A27177-387-01960">sigh</w>
        <w lemma="will" pos="vmd" reg="would" xml:id="A27177-387-01970">wou'd</w>
-       <w lemma="have" pos="vvi" reg="ha'" xml:id="A27177-387-01980">a</w>
+       <w lemma="a" pos="d" xml:id="A27177-387-01980">a</w>
        <w lemma="set" pos="vvn" xml:id="A27177-387-01990">set</w>
        <w lemma="a" pos="d" xml:id="A27177-387-02000">a</w>
        <w lemma="ship" pos="n1" xml:id="A27177-387-02010">ship</w>
@@ -17155,7 +17156,7 @@
         <w lemma="have" pos="vvz" xml:id="A27177-387-06500">Has</w>
         <w lemma="he" pos="pns" xml:id="A27177-387-06510">he</w>
         <w lemma="not" pos="xx" xml:id="A27177-387-06520">not</w>
-        <w lemma="do" pos="vvi" xml:id="A27177-387-06530">done</w>
+        <w lemma="do" pos="vvn" xml:id="A27177-387-06530">done</w>
         <w lemma="a" pos="d" xml:id="A27177-387-06540">a</w>
         <w lemma="brave" pos="j" xml:id="A27177-387-06550">brave</w>
         <w lemma="thing" pos="n1" xml:id="A27177-387-06560">thing</w>
@@ -25947,7 +25948,7 @@
         <pc xml:id="A27177-392-09880">,</pc>
        </l>
        <l xml:id="A27177-e126040">
-        <w lemma="ne" pos="ccx" reg="x" xml:id="A27177-392-09890">Ne</w>
+        <w lemma="ne" pos="ccx" xml:id="A27177-392-09890">Ne</w>
         <pc xml:id="A27177-392-09900">,</pc>
         <w lemma="our" pos="po" xml:id="A27177-392-09910">our</w>
         <w lemma="devotion" pos="n2" xml:id="A27177-392-09920">devotions</w>
@@ -33902,7 +33903,7 @@
         <w lemma="be" pos="vvb" xml:id="A27177-397-08030">be</w>
         <w lemma="not" pos="xx" xml:id="A27177-397-08040">not</w>
         <w lemma="too" pos="av" xml:id="A27177-397-08050">too</w>
-        <w lemma="hard" pos="av-j" xml:id="A27177-397-08060">hard</w>
+        <w lemma="hard" pos="j" xml:id="A27177-397-08060">hard</w>
         <w lemma="for" pos="acp" xml:id="A27177-397-08070">for</w>
         <w lemma="their" pos="po" xml:id="A27177-397-08080">their</w>
         <w lemma="tooth" pos="n2" xml:id="A27177-397-08090">teeth</w>

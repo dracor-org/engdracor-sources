@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A09232</idno>
+    <idno type="STC">STC 19545</idno>
+    <idno type="STC">ESTC S110404</idno>
+    <idno type="EEBO-CITATION">99845956</idno>
+    <idno type="PROQUEST">99845956</idno>
+    <idno type="VID">10889</idno>
+    <idno type="PROQUESTGOID">2240929239</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A09232.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99845956</idno>
-      <idno type="stc">STC (2nd ed.) 19545.</idno>
-      <idno type="stc">Greg, I, 137.</idno>
-      <idno type="vid">10889</idno>
-      <idno type="DLPS">A09232</idno>
-      <idno type="PROQUESTGOID">2240929239</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -3041,7 +3041,7 @@
       <pc xml:id="A09232-007-a-1480">,</pc>
       <w lemma="or" pos="cc" xml:id="A09232-007-a-1490">or</w>
       <w lemma="live" pos="vvd" reg="lived" xml:id="A09232-007-a-1500">liued</w>
-      <w lemma="nigh" pos="av-j" xml:id="A09232-007-a-1510">nigh</w>
+      <w lemma="nigh" pos="acp" xml:id="A09232-007-a-1510">nigh</w>
       <w lemma="she" pos="pno" xml:id="A09232-007-a-1520">her</w>
       <pc xml:id="A09232-007-a-1530">,</pc>
       <w lemma="you" pos="pn" xml:id="A09232-007-a-1540">you</w>
@@ -4617,7 +4617,7 @@
       <w lemma="my" pos="po" xml:id="A09232-010-a-0010">My</w>
       <w lemma="mother" pos="n1" xml:id="A09232-010-a-0020">mother</w>
       <w lemma="Meroe" pos="nn1" rend="hi" xml:id="A09232-010-a-0030">Meroe</w>
-      <w lemma="hight" pos="vvd" reg="hight" xml:id="A09232-010-a-0040">hight</w>
+      <w lemma="hight" pos="vvd" xml:id="A09232-010-a-0040">hight</w>
       <w lemma="a" pos="d" xml:id="A09232-010-a-0050">a</w>
       <w lemma="famous" pos="j" xml:id="A09232-010-a-0060">famous</w>
       <w lemma="witch" pos="n1" xml:id="A09232-010-a-0070">Witch</w>
@@ -5788,7 +5788,7 @@
       <w lemma="she" pos="pns" xml:id="A09232-011-b-1050">she</w>
       <w join="right" lemma="that" pos="cs" xml:id="A09232-011-b-1060">that</w>
       <w join="left" lemma="be" pos="vvz" xml:id="A09232-011-b-1061">'s</w>
-      <w lemma="neither" pos="dx" xml:id="A09232-011-b-1070">neither</w>
+      <w lemma="neither" pos="avx-d" xml:id="A09232-011-b-1070">neither</w>
       <w lemma="wife" pos="n1" xml:id="A09232-011-b-1080">wife</w>
       <pc xml:id="A09232-011-b-1090">,</pc>
       <w lemma="widow" pos="n1" xml:id="A09232-011-b-1100">widow</w>
@@ -6255,7 +6255,7 @@
      <p xml:id="A09232-e104410">
       <w lemma="you" pos="pn" xml:id="A09232-012-a-2210">You</w>
       <w lemma="whoreson" pos="n1" xml:id="A09232-012-a-2220">whoreson</w>
-      <w lemma="sodden" pos="j" xml:id="A09232-012-a-2230">sodden</w>
+      <w lemma="sodden" pos="vvn" xml:id="A09232-012-a-2230">sodden</w>
       <w lemma="head" pos="j-vn" xml:id="A09232-012-a-2240">headed</w>
       <w lemma="sheeps-face" pos="n1" reg="sheeps-face" xml:id="A09232-012-a-2250">sheepes-face</w>
       <pc xml:id="A09232-012-a-2260">,</pc>
@@ -8844,7 +8844,7 @@
       <w lemma="with" pos="acp" xml:id="A09232-016-b-0590">with</w>
       <w lemma="a" pos="d" xml:id="A09232-016-b-0600">a</w>
       <w lemma="sulphurous" pos="j" reg="sulphuroous" xml:id="A09232-016-b-0610">sulpherous</w>
-      <w lemma="huff" pos="n1" reg="huff" xml:id="A09232-016-b-0620">huffe</w>
+      <w lemma="huff" pos="n1" reg="huff" xml:id="A09232-016-b-0620">husse</w>
       <w lemma="snuff" pos="n1" reg="snuff" xml:id="A09232-016-b-0630">snuffe</w>
       <pc xml:id="A09232-016-b-0640">:</pc>
      </l>
@@ -9246,7 +9246,7 @@
       <w lemma="crimson" pos="j" xml:id="A09232-017-a-1810">crimson</w>
       <w lemma="chin" pos="n1" reg="chin" xml:id="A09232-017-a-1820">chinne</w>
       <pc xml:id="A09232-017-a-1830">:</pc>
-      <w lemma="n/a" pos="fmi" xml:id="A09232-017-a-1840">ka</w>
+      <w lemma="ka" pos="sy" xml:id="A09232-017-a-1840">ka</w>
       <w lemma="wilshaw" pos="zz" xml:id="A09232-017-a-1850">wilshaw</w>
       <pc unit="sentence" xml:id="A09232-017-a-1860">.</pc>
      </p>
@@ -11561,7 +11561,7 @@
       <w lemma="she" pos="pns" xml:id="A09232-020-b-2500">she</w>
       <w lemma="that" pos="cs" xml:id="A09232-020-b-2510">that</w>
       <w lemma="be" pos="vvz" xml:id="A09232-020-b-2520">is</w>
-      <w lemma="neither" pos="dx" xml:id="A09232-020-b-2530">neither</w>
+      <w lemma="neither" pos="avx-d" xml:id="A09232-020-b-2530">neither</w>
       <w lemma="maid" pos="n1" reg="maid" xml:id="A09232-020-b-2540">maide</w>
       <pc xml:id="A09232-020-b-2550">,</pc>
       <pb facs="tcp:10889:21" xml:id="A09232-021-a"/>
@@ -12307,7 +12307,7 @@
       <w lemma="let" pos="vvb" xml:id="A09232-022-a-1350">let</w>
       <w lemma="i" pos="pno" reg="me" xml:id="A09232-022-a-1360">mee</w>
       <w lemma="have" pos="vvi" reg="have" xml:id="A09232-022-a-1370">haue</w>
-      <w lemma="half" pos="av-j" reg="half" xml:id="A09232-022-a-1380">halfe</w>
+      <w lemma="half" pos="n1" xml:id="A09232-022-a-1380">halfe</w>
       <w lemma="of" pos="acp" xml:id="A09232-022-a-1390">of</w>
       <w lemma="she" pos="pno" xml:id="A09232-022-a-1400">her</w>
       <w lemma="present" pos="av-j" xml:id="A09232-022-a-1410">presently</w>

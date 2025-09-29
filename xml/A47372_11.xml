@@ -8,7 +8,7 @@
     <author>Killigrew, Thomas</author>
    </titleStmt>
    <editionStmt>
-    <edition n="0.5">The text of this play is part of an enriched version of the TCP digital transcription A47372_11 of text R7715 in the <ref target="http://estc.bl.uk">English Short Title Catalog</ref> (Wing K450). Textual changes  and metadata enrichments aim at making the text more  computationally tractable, easier to read, and suitable for network-based collaborative curation by amateur and professional end users from many walks of life.  The text has been tokenized and linguistically annotated with <ref target="http://morphadorner.northwestern.edu/morphadorner/">MorphAdorner</ref>. The annotation includes standard spellings that support the display of a text in a standardized format that preserves archaic forms ('loveth', 'seekest'). Textual changes aim at restoring the text the author or stationer meant to publish.</edition>
+    <edition n="0.5">The text of this play is part of an enriched version of the TCP digital transcriptionA47372_11 of text R7715 in the <ref target="http://estc.bl.uk">English Short Title Catalog</ref> (Wing K450). Textual changes  and metadata enrichments aim at making the text more  computationally tractable, easier to read, and suitable for network-based collaborative curation by amateur and professional end users from many walks of life.  The text has been tokenized and linguistically annotated with <ref target="http://morphadorner.northwestern.edu/morphadorner/">MorphAdorner</ref>. The annotation includes standard spellings that support the display of a text in a standardized format that preserves archaic forms ('loveth', 'seekest'). Textual changes aim at restoring the text the author or stationer meant to publish.</edition>
     <editor>Martin Mueller</editor>
     <respStmt>
      <resp>Incompletely or incorrectly transcribed words were reviewed and in many cases fixed by</resp>
@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A47372</idno>
+    <idno type="STC">Wing K450</idno>
+    <idno type="STC">ESTC R7715</idno>
+    <idno type="EEBO-CITATION">12417588</idno>
+    <idno type="OCLC">ocm 12417588</idno>
+    <idno type="VID">61734</idno>
+    <idno type="PROQUESTGOID">2240958636</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A47372_11.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,11 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2004 November (TCP phase 1)</date>
-      <idno type="marc">12417588</idno>
-      <idno type="stc">Wing K450.</idno>
-      <idno type="vid">61734</idno>
-      <idno type="DLPS">A47372</idno>
-      <idno type="PROQUESTGOID">2240958636</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -92,7 +93,6 @@
     <ep:tcp>A47372</ep:tcp>
     <ep:estc>R7715</ep:estc>
     <ep:stc> (Wing K450). </ep:stc>
-    <ep:pageCount>35</ep:pageCount>
     <ep:wordCount>18645</ep:wordCount>
     <ep:untranscribedForeignCount>0</ep:untranscribedForeignCount>
     <ep:untranscribedMathCount>0</ep:untranscribedMathCount>
@@ -100,7 +100,7 @@
     <ep:defectiveTokenCount>0</ep:defectiveTokenCount>
     <ep:missingChunkCount>0</ep:missingChunkCount>
     <ep:missingPagesCount>0</ep:missingPagesCount>
-    <ep:defectRate>0</ep:defectRate>
+    <ep:defectRate>0.00</ep:defectRate>
     <ep:finalGrade>A</ep:finalGrade>
     <ep:defectRangePerGrade>This text  has no known defects that were recorded as gap elements at the time of transcription. </ep:defectRangePerGrade>
    </ep:epHeader>
@@ -1754,7 +1754,7 @@
        <w lemma="how" pos="crq" xml:id="A47372-310-b-2360">How</w>
        <w lemma="do" pos="vvb" xml:id="A47372-310-b-2370">do</w>
        <w lemma="I" pos="pns" xml:id="A47372-310-b-2380">I</w>
-       <w join="right" lemma="know" pos="vvi" reg="know" xml:id="A47372-310-b-2390">know</w>
+       <w join="right" lemma="know" pos="vvi" xml:id="A47372-310-b-2390">know</w>
        <w join="left" lemma="they" pos="pno" xml:id="A47372-310-b-2391">'em</w>
        <pc xml:id="A47372-310-b-2400">?</pc>
        <w lemma="several" pos="j" xml:id="A47372-310-b-2410">several</w>
@@ -5635,7 +5635,7 @@
        <w lemma="low" pos="j" xml:id="A47372-313-b-0160">low</w>
        <w lemma="that" pos="cs" xml:id="A47372-313-b-0170">that</w>
        <w lemma="we" pos="pns" xml:id="A47372-313-b-0180">we</w>
-       <w join="right" lemma="esteem" pos="vvb" reg="esteem" xml:id="A47372-313-b-0190">esteem</w>
+       <w join="right" lemma="esteem" pos="vvb" xml:id="A47372-313-b-0190">esteem</w>
        <w join="left" lemma="they" pos="pno" xml:id="A47372-313-b-0191">'em</w>
        <w lemma="less" pos="dc" xml:id="A47372-313-b-0200">less</w>
        <w lemma="than" pos="cs" xml:id="A47372-313-b-0210">than</w>
@@ -5649,7 +5649,7 @@
        <pc xml:id="A47372-313-b-0290">;</pc>
        <w lemma="can" pos="vmb" xml:id="A47372-313-b-0300">Can</w>
        <w lemma="you" pos="pn" xml:id="A47372-313-b-0310">you</w>
-       <w join="right" lemma="leave" pos="vvb" reg="leave" xml:id="A47372-313-b-0320">leave</w>
+       <w join="right" lemma="leave" pos="vvb" xml:id="A47372-313-b-0320">leave</w>
        <w join="left" lemma="they" pos="pno" xml:id="A47372-313-b-0321">'em</w>
        <w lemma="like" pos="acp" xml:id="A47372-313-b-0330">like</w>
        <w lemma="dog" pos="n2" xml:id="A47372-313-b-0340">Dogs</w>
@@ -5923,7 +5923,7 @@
        <pc unit="sentence" xml:id="A47372-313-b-2640"/>
       </speaker>
       <p xml:id="A47372-e103870">
-       <w lemma="cousin" pos="n1" reg="x" xml:id="A47372-313-b-2650">Cosin</w>
+       <w lemma="cousin" pos="n1" xml:id="A47372-313-b-2650">Cosin</w>
        <w lemma="Philon" pos="nn1" rend="hi" xml:id="A47372-313-b-2660">Philon</w>
        <pc rend="hi" xml:id="A47372-313-b-2670">,</pc>
        <w lemma="pray" pos="vvb" xml:id="A47372-313-b-2680">pray</w>
@@ -10492,7 +10492,7 @@
        <w lemma="this" pos="d" xml:id="A47372-317-a-2530">this</w>
        <w lemma="day" pos="n1" xml:id="A47372-317-a-2540">day</w>
        <pc xml:id="A47372-317-a-2550">,</pc>
-       <w join="right" lemma="inquire" pos="vvb" reg="inquire" xml:id="A47372-317-a-2560">inquire</w>
+       <w join="right" lemma="inquire" pos="vvb" xml:id="A47372-317-a-2560">inquire</w>
        <w join="left" lemma="they" pos="pno" xml:id="A47372-317-a-2561">'em</w>
        <w lemma="out" pos="av" xml:id="A47372-317-a-2570">out</w>
        <pc xml:id="A47372-317-a-2580">,</pc>
@@ -20119,7 +20119,7 @@
        <w lemma="will" pos="vmb" xml:id="A47372-323-b-5360">will</w>
        <w lemma="steer" pos="vvi" xml:id="A47372-323-b-5370">steer</w>
        <w lemma="his" pos="po" xml:id="A47372-323-b-5380">his</w>
-       <w lemma="desperate" pos="j" reg="" xml:id="A47372-323-b-5390">desp'rate</w>
+       <w lemma="desperate" pos="j" xml:id="A47372-323-b-5390">desp'rate</w>
        <w lemma="course" pos="n1" xml:id="A47372-323-b-5400">Course</w>
        <w lemma="to" pos="acp" xml:id="A47372-323-b-5410">to</w>
        <pc unit="sentence" xml:id="A47372-323-b-5420">.</pc>

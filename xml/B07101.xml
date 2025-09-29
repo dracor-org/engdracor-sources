@@ -23,10 +23,17 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">B07101</idno>
+    <idno type="STC">STC 22458.5</idno>
+    <idno type="STC">STC 22459A</idno>
+    <idno type="STC">ESTC S124199</idno>
+    <idno type="EEBO-CITATION">99852443</idno>
+    <idno type="PROQUEST">ocm99852443</idno>
+    <idno type="VID">178306</idno>
+    <idno type="PROQUESTGOID">2240943947</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">B07101.xml</idno>
    </publicationStmt>
    <seriesStmt>
     <title>Early English books online.</title>
@@ -42,12 +49,6 @@
       <publisher>University of Michigan Library</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2011 December (TCP phase 2)</date>
-      <idno type="DLPS">B07101</idno>
-      <idno type="vid">178306</idno>
-      <idno type="stc">22458.5</idno>
-      <idno type="stc">22459A</idno>
-      <idno type="bibno">(UnM)99852443</idno>
-      <idno type="PROQUESTGOID">2240943947</idno>
       <availability>
        <p>Where applicable, subject to copyright. Other restrictions on distribution may apply. Please go to http://www.umdl.umich.edu/ for more information.</p>
       </availability>
@@ -3182,7 +3183,7 @@
        <w lemma="no" pos="dx" xml:id="B07101-008-b-0690">No</w>
        <w lemma="antimasque" pos="n1" xml:id="B07101-008-b-0700">Antimasque</w>
        <pc xml:id="B07101-008-b-0710">?</pc>
-       <w join="right" lemma="i" pos="pns" reg="I" xml:id="B07101-008-b-0720">i</w>
+       <w join="right" lemma="i" pos="pns" xml:id="B07101-008-b-0720">i</w>
        <w join="left" lemma="will" pos="vmd" reg="'d" xml:id="B07101-008-b-0721">de</w>
        <w lemma="laugh" pos="vvi" xml:id="B07101-008-b-0730">laugh</w>
        <w lemma="at" pos="acp" xml:id="B07101-008-b-0740">at</w>
@@ -3218,7 +3219,7 @@
        <pc unit="sentence" xml:id="B07101-008-b-0920">.</pc>
       </l>
       <l xml:id="B07101-e101500">
-       <w join="right" lemma="bid" pos="vvb" reg="bid" xml:id="B07101-008-b-0930">Bid</w>
+       <w join="right" lemma="bid" pos="vvb" xml:id="B07101-008-b-0930">Bid</w>
        <w join="left" lemma="they" pos="pno" xml:id="B07101-008-b-0931">'em</w>
        <w lemma="down" pos="acp" reg="down" xml:id="B07101-008-b-0940">downe</w>
        <w lemma="with" pos="acp" xml:id="B07101-008-b-0950">with</w>
@@ -3909,7 +3910,7 @@
        <w lemma="of" pos="acp" xml:id="B07101-009-b-0820">of</w>
        <w lemma="peace" pos="n1" xml:id="B07101-009-b-0830">peace</w>
        <pc xml:id="B07101-009-b-0840">,</pc>
-       <w join="right" lemma="i" pos="pns" reg="I" xml:id="B07101-009-b-0850">i</w>
+       <w join="right" lemma="i" pos="pns" xml:id="B07101-009-b-0850">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="B07101-009-b-0851">le</w>
        <w lemma="fit" pos="vvi" xml:id="B07101-009-b-0860">fit</w>
        <w lemma="you" pos="pn" xml:id="B07101-009-b-0870">you</w>
@@ -3968,7 +3969,7 @@
        <w lemma="good" pos="j" xml:id="B07101-009-b-1220">good</w>
        <w lemma="fellowship" pos="n1" xml:id="B07101-009-b-1230">fellowship</w>
        <pc xml:id="B07101-009-b-1240">,</pc>
-       <w join="right" lemma="i" pos="pns" reg="I" xml:id="B07101-009-b-1250">i</w>
+       <w join="right" lemma="i" pos="pns" xml:id="B07101-009-b-1250">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="B07101-009-b-1251">le</w>
        <w lemma="present" pos="vvi" xml:id="B07101-009-b-1260">present</w>
        <w lemma="you" pos="pn" xml:id="B07101-009-b-1270">you</w>
@@ -8029,7 +8030,7 @@
        <w lemma="down" pos="acp" reg="down" xml:id="B07101-017-a-0350">downe</w>
        <pc xml:id="B07101-017-a-0360">,</pc>
        <w lemma="and" pos="cc" xml:id="B07101-017-a-0370">and</w>
-       <w join="right" lemma="i" pos="pns" reg="I" xml:id="B07101-017-a-0380">i</w>
+       <w join="right" lemma="i" pos="pns" xml:id="B07101-017-a-0380">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="B07101-017-a-0381">le</w>
        <w lemma="bring" pos="vvi" xml:id="B07101-017-a-0390">bring</w>
        <w lemma="he" pos="pno" xml:id="B07101-017-a-0400">him</w>

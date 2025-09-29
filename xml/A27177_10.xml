@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A27177</idno>
+    <idno type="STC">Wing B1581</idno>
+    <idno type="STC">ESTC R22900</idno>
+    <idno type="EEBO-CITATION">12491932</idno>
+    <idno type="OCLC">ocm 12491932</idno>
+    <idno type="VID">52257</idno>
+    <idno type="PROQUESTGOID">2240940222</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A27177_10.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,11 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2001</date>
-      <idno type="marc">12491932</idno>
-      <idno type="stc">Wing B1581.</idno>
-      <idno type="vid">52257</idno>
-      <idno type="DLPS">A27177</idno>
-      <idno type="PROQUESTGOID">2240940222</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -9072,7 +9073,7 @@
          <w lemma="n/a" pos="fla" xml:id="A27177-288-07230">Exit</w>
          <w lemma="duke" pos="n1" xml:id="A27177-288-07240">Duke</w>
          <pc xml:id="A27177-288-07250">,</pc>
-         <w lemma="etc" pos="ab" reg="etc." xml:id="A27177-288-07260">&amp;c.</w>
+         <w lemma="etc." pos="ab" reg="etc." xml:id="A27177-288-07260">&amp;c.</w>
          <w lemma="enter" pos="vvb" xml:id="A27177-288-07270">Enter</w>
          <w lemma="Fredrick" pos="nn1" xml:id="A27177-288-07280">Fredrick</w>
          <pc unit="sentence" xml:id="A27177-288-07290">.</pc>
@@ -11780,7 +11781,7 @@
        <l xml:id="A27177-e113020">
         <w lemma="o" pos="uh" rend="hi" xml:id="A27177-290-03360">O</w>
         <w lemma="n/a" pos="fes" rend="hi" xml:id="A27177-290-03370">de</w>
-        <w lemma="n/a" pos="fmi" rend="hi" xml:id="A27177-290-03380">dios</w>
+        <w lemma="n/a" pos="fro" rend="hi" xml:id="A27177-290-03380">dios</w>
         <pc rend="hi" unit="sentence" xml:id="A27177-290-03390">.</pc>
        </l>
       </sp>
@@ -24232,7 +24233,7 @@
         <w lemma="every" pos="d" xml:id="A27177-298-00040">every</w>
         <w lemma="street" pos="n1" xml:id="A27177-298-00050">street</w>
         <pc xml:id="A27177-298-00060">,</pc>
-        <w lemma="n/a" pos="fmi" xml:id="A27177-298-00070">Tom</w>
+        <w lemma="tom" pos="nn1" xml:id="A27177-298-00070">Tom</w>
         <w lemma="fool" pos="n1" reg="fool" xml:id="A27177-298-00080">foole</w>
         <pc xml:id="A27177-298-00090">,</pc>
         <w lemma="any" pos="d" xml:id="A27177-298-00100">any</w>
@@ -24676,7 +24677,7 @@
        </l>
        <l xml:id="A27177-e127930">
         <w lemma="a" pos="d" xml:id="A27177-298-03270">A</w>
-        <w lemma="palate" pos="n1" reg="" xml:id="A27177-298-03280">pallat</w>
+        <w lemma="palate" pos="n1" xml:id="A27177-298-03280">pallat</w>
         <w lemma="for" pos="acp" xml:id="A27177-298-03290">for</w>
         <w lemma="the" pos="d" xml:id="A27177-298-03300">the</w>
         <w lemma="purpose" pos="n1" xml:id="A27177-298-03310">purpose</w>
@@ -30842,7 +30843,7 @@
         <w lemma="find" pos="vvi" xml:id="A27177-302-00020">find</w>
         <w lemma="the" pos="d" xml:id="A27177-302-00030">the</w>
         <w lemma="keep" pos="n1-vg" xml:id="A27177-302-00040">keeping</w>
-        <w lemma="half" pos="av-j" reg="half" xml:id="A27177-302-00050">halfe</w>
+        <w lemma="half" pos="j" xml:id="A27177-302-00050">halfe</w>
         <w lemma="the" pos="d" xml:id="A27177-302-00060">the</w>
         <w lemma="get" pos="n1-vg" xml:id="A27177-302-00070">getting</w>
         <pc unit="sentence" xml:id="A27177-302-00080">.</pc>

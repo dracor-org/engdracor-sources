@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A01772</idno>
+    <idno type="STC">STC 11908</idno>
+    <idno type="STC">ESTC S103124</idno>
+    <idno type="EEBO-CITATION">99838881</idno>
+    <idno type="PROQUEST">99838881</idno>
+    <idno type="VID">3271</idno>
+    <idno type="PROQUESTGOID">2240876644</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A01772.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2004 March (TCP phase 1)</date>
-      <idno type="marc">99838881</idno>
-      <idno type="stc">STC (2nd ed.) 11908.</idno>
-      <idno type="stc">Greg, II, 557.</idno>
-      <idno type="vid">3271</idno>
-      <idno type="DLPS">A01772</idno>
-      <idno type="PROQUESTGOID">2240876644</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -742,7 +742,7 @@
        <w lemma="soldier" pos="n2" reg="soldiers" xml:id="A01772-004-a-2150">Souldiers</w>
        <w lemma="in" pos="acp" xml:id="A01772-004-a-2151">in</w>
        <w lemma="the" pos="d" xml:id="A01772-004-a-2160">the</w>
-       <w lemma="n/a" pos="fmi" xml:id="A01772-004-a-2170">van</w>
+       <w lemma="van" pos="nnp" xml:id="A01772-004-a-2170">van</w>
        <pc unit="sentence" xml:id="A01772-004-a-2180">.</pc>
        <w lemma="smooth" pos="j" xml:id="A01772-004-a-2190">Smooth</w>
        <w lemma="vow" pos="n2" reg="vows" xml:id="A01772-004-a-2200">vowes</w>
@@ -11106,7 +11106,7 @@
       <pc xml:id="A01772-018-a-1010">,</pc>
       <w lemma="cruel" pos="j" reg="cruel" xml:id="A01772-018-a-1020">cruell</w>
       <pc xml:id="A01772-018-a-1030">,</pc>
-      <w lemma="false" pos="j" reg="false" xml:id="A01772-018-a-1040">falfe</w>
+      <w lemma="false" pos="j" reg="false" xml:id="A01772-018-a-1040">false</w>
       <pc xml:id="A01772-018-a-1050">,</pc>
       <w lemma="unkind" pos="j" reg="unkind" xml:id="A01772-018-a-1060">unkinde</w>
       <pc xml:id="A01772-018-a-1070">,</pc>
@@ -13845,7 +13845,7 @@
       <w lemma="my" pos="po" xml:id="A01772-021-b-0180">my</w>
       <w lemma="most" pos="avs-d" xml:id="A01772-021-b-0190">most</w>
       <w lemma="honour" pos="vvn" reg="honoured" xml:id="A01772-021-b-0200">honor'd</w>
-      <w lemma="cousin" pos="n1" reg="x" xml:id="A01772-021-b-0210">Cosen</w>
+      <w lemma="cousin" pos="n1" xml:id="A01772-021-b-0210">Cosen</w>
       <pc xml:id="A01772-021-b-0220">,</pc>
       <w lemma="you" pos="pn" xml:id="A01772-021-b-0230">you</w>
       <w lemma="be" pos="vvb" xml:id="A01772-021-b-0240">are</w>
@@ -16685,7 +16685,7 @@
       <w lemma="the" pos="d" xml:id="A01772-025-a-2000">the</w>
       <w lemma="way" pos="n1" xml:id="A01772-025-a-2010">way</w>
       <w join="right" lemma="to" pos="acp" xml:id="A01772-025-a-2020">to</w>
-      <w join="left" lemma="the" pos="d" reg="th'" xml:id="A01772-025-a-2021">th'</w>
+      <w join="left" lemma="the" pos="d" xml:id="A01772-025-a-2021">th'</w>
       <w lemma="other" pos="pig2-d" reg="others'" xml:id="A01772-025-a-2030">others</w>
       <w lemma="funeral" pos="n1" reg="funeral" type="unclear" xml:id="A01772-025-a-2040">funerall</w>
       <pc unit="sentence" xml:id="A01772-025-a-2050">.</pc>
@@ -17066,7 +17066,7 @@
      </l>
     </sp>
     <stage xml:id="A01772-e117640">
-     <w lemma="die" pos="nn1" type="unclear" xml:id="A01772-025-b-1860">Dies</w>
+     <w lemma="die" pos="vvz" type="unclear" xml:id="A01772-025-b-1860">Dies</w>
      <pc unit="sentence" xml:id="A01772-025-b-1870">.</pc>
     </stage>
     <sp who="A01772-philarchus" xml:id="A01772-e117650">
@@ -20960,7 +20960,7 @@
        <w lemma="virtue" pos="n1" reg="virtue" xml:id="A01772-030-b-1850">vertue</w>
        <pc xml:id="A01772-030-b-1860">,</pc>
        <w lemma="beauty" pos="n1" xml:id="A01772-030-b-1870">beauty</w>
-       <w lemma="die" pos="vvn" reg="died" xml:id="A01772-030-b-1880">dyde</w>
+       <w lemma="die" pos="vvn" xml:id="A01772-030-b-1880">dyde</w>
        <pc unit="sentence" xml:id="A01772-030-b-1890">.</pc>
       </l>
      </lg>

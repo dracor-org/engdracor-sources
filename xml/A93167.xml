@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A93167</idno>
+    <idno type="STC">Wing S3461</idno>
+    <idno type="STC">ESTC R230011</idno>
+    <idno type="EEBO-CITATION">99895772</idno>
+    <idno type="PROQUEST">99895772</idno>
+    <idno type="VID">153343</idno>
+    <idno type="PROQUESTGOID">2240920162</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A93167.xml</idno>
    </publicationStmt>
    <seriesStmt>
     <title>Early English books online.</title>
@@ -43,12 +49,6 @@
       <publisher>University of Michigan Library</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2012 November (TCP phase 2)</date>
-      <idno type="DLPS">A93167</idno>
-      <idno type="vid">153343</idno>
-      <idno type="Aleph">5349894</idno>
-      <idno type="stc">Wing (CD-ROM, 1996) S3461</idno>
-      <idno type="bibno">(UnM)99895772e</idno>
-      <idno type="PROQUESTGOID">2240920162</idno>
       <availability>
        <p>Where applicable, subject to copyright. Other restrictions on distribution may apply. Please go to http://www.umdl.umich.edu/ for more information.</p>
       </availability>
@@ -16426,8 +16426,7 @@
      </sp>
      <stage xml:id="A93167-e117450">
       <w lemma="n/a" pos="fla" xml:id="A93167-024-a-1210">Exit</w>
-      <w lemma="Her" pos="pno" xml:id="A93167-024-a-1220">Her</w>
-      <pc unit="sentence" xml:id="A93167-024-a-1221">.</pc>
+      <w lemma="her." pos="ab" xml:id="A93167-024-a-1220">Her.</w>
      </stage>
      <stage xml:id="A93167-e117460">
       <w lemma="enter" pos="vvb" xml:id="A93167-024-a-1230">Enter</w>

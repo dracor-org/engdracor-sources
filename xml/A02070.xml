@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A02070</idno>
+    <idno type="STC">STC 12212</idno>
+    <idno type="STC">ESTC S105826</idno>
+    <idno type="EEBO-CITATION">99841552</idno>
+    <idno type="PROQUEST">99841552</idno>
+    <idno type="VID">6142</idno>
+    <idno type="PROQUESTGOID">2240854653</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A02070.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -38,12 +44,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99841552</idno>
-      <idno type="stc">STC (2nd ed.) 12212.</idno>
-      <idno type="stc">Greg, I, 158.</idno>
-      <idno type="vid">6142</idno>
-      <idno type="DLPS">A02070</idno>
-      <idno type="PROQUESTGOID">2240854653</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -3650,7 +3650,7 @@
       <w lemma="send" pos="vvi" xml:id="A02070-007-a-2580">send</w>
       <w lemma="she" pos="pno" xml:id="A02070-007-a-2590">her</w>
       <w lemma="the" pos="d" xml:id="A02070-007-a-2600">the</w>
-      <w lemma="pinner" pos="ng1" reg="pinner's" xml:id="A02070-007-a-2610">pinners</w>
+      <w lemma="pinner" pos="n2" reg="pinner's" xml:id="A02070-007-a-2610">pinners</w>
       <w lemma="head" pos="n1" xml:id="A02070-007-a-2620">head</w>
       <pc unit="sentence" xml:id="A02070-007-a-2630">.</pc>
      </l>
@@ -5607,7 +5607,7 @@
       <w lemma="after" pos="acp" xml:id="A02070-010-a-0750">after</w>
       <w lemma="fell" pos="j" xml:id="A02070-010-a-0760">fell</w>
       <w lemma="as" pos="acp" xml:id="A02070-010-a-0770">as</w>
-      <w lemma="hard" pos="av-j" xml:id="A02070-010-a-0780">hard</w>
+      <w lemma="hard" pos="j" xml:id="A02070-010-a-0780">hard</w>
       <w lemma="woo" pos="vvg" reg="a-wooing" xml:id="A02070-010-a-0790">a wooing</w>
       <pc xml:id="A02070-010-a-0800">,</pc>
      </l>
@@ -10448,7 +10448,7 @@
       <w lemma="high" pos="av-j" xml:id="A02070-017-b-1450">highly</w>
       <w lemma="gratify" pos="vvi" reg="gratify" xml:id="A02070-017-b-1460">gratifie</w>
       <w lemma="the" pos="d" xml:id="A02070-017-b-1470">the</w>
-      <w lemma="pinner" pos="ng1" reg="pinner's" xml:id="A02070-017-b-1480">pinners</w>
+      <w lemma="pinner" pos="n2" reg="pinner's" xml:id="A02070-017-b-1480">pinners</w>
       <w lemma="thought" pos="n2" xml:id="A02070-017-b-1490">thoughts</w>
       <pc unit="sentence" xml:id="A02070-017-b-1500">?</pc>
      </l>

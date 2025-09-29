@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A04656</idno>
+    <idno type="STC">STC 14779</idno>
+    <idno type="STC">ESTC S109198</idno>
+    <idno type="EEBO-CITATION">99844847</idno>
+    <idno type="PROQUEST">99844847</idno>
+    <idno type="VID">9693</idno>
+    <idno type="PROQUESTGOID">2240922058</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A04656.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99844847</idno>
-      <idno type="stc">STC (2nd ed.) 14779.</idno>
-      <idno type="stc">Greg, II, 407(a).</idno>
-      <idno type="vid">9693</idno>
-      <idno type="DLPS">A04656</idno>
-      <idno type="PROQUESTGOID">2240922058</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -398,7 +398,7 @@
        <w lemma="which" pos="crq" type="unclear" xml:id="A04656-002-b-1380">which</w>
        <w lemma="call" pos="vvd" reg="called" xml:id="A04656-002-b-1390">cald</w>
        <w lemma="〈◊〉" pos="zz" xml:id="A04656-002-b-1400">〈◊〉</w>
-       <w lemma="Dame●" pos="nn1" type="unclear" xml:id="A04656-002-b-1410">Dame●</w>
+       <w lemma="Dame●" pos="nn1" type="unclear" xml:id="A04656-002-b-1410">Dames</w>
        <w lemma="confe●" pos="n1" type="unclear" xml:id="A04656-002-b-1420">confe●</w>
        <w lemma="person" pos="n1" xml:id="A04656-002-b-1430">person</w>
        <w lemma="ciall" pos="zz" xml:id="A04656-002-b-1440">ciall</w>
@@ -1606,7 +1606,7 @@
       <pc xml:id="A04656-004-b-0520">,</pc>
       <w lemma="and" pos="cc" xml:id="A04656-004-b-0530">and</w>
       <pc xml:id="A04656-004-b-0540">,</pc>
-      <w lemma="from" orig="frō" pos="acp" reg="from" xml:id="A04656-004-b-0550">from</w>
+      <w lemma="from" orig="frō" pos="acp" xml:id="A04656-004-b-0550">from</w>
       <w lemma="what" pos="crq" xml:id="A04656-004-b-0560">what</w>
       <w lemma="hand" pos="n2" xml:id="A04656-004-b-0570">hands</w>
       <w lemma="they" pos="pns" xml:id="A04656-004-b-0580">they</w>
@@ -2266,14 +2266,14 @@
       <pc xml:id="A04656-005-b-0910">,</pc>
       <w lemma="show" pos="vvb" reg="show" xml:id="A04656-005-b-0920">shew</w>
       <w lemma="their" pos="po" xml:id="A04656-005-b-0930">their</w>
-      <w lemma="concoction" orig="concoctiō" pos="n1" reg="concoction" xml:id="A04656-005-b-0940">concoction</w>
+      <w lemma="concoction" orig="concoctiō" pos="n1" xml:id="A04656-005-b-0940">concoction</w>
       <pc unit="sentence" xml:id="A04656-005-b-0950">.</pc>
      </l>
      <l xml:id="A04656-e102250">
       <w lemma="they" pos="pns" xml:id="A04656-005-b-0960">They</w>
       <w lemma="must" pos="vmb" xml:id="A04656-005-b-0970">must</w>
       <w lemma="be" pos="vvi" xml:id="A04656-005-b-0980">be</w>
-      <w lemma="rot" orig="rottē" pos="vvn" reg="rotten" xml:id="A04656-005-b-0990">rotten</w>
+      <w lemma="rot" orig="rottē" pos="vvn" xml:id="A04656-005-b-0990">rotten</w>
       <w lemma="boil" pos="vvd" reg="boiled" xml:id="A04656-005-b-1000">boyld</w>
       <pc xml:id="A04656-005-b-1010">,</pc>
       <w lemma="the" pos="d" xml:id="A04656-005-b-1020">the</w>
@@ -2458,7 +2458,7 @@
       <ref target="A04656-e102380-b" xml:id="A04656-e102380-a"/>
       <note anchored="true" corresp="A04656-e102380-a" place="margin" xml:id="A04656-e102380-b">
        <w lemma="●teus" pos="j" type="unclear" xml:id="A04656-006-a-0680">●teus</w>
-       <w lemma="n/a" pos="fla" type="unclear" xml:id="A04656-006-a-0690">●maris</w>
+       <w lemma="n/a" pos="fla" type="unclear" xml:id="A04656-006-a-0690">amaris</w>
        <pc unit="sentence" xml:id="A04656-006-a-0700">.</pc>
        <w lemma="n/a" pos="fla" type="unclear" xml:id="A04656-006-a-0710">●tunus</w>
        <pc xml:id="A04656-006-a-0720">,</pc>
@@ -2671,14 +2671,14 @@
       <w lemma="k" pos="sy" xml:id="A04656-006-b-0195">k</w>
       <w lemma="the" pos="d" xml:id="A04656-006-b-0200">The</w>
       <w lemma="〈◊〉" pos="zz" xml:id="A04656-006-b-0210">〈◊〉</w>
-      <w lemma="navigate" pos="vvi" reg="navigate" type="unclear" xml:id="A04656-006-b-0220">nauigat●</w>
+      <w lemma="navigate" pos="vvi" reg="navigate" type="unclear" xml:id="A04656-006-b-0220">nauigate</w>
       <w lemma="with" pos="acp" xml:id="A04656-006-b-0230">with</w>
       <w lemma="St●" pos="nn1" rend="hi" type="unclear" xml:id="A04656-006-b-0240">St●</w>
       <w lemma="aristid" pos="nn1" rend="hi" xml:id="A04656-006-b-0250">Aristid</w>
       <pc rend="hi" xml:id="A04656-006-b-0260">.</pc>
       <w lemma="and" pos="cc" xml:id="A04656-006-b-0270">and</w>
       <w lemma="Fair" pos="j" rend="hi" type="unclear" xml:id="A04656-006-b-0280">Fair</w>
-      <w lemma="Corinth●" pos="nn1" rend="hi" type="unclear" xml:id="A04656-006-b-0290">Corinth●</w>
+      <w lemma="Corinth●" pos="nn1" rend="hi" type="unclear" xml:id="A04656-006-b-0290">Corinths</w>
       <w lemma="whence●" pos="n1" type="unclear" xml:id="A04656-006-b-0300">whence●</w>
       <w lemma="proverb" pos="n1" reg="proverb" type="unclear" xml:id="A04656-006-b-0310">prouerb</w>
       <w lemma="frequent" pos="vvb" type="unclear" xml:id="A04656-006-b-0320">frequent</w>
@@ -4477,12 +4477,6 @@
    </div>
   </body>
   <back>
-   <div type="supplied_by_editor">
-    <head>Notes, typically marginal, from the original text</head>
-    <div corresp="A04656-e100110" xml:id="A04656-e100110-n">
-     <head>Notes for div A04656-e100110</head>
-    </div>
-   </div>
    <div type="machine-generated_castlist">
     <head>Machine-generated castlist</head>
     <list n="162-A04656">

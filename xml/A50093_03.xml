@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A50093</idno>
+    <idno type="STC">Wing M1050</idno>
+    <idno type="STC">ESTC R202151</idno>
+    <idno type="EEBO-CITATION">99862547</idno>
+    <idno type="PROQUEST">99862547</idno>
+    <idno type="VID">114710</idno>
+    <idno type="PROQUESTGOID">2248524954</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A50093_03.xml</idno>
    </publicationStmt>
    <seriesStmt>
     <title>Early English books online.</title>
@@ -42,12 +48,6 @@
       <publisher>University of Michigan Library</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2009 March (TCP phase 1)</date>
-      <idno type="DLPS">A50093</idno>
-      <idno type="vid">114710</idno>
-      <idno type="stc">(Wing)M1050</idno>
-      <idno type="stc">(Thomason)E.1559[2].</idno>
-      <idno type="bibno">(UnM)99862547</idno>
-      <idno type="PROQUESTGOID">2248524954</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -6832,7 +6832,7 @@
       </speaker>
       <lg xml:id="A50093-e108710">
        <l xml:id="A50093-e108720">
-        <w lemma="oh" pos="j" xml:id="A50093-115-a-1490">Oh!</w>
+        <w lemma="oh!" pos="uh" xml:id="A50093-115-a-1490">Oh!</w>
         <pc unit="sentence" xml:id="A50093-115-a-1500"/>
        </l>
       </lg>
@@ -8602,7 +8602,7 @@
         <w lemma="ill" pos="j" xml:id="A50093-117-b-0030">ill</w>
         <pc xml:id="A50093-117-b-0040">,</pc>
         <w lemma="either" pos="pig" xml:id="A50093-117-b-0050">either's</w>
-        <w lemma="loss" pos="nn1" xml:id="A50093-117-b-0060">loss</w>
+        <w lemma="loss" pos="n1" xml:id="A50093-117-b-0060">loss</w>
         <w lemma="equal" pos="j" xml:id="A50093-117-b-0070">equal</w>
         <pc xml:id="A50093-117-b-0080">,</pc>
        </l>
@@ -9534,7 +9534,7 @@
       <lg xml:id="A50093-e112380">
        <l xml:id="A50093-e112390">
         <w lemma="of" pos="acp" xml:id="A50093-118-b-1050">Of</w>
-        <w lemma="neither" pos="dx" xml:id="A50093-118-b-1060">neither</w>
+        <w lemma="neither" pos="avx-d" xml:id="A50093-118-b-1060">neither</w>
         <w lemma="sir" pos="n1" xml:id="A50093-118-b-1070">Sir</w>
         <pc xml:id="A50093-118-b-1080">,</pc>
         <w lemma="I" pos="pns" xml:id="A50093-118-b-1090">I</w>
@@ -18281,7 +18281,7 @@
         <w lemma="she" pos="pno" xml:id="A50093-129-a-0670">her</w>
         <w lemma="believe" pos="vvi" xml:id="A50093-129-a-0680">believe</w>
         <w lemma="there" pos="av" xml:id="A50093-129-a-0690">there</w>
-        <w lemma="neither" pos="dx" xml:id="A50093-129-a-0700">neither</w>
+        <w lemma="neither" pos="avx-d" xml:id="A50093-129-a-0700">neither</w>
         <w lemma="be" pos="vvz" xml:id="A50093-129-a-0710">is</w>
         <pc xml:id="A50093-129-a-0720">,</pc>
         <w lemma="nor" pos="ccx" xml:id="A50093-129-a-0730">nor</w>
@@ -37184,7 +37184,7 @@
         <pc xml:id="A50093-151-b-1050">,</pc>
         <w lemma="not" pos="xx" xml:id="A50093-151-b-1060">not</w>
         <w lemma="to" pos="prt" xml:id="A50093-151-b-1070">to</w>
-        <w join="right" lemma="hear" pos="vvi" reg="hear" xml:id="A50093-151-b-1080">hear</w>
+        <w join="right" lemma="hear" pos="vvi" xml:id="A50093-151-b-1080">hear</w>
         <w join="left" lemma="they" pos="pno" xml:id="A50093-151-b-1081">'em</w>
         <pc unit="sentence" xml:id="A50093-151-b-1090">.</pc>
        </l>

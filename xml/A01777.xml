@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A01777</idno>
+    <idno type="STC">STC 11912</idno>
+    <idno type="STC">ESTC S103196</idno>
+    <idno type="EEBO-CITATION">99838953</idno>
+    <idno type="PROQUEST">99838953</idno>
+    <idno type="VID">3346</idno>
+    <idno type="PROQUESTGOID">2240912526</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A01777.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 September (TCP phase 1)</date>
-      <idno type="marc">99838953</idno>
-      <idno type="stc">STC (2nd ed.) 11912.</idno>
-      <idno type="stc">Greg II: 564(*).</idno>
-      <idno type="vid">3346</idno>
-      <idno type="DLPS">A01777</idno>
-      <idno type="PROQUESTGOID">2240912526</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -2181,7 +2181,7 @@
        <pc xml:id="A01777-006-b-2330">,</pc>
        <w lemma="as" pos="acp" xml:id="A01777-006-b-2340">as</w>
        <w join="right" lemma="to" pos="acp" xml:id="A01777-006-b-2350">to</w>
-       <w join="left" lemma="the" pos="d" reg="th'" xml:id="A01777-006-b-2351">th'</w>
+       <w join="left" lemma="the" pos="d" xml:id="A01777-006-b-2351">th'</w>
        <w lemma="hand" pos="n1" xml:id="A01777-006-b-2360">hand</w>
        <w lemma="or" pos="cc" xml:id="A01777-006-b-2370">or</w>
        <w lemma="cheek" pos="n1" reg="cheek" xml:id="A01777-006-b-2380">cheeke</w>
@@ -13478,7 +13478,7 @@
        <w lemma="on" pos="acp" xml:id="A01777-020-b-2290">On</w>
        <w lemma="this" pos="d" xml:id="A01777-020-b-2300">this</w>
        <w lemma="ignoble" pos="j" xml:id="A01777-020-b-2310">ignoble</w>
-       <w lemma="strumpet" orig="strūpet" pos="n1" reg="strumpet" xml:id="A01777-020-b-2320">strumpet</w>
+       <w lemma="strumpet" orig="strūpet" pos="n1" xml:id="A01777-020-b-2320">strumpet</w>
        <pc xml:id="A01777-020-b-2330">,</pc>
        <w lemma="hang" pos="vvb" xml:id="A01777-020-b-2340">hang</w>
        <w lemma="she" pos="pno" xml:id="A01777-020-b-2350">her</w>
@@ -17663,7 +17663,7 @@
        <w lemma="like" pos="acp" xml:id="A01777-026-a-0980">like</w>
        <w lemma="a" pos="d" xml:id="A01777-026-a-0990">a</w>
        <w lemma="Westphalia" pos="nn1" xml:id="A01777-026-a-1000">Westphalia</w>
-       <w lemma="n/a" pos="fmi" xml:id="A01777-026-a-1010">Pig</w>
+       <w lemma="pig" pos="n1" xml:id="A01777-026-a-1010">Pig</w>
       </l>
       <l xml:id="A01777-e117770">
        <w join="right" lemma="in" pos="acp" xml:id="A01777-026-a-1020">I'</w>
@@ -18425,7 +18425,7 @@
        <pc xml:id="A01777-027-a-0510">:</pc>
       </l>
       <l xml:id="A01777-e118610">
-       <w lemma="oh" pos="j" xml:id="A01777-027-a-0520">Oh!</w>
+       <w lemma="oh!" pos="uh" xml:id="A01777-027-a-0520">Oh!</w>
        <w lemma="but" pos="acp" xml:id="A01777-027-a-0530">but</w>
        <w lemma="to" pos="prt" xml:id="A01777-027-a-0540">to</w>
        <w lemma="die" pos="vvi" reg="die" xml:id="A01777-027-a-0550">dye</w>
@@ -18895,12 +18895,6 @@
    </div>
   </body>
   <back>
-   <div type="supplied_by_editor">
-    <head>Notes, typically marginal, from the original text</head>
-    <div corresp="A01777-e100160" xml:id="A01777-e100160-n">
-     <head>Notes for div A01777-e100160</head>
-    </div>
-   </div>
    <div type="machine-generated_castlist">
     <head>Machine-generated castlist</head>
     <list n="163-A01777">

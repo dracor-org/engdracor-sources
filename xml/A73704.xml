@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A73704</idno>
+    <idno type="STC">STC 4618</idno>
+    <idno type="STC">ESTC S107477</idno>
+    <idno type="EEBO-CITATION">99898413</idno>
+    <idno type="PROQUEST">99898413</idno>
+    <idno type="VID">132967</idno>
+    <idno type="PROQUESTGOID">2240910811</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A73704.xml</idno>
    </publicationStmt>
    <seriesStmt>
     <title>Early English books online.</title>
@@ -43,13 +49,6 @@
       <publisher>University of Michigan Library</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2011 April (TCP phase 2)</date>
-      <idno type="DLPS">A73704</idno>
-      <idno type="vid">132967</idno>
-      <idno type="Aleph">5372186</idno>
-      <idno type="stc">STC (2nd ed.) 4618</idno>
-      <idno type="stc">Greg II, 496(a)</idno>
-      <idno type="bibno">(UnM)99898413e</idno>
-      <idno type="PROQUESTGOID">2240910811</idno>
       <availability>
        <p>Where applicable, subject to copyright. Other restrictions on distribution may apply. Please go to http://www.umdl.umich.edu/ for more information.</p>
       </availability>
@@ -2440,7 +2439,7 @@
       <w lemma="before" pos="acp" xml:id="A73704-006-b-0020">before</w>
       <w lemma="a" pos="d" xml:id="A73704-006-b-0030">a</w>
       <w lemma="frequent" pos="j" xml:id="A73704-006-b-0040">frequent</w>
-      <w lemma="convocation" orig="cōvocation" pos="n1" reg="convocation" xml:id="A73704-006-b-0050">convocation</w>
+      <w lemma="convocation" orig="cōvocation" pos="n1" xml:id="A73704-006-b-0050">convocation</w>
       <w lemma="of" pos="acp" xml:id="A73704-006-b-0060">of</w>
       <w lemma="the" pos="d" xml:id="A73704-006-b-0070">the</w>
       <w lemma="superlunary" pos="j" xml:id="A73704-006-b-0080">Superlunary</w>
@@ -4685,7 +4684,7 @@
       <w lemma="sphere" pos="n1" reg="Sphere" xml:id="A73704-009-a-2970">Spheare</w>
       <pc xml:id="A73704-009-a-2980">,</pc>
       <w lemma="which" pos="crq" xml:id="A73704-009-a-2990">which</w>
-      <w lemma="neither" pos="dx" xml:id="A73704-009-a-3000">neither</w>
+      <w lemma="neither" pos="avx-d" xml:id="A73704-009-a-3000">neither</w>
       <w lemma="Booker" pos="nn1" rend="hi" xml:id="A73704-009-a-3010">Booker</w>
       <pc rend="hi" xml:id="A73704-009-a-3020">,</pc>
       <w lemma="Allestre" pos="nn1" rend="hi" xml:id="A73704-009-a-3030">Allestre</w>
@@ -11693,7 +11692,7 @@
        </stage>
        <lg xml:id="A73704-e106790">
         <l xml:id="A73704-e106800">
-         <w lemma="whilst" orig="VVHilst" pos="cs" reg="whilst" rend="hi" xml:id="A73704-018-b-0790">WHilst</w>
+         <w lemma="whilst" orig="VVHilst" pos="cs" rend="hi" xml:id="A73704-018-b-0790">WHilst</w>
          <w lemma="thus" pos="av" rend="hi" xml:id="A73704-018-b-0800">thus</w>
          <w lemma="the" pos="d" rend="hi" xml:id="A73704-018-b-0810">the</w>
          <w lemma="darling" pos="n2" rend="hi" xml:id="A73704-018-b-0820">darlings</w>

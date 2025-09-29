@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A19816</idno>
+    <idno type="STC">STC 6243.4</idno>
+    <idno type="STC">ESTC S105172</idno>
+    <idno type="EEBO-CITATION">99840902</idno>
+    <idno type="PROQUEST">99840902</idno>
+    <idno type="VID">5446</idno>
+    <idno type="PROQUESTGOID">2240863040</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A19816_03.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99840902</idno>
-      <idno type="stc">STC (2nd ed.) 6243.4.</idno>
-      <idno type="stc">Greg, I, 132(a).</idno>
-      <idno type="vid">5446</idno>
-      <idno type="DLPS">A19816</idno>
-      <idno type="PROQUESTGOID">2240863040</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -6584,7 +6584,7 @@
        <w lemma="thou" pos="pns" xml:id="A19816-069-b-0260">thou</w>
        <w lemma="in" pos="acp" xml:id="A19816-069-b-0270">in</w>
        <w lemma="conceit" pos="n1" reg="conceit" xml:id="A19816-069-b-0280">conceite</w>
-       <w lemma="design" pos="vv2" reg="Rain'st" xml:id="A19816-069-b-0290">design'st</w>
+       <w lemma="design" pos="vv2" xml:id="A19816-069-b-0290">design'st</w>
        <pc unit="sentence" xml:id="A19816-069-b-0300">.</pc>
       </l>
       <l xml:id="A19816-e105890">
@@ -8708,7 +8708,7 @@
        <w lemma="who" pos="crq" xml:id="A19816-073-b-1220">who</w>
        <w lemma="here" pos="av" reg="here" xml:id="A19816-073-b-1230">heere</w>
        <w lemma="oppress" pos="vvn" xml:id="A19816-073-b-1240">oppressed</w>
-       <w lemma="die" pos="vvn" reg="died" xml:id="A19816-073-b-1250">dyde</w>
+       <w lemma="die" pos="vvn" xml:id="A19816-073-b-1250">dyde</w>
        <pc unit="sentence" xml:id="A19816-073-b-1260">.</pc>
       </l>
       <l xml:id="A19816-e108020">
@@ -9163,7 +9163,7 @@
        <w lemma="conquer" pos="j-vg" xml:id="A19816-074-b-0750">conquering</w>
        <w lemma="cause" pos="n1" xml:id="A19816-074-b-0760">cause</w>
        <w lemma="have" pos="vvz" xml:id="A19816-074-b-0770">hath</w>
-       <w lemma="right" pos="av-j" xml:id="A19816-074-b-0780">right</w>
+       <w lemma="right" pos="n1" xml:id="A19816-074-b-0780">right</w>
        <pc xml:id="A19816-074-b-0790">,</pc>
        <w lemma="wherein" pos="crq" xml:id="A19816-074-b-0800">wherein</w>
        <w lemma="thou" orig="yᵘ" pos="pns" xml:id="A19816-074-b-0810">thou</w>
@@ -10243,7 +10243,7 @@
        <w lemma="all" pos="d" xml:id="A19816-076-b-0440">all</w>
        <pc xml:id="A19816-076-b-0450">,</pc>
        <w lemma="for" pos="acp" xml:id="A19816-076-b-0460">for</w>
-       <w lemma="neither" pos="dx" xml:id="A19816-076-b-0470">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A19816-076-b-0470">neither</w>
        <w lemma="be" pos="vvz" xml:id="A19816-076-b-0480">is</w>
       </l>
       <l xml:id="A19816-e109420">
@@ -11814,7 +11814,7 @@
      </l>
      <l xml:id="A19816-e110990">
       <w lemma="great" pos="j" rend="hi" xml:id="A19816-079-b-1640">Great</w>
-      <w lemma="julius" pos="nng1" reg="julius" rend="hi" xml:id="A19816-079-b-1650">Iulius</w>
+      <w lemma="iulius" pos="nn1" rend="hi" xml:id="A19816-079-b-1650">Iulius</w>
       <w lemma="offspring" pos="n1" reg="offspring" xml:id="A19816-079-b-1660">of-spring</w>
       <pc xml:id="A19816-079-b-1670">,</pc>
       <w lemma="he" pos="pns" reg="he" xml:id="A19816-079-b-1680">hee</w>
@@ -12667,7 +12667,7 @@
       <w lemma="part" pos="n1" reg="part" xml:id="A19816-081-a-1660">parte</w>
       <w lemma="in" pos="acp" xml:id="A19816-081-a-1670">in</w>
       <w lemma="such" pos="d" xml:id="A19816-081-a-1680">such</w>
-      <w lemma="post-haste" pos="j" reg="post-haste" xml:id="A19816-081-a-1690">post-hast</w>
+      <w lemma="post-haste" pos="av" reg="post-haste" xml:id="A19816-081-a-1690">post-hast</w>
       <pc unit="sentence" xml:id="A19816-081-a-1700">?</pc>
      </l>
      <l xml:id="A19816-e111700">
@@ -19650,7 +19650,7 @@
        <w lemma="arm" pos="vvn" reg="Armed" xml:id="A19816-095-b-0880">Arm'd</w>
        <w lemma="with" pos="acp" xml:id="A19816-095-b-0890">with</w>
        <w lemma="the" pos="d" xml:id="A19816-095-b-0900">the</w>
-       <w lemma="propose" pos="n1" reg="propose" xml:id="A19816-095-b-0910">proose</w>
+       <w lemma="propose" pos="n1" reg="propose" xml:id="A19816-095-b-0910">proofe</w>
        <w lemma="of" pos="acp" xml:id="A19816-095-b-0920">of</w>
        <w lemma="time" pos="n1" xml:id="A19816-095-b-0930">Time</w>
        <pc xml:id="A19816-095-b-0940">,</pc>
@@ -20645,7 +20645,7 @@
        <w lemma="may" pos="vmd" xml:id="A19816-097-a-2310">might</w>
        <w lemma="know" pos="vvi" xml:id="A19816-097-a-2320">know</w>
        <w lemma="she" pos="pns" reg="she" xml:id="A19816-097-a-2330">shee</w>
-       <w lemma="die" pos="vvd" reg="died" xml:id="A19816-097-a-2340">dyde</w>
+       <w lemma="do" pos="vvd" xml:id="A19816-097-a-2340">dyde</w>
        <w lemma="a" pos="d" xml:id="A19816-097-a-2350">a</w>
        <w lemma="queen" pos="n1" reg="Queen" xml:id="A19816-097-a-2360">Queene</w>
        <pc unit="sentence" xml:id="A19816-097-a-2370">.</pc>

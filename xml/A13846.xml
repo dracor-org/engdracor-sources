@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A13846</idno>
+    <idno type="STC">STC 24155</idno>
+    <idno type="STC">ESTC S121944</idno>
+    <idno type="EEBO-CITATION">99857100</idno>
+    <idno type="PROQUEST">99857100</idno>
+    <idno type="VID">22772</idno>
+    <idno type="PROQUESTGOID">2240877793</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A13846.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99857100</idno>
-      <idno type="stc">STC (2nd ed.) 24155.</idno>
-      <idno type="stc">Greg, II, 453(A).</idno>
-      <idno type="vid">22772</idno>
-      <idno type="DLPS">A13846</idno>
-      <idno type="PROQUESTGOID">2240877793</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -5508,12 +5508,6 @@
    </div>
   </body>
   <back xml:id="A13846-e103830">
-   <div type="supplied_by_editor">
-    <head>Notes, typically marginal, from the original text</head>
-    <div corresp="A13846-e102940" xml:id="A13846-e102940-n">
-     <head>Notes for div A13846-e102940</head>
-    </div>
-   </div>
    <div type="author_to_the_reader" xml:id="A13846-e103840">
     <pb facs="tcp:22772:13" n="22" xml:id="A13846-013-a"/>
     <p xml:id="A13846-e103850">

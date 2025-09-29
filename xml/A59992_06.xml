@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A59992</idno>
+    <idno type="STC">Wing S3486</idno>
+    <idno type="STC">ESTC R20878</idno>
+    <idno type="EEBO-CITATION">12294493</idno>
+    <idno type="OCLC">ocm 12294493</idno>
+    <idno type="VID">58985</idno>
+    <idno type="PROQUESTGOID">2240962059</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A59992_06.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 September (TCP phase 1)</date>
-      <idno type="marc">12294493</idno>
-      <idno type="stc">Wing S3486.</idno>
-      <idno type="stc">Woodward and McManaway 1134.</idno>
-      <idno type="vid">58985</idno>
-      <idno type="DLPS">A59992</idno>
-      <idno type="PROQUESTGOID">2240962059</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -3142,7 +3142,7 @@
        <w lemma="thou" pos="pns" xml:id="A59992-208-a-2040">thou</w>
        <w lemma="be" pos="vvd2" xml:id="A59992-208-a-2050">wert</w>
        <w lemma="his" pos="po" xml:id="A59992-208-a-2060">his</w>
-       <w lemma="cousin" pos="n1" reg="x" xml:id="A59992-208-a-2070">Cosen</w>
+       <w lemma="cousin" pos="n1" xml:id="A59992-208-a-2070">Cosen</w>
        <w lemma="ten" pos="crd" xml:id="A59992-208-a-2080">ten</w>
        <w lemma="remove" pos="n2" xml:id="A59992-208-a-2090">removes</w>
       </l>
@@ -10575,7 +10575,7 @@
        <w lemma="go" pos="vvb" xml:id="A59992-217-a-1570">go</w>
        <w lemma="sir" pos="n1" xml:id="A59992-217-a-1580">Sir</w>
        <pc xml:id="A59992-217-a-1590">,</pc>
-       <w join="right" lemma="an" pos="cs" xml:id="A59992-217-a-1600">an</w>
+       <w lemma="an" pos="cs" xml:id="A59992-217-a-1600">an</w>
        <w join="left" lemma="it" pos="pn" xml:id="A59992-217-a-1601">'t</w>
        <w lemma="be" pos="vvb" xml:id="A59992-217-a-1610">be</w>
       </l>
@@ -13461,7 +13461,7 @@
        <w lemma="shall" pos="vmb" xml:id="A59992-220-b-1270">shall</w>
        <w lemma="beseech" pos="vvi" xml:id="A59992-220-b-1280">beseech</w>
        <w lemma="your" pos="po" xml:id="A59992-220-b-1290">your</w>
-       <w lemma="grace" pos="n2" reg="ng1" xml:id="A59992-220-b-1300">Graces</w>
+       <w lemma="grace" pos="n2" xml:id="A59992-220-b-1300">Graces</w>
        <w lemma="smile" pos="vvb" xml:id="A59992-220-b-1310">smile</w>
        <pc unit="sentence" xml:id="A59992-220-b-1320">—</pc>
       </l>
@@ -26443,7 +26443,7 @@
       <l xml:id="A59992-e128620">
        <w lemma="return" pos="n1" xml:id="A59992-235-b-1800">Return</w>
        <w join="right" lemma="to" pos="acp" xml:id="A59992-235-b-1810">to</w>
-       <w join="left" lemma="the" pos="d" reg="th'" xml:id="A59992-235-b-1811">th'</w>
+       <w join="left" lemma="the" pos="d" xml:id="A59992-235-b-1811">th'</w>
        <w lemma="prince" pos="n1" xml:id="A59992-235-b-1820">Prince</w>
        <pc xml:id="A59992-235-b-1830">,</pc>
        <w lemma="what" pos="crq" xml:id="A59992-235-b-1840">what</w>

@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A19835</idno>
+    <idno type="STC">STC 6262</idno>
+    <idno type="STC">ESTC S121848</idno>
+    <idno type="EEBO-CITATION">99857010</idno>
+    <idno type="PROQUEST">99857010</idno>
+    <idno type="VID">22669</idno>
+    <idno type="PROQUESTGOID">2240877898</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A19835.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99857010</idno>
-      <idno type="stc">STC (2nd ed.) 6262.</idno>
-      <idno type="stc">Greg, I, 227.</idno>
-      <idno type="vid">22669</idno>
-      <idno type="DLPS">A19835</idno>
-      <idno type="PROQUESTGOID">2240877898</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -114,12 +114,12 @@
     <ep:untranscribedForeignCount>0</ep:untranscribedForeignCount>
     <ep:untranscribedMathCount>0</ep:untranscribedMathCount>
     <ep:untranscribedMusicCount>0</ep:untranscribedMusicCount>
-    <ep:defectiveTokenCount>1</ep:defectiveTokenCount>
+    <ep:defectiveTokenCount>0</ep:defectiveTokenCount>
     <ep:missingChunkCount>0</ep:missingChunkCount>
     <ep:missingPagesCount>0</ep:missingPagesCount>
-    <ep:defectRate>0.40</ep:defectRate>
-    <ep:finalGrade>B</ep:finalGrade>
-    <ep:defectRangePerGrade> The  rate of 0.40 defects per 10,000 words puts this text in the B category of texts with fewer than 10 defects per 10,000 words.</ep:defectRangePerGrade>
+    <ep:defectRate>0.00</ep:defectRate>
+    <ep:finalGrade>A</ep:finalGrade>
+    <ep:defectRangePerGrade>This text  has no known defects that were recorded as gap elements at the time of transcription. </ep:defectRangePerGrade>
    </ep:epHeader>
   </xenoData>
   <revisionDesc>
@@ -887,7 +887,7 @@
      <w lemma="of" pos="acp" xml:id="A19835-002-b-1990">of</w>
      <w lemma="action" pos="n1" xml:id="A19835-002-b-2000">action</w>
      <pc xml:id="A19835-002-b-2010">,</pc>
-     <w lemma="and" pos="cc" reg="and" xml:id="A19835-002-b-2020">aud</w>
+     <w lemma="and" orig="aud" pos="cc" xml:id="A19835-002-b-2020">and</w>
      <w lemma="the" pos="d" xml:id="A19835-002-b-2030">the</w>
      <w lemma="exercise" pos="n1" xml:id="A19835-002-b-2040">exercise</w>
     </l>
@@ -1293,7 +1293,7 @@
      <pc unit="sentence" xml:id="A19835-003-a-2400">.</pc>
     </l>
     <trailer xml:id="A19835-e100870">
-     <w lemma="n/a" pos="fmi" xml:id="A19835-003-a-2410">Chi</w>
+     <w lemma="n/a" pos="fit" xml:id="A19835-003-a-2410">Chi</w>
      <w lemma="n/a" pos="fla" xml:id="A19835-003-a-2420">non</w>
      <w lemma="n/a" pos="fit" xml:id="A19835-003-a-2430">fa</w>
      <pc xml:id="A19835-003-a-2440">,</pc>
@@ -2701,7 +2701,7 @@
         <w lemma="my" pos="po" xml:id="A19835-005-a-2170">my</w>
         <w lemma="approach" pos="n1" xml:id="A19835-005-a-2180">approach</w>
         <w lemma="she" pos="pns" xml:id="A19835-005-a-2190">she</w>
-        <w lemma="straight" pos="av-j" xml:id="A19835-005-a-2200">straight</w>
+        <w lemma="straight" pos="j" xml:id="A19835-005-a-2200">straight</w>
         <w lemma="way" pos="n1" xml:id="A19835-005-a-2210">way</w>
         <w lemma="stand" pos="vvz" xml:id="A19835-005-a-2220">stands</w>
         <w lemma="upright" pos="av-j" reg="upright" type="unclear" xml:id="A19835-005-a-2230">vpright</w>
@@ -15218,7 +15218,7 @@
        </l>
        <l xml:id="A19835-e113880">
         <w join="right" lemma="by" pos="acp" xml:id="A19835-020-a-0530">B'</w>
-        <w join="left" lemma="another" pos="j" xml:id="A19835-020-a-0531">another</w>
+        <w join="left" lemma="another" pos="d" xml:id="A19835-020-a-0531">another</w>
         <w lemma="age" pos="n1" xml:id="A19835-020-a-0540">age</w>
         <w lemma="will" pos="vmb" xml:id="A19835-020-a-0550">will</w>
         <w lemma="find" pos="vvi" reg="find" xml:id="A19835-020-a-0560">finde</w>
@@ -16694,7 +16694,7 @@
         <w lemma="well" pos="uh-mi" xml:id="A19835-021-b-2050">Well</w>
         <w lemma="if" pos="cs" xml:id="A19835-021-b-2060">if</w>
         <w lemma="you" pos="pn" xml:id="A19835-021-b-2070">you</w>
-        <w lemma="〈◊〉" pos="zz" xml:id="A19835-021-b-2080">〈◊〉</w>
+        <w lemma="get" pos="vvb" xml:id="A19835-021-b-2080">get</w>
         <w lemma="she" pos="pno" xml:id="A19835-021-b-2090">her</w>
         <pc xml:id="A19835-021-b-2100">,</pc>
         <w lemma="than" pos="cs" reg="than" xml:id="A19835-021-b-2110">then</w>
@@ -23581,7 +23581,7 @@
         <pc rend="hi" xml:id="A19835-029-b-3370">,</pc>
         <w lemma="have" pos="vv2" xml:id="A19835-029-b-3380">hast</w>
         <w lemma="thou" pos="pns" xml:id="A19835-029-b-3390">thou</w>
-        <w lemma="do" pos="vvi" xml:id="A19835-029-b-3400">done</w>
+        <w lemma="do" pos="vvn" xml:id="A19835-029-b-3400">done</w>
         <w lemma="this" pos="d" xml:id="A19835-029-b-3410">this</w>
         <w lemma="deed" pos="n1" xml:id="A19835-029-b-3420">deed</w>
         <pc unit="sentence" xml:id="A19835-029-b-3430">?</pc>
@@ -26716,7 +26716,7 @@
         <w join="right" lemma="to" pos="prt" xml:id="A19835-033-b-1560">T'</w>
         <w join="left" lemma="have" pos="vvi" reg="have" xml:id="A19835-033-b-1561">haue</w>
         <w lemma="something" pos="pi" xml:id="A19835-033-b-1570">something</w>
-        <w lemma="do" pos="vvi" xml:id="A19835-033-b-1580">done</w>
+        <w lemma="do" pos="vvn" xml:id="A19835-033-b-1580">done</w>
         <pc xml:id="A19835-033-b-1590">,</pc>
         <w lemma="now" pos="av" xml:id="A19835-033-b-1600">now</w>
         <w lemma="can" pos="vmd" xml:id="A19835-033-b-1610">could</w>
@@ -31631,7 +31631,7 @@
         <pc xml:id="A19835-039-a-2540">,</pc>
         <w lemma="for" pos="acp" xml:id="A19835-039-a-2550">for</w>
         <w lemma="we" pos="pns" xml:id="A19835-039-a-2560">we</w>
-        <w lemma="no" pos="avx-d" xml:id="A19835-039-a-2570">no</w>
+        <w lemma="no" pos="dx" xml:id="A19835-039-a-2570">no</w>
         <w lemma="doubt" pos="n1" xml:id="A19835-039-a-2580">doubt</w>
         <w lemma="shall" pos="vmb" xml:id="A19835-039-a-2590">shall</w>
         <w lemma="find" pos="vvi" reg="find" xml:id="A19835-039-a-2600">finde</w>

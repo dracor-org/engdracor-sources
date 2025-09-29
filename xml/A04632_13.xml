@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A04632</idno>
+    <idno type="STC">STC 14752</idno>
+    <idno type="STC">ESTC S112455</idno>
+    <idno type="EEBO-CITATION">99847709</idno>
+    <idno type="PROQUEST">99847709</idno>
+    <idno type="VID">12766</idno>
+    <idno type="PROQUESTGOID">2240922515</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A04632_13.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99847709</idno>
-      <idno type="stc">STC (2nd ed.) 14752.</idno>
-      <idno type="stc">Greg, III, p. 1070-3.</idno>
-      <idno type="vid">12766</idno>
-      <idno type="DLPS">A04632</idno>
-      <idno type="PROQUESTGOID">2240922515</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -4508,7 +4508,7 @@
       <pc xml:id="A04632-467-b-2680">,</pc>
       <w lemma="jug" pos="n1" xml:id="A04632-467-b-2690">jug</w>
       <pc xml:id="A04632-467-b-2700">,</pc>
-      <w lemma="etc." pos="av" reg="etc." xml:id="A04632-467-b-2710">&amp;c.</w>
+      <w lemma="etc." pos="ab" reg="etc." xml:id="A04632-467-b-2710">&amp;c.</w>
       <pc unit="sentence" xml:id="A04632-467-b-2720"/>
      </l>
      <l xml:id="A04632_13-e103880">
@@ -6206,7 +6206,7 @@
        <pc xml:id="A04632-471-a-3620">;</pc>
        <w lemma="nay" pos="uhx" xml:id="A04632-471-a-3630">nay</w>
        <pc xml:id="A04632-471-a-3640">,</pc>
-       <w lemma="pray" pos="uh" reg="pray" xml:id="A04632-471-a-3650">'pray</w>
+       <w lemma="pray" pos="uh" xml:id="A04632-471-a-3650">'pray</w>
        <w lemma="you" pos="pn" xml:id="A04632-471-a-3660">you</w>
        <w lemma="come" pos="vvb" xml:id="A04632-471-a-3670">come</w>
        <w lemma="hither" pos="av" reg="hither" xml:id="A04632-471-a-3680">hether</w>
@@ -6809,7 +6809,7 @@
        <pc xml:id="A04632-471-b-3790">,</pc>
        <w lemma="yet" pos="av" xml:id="A04632-471-b-3800">yet</w>
        <w lemma="make" pos="vvz" xml:id="A04632-471-b-3810">makes</w>
-       <w lemma="neither" pos="dx" xml:id="A04632-471-b-3820">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A04632-471-b-3820">neither</w>
        <w lemma="less" pos="avc-d" reg="less" xml:id="A04632-471-b-3830">lesse</w>
        <pc xml:id="A04632-471-b-3840">:</pc>
       </l>

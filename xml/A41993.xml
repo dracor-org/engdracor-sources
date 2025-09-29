@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A41993</idno>
+    <idno type="STC">Wing G1829</idno>
+    <idno type="STC">ESTC R11499</idno>
+    <idno type="EEBO-CITATION">12152227</idno>
+    <idno type="OCLC">ocm 12152227</idno>
+    <idno type="VID">55074</idno>
+    <idno type="PROQUESTGOID">2240953618</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A41993.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,11 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2007 January (TCP phase 1)</date>
-      <idno type="marc">12152227</idno>
-      <idno type="stc">Wing G1829.</idno>
-      <idno type="vid">55074</idno>
-      <idno type="DLPS">A41993</idno>
-      <idno type="PROQUESTGOID">2240953618</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -1983,7 +1984,7 @@
       <w lemma="unless" pos="cs" xml:id="A41993-005-a-1220">Unless</w>
       <w lemma="thy" pos="po" xml:id="A41993-005-a-1230">thy</w>
       <w lemma="wisdom" pos="n1" xml:id="A41993-005-a-1240">wisdom</w>
-      <w lemma="s●re" pos="vvb" type="unclear" xml:id="A41993-005-a-1250">s●re</w>
+      <w lemma="s●re" pos="vvb" type="unclear" xml:id="A41993-005-a-1250">sure</w>
       <w lemma="i" pos="pno" xml:id="A41993-005-a-1260">me</w>
       <w lemma="with" pos="acp" xml:id="A41993-005-a-1270">with</w>
       <w lemma="disguise" pos="n1" xml:id="A41993-005-a-1280">disguise</w>
@@ -2024,7 +2025,7 @@
      </l>
      <l xml:id="A41993-e101800">
       <w lemma="Then" pos="av" type="unclear" xml:id="A41993-005-a-1530">Then</w>
-      <w lemma="best" pos="av-j" xml:id="A41993-005-a-1540">best</w>
+      <w lemma="best" pos="avs-j" xml:id="A41993-005-a-1540">best</w>
       <w lemma="usurp" pos="j-vn" xml:id="A41993-005-a-1550">usurped</w>
       <w lemma="shape" pos="n1" xml:id="A41993-005-a-1560">shape</w>
       <pc unit="sentence" xml:id="A41993-005-a-1570">.</pc>
@@ -3457,7 +3458,7 @@
       <w lemma="at" pos="acp" xml:id="A41993-006-b-2150">At</w>
       <w lemma="who" pos="crq" xml:id="A41993-006-b-2160">whose</w>
       <w lemma="proceed" pos="n2-vg" xml:id="A41993-006-b-2170">proceedings</w>
-      <w lemma="n/a" pos="fmi" xml:id="A41993-006-b-2180">Fortune</w>
+      <w lemma="fortune" pos="n1" xml:id="A41993-006-b-2180">Fortune</w>
       <w lemma="ever" pos="av" xml:id="A41993-006-b-2190">ever</w>
       <w lemma="frown" pos="vvz" xml:id="A41993-006-b-2200">frowns</w>
       <pc xml:id="A41993-006-b-2210">:</pc>
@@ -3972,7 +3973,7 @@
       <w lemma="sir" pos="n1" xml:id="A41993-007-a-2770">sir</w>
       <pc xml:id="A41993-007-a-2780">,</pc>
       <w lemma="I" pos="pns" xml:id="A41993-007-a-2790">I</w>
-      <w lemma="fast" pos="av-j" xml:id="A41993-007-a-2800">fast</w>
+      <w lemma="fast" pos="vvb" xml:id="A41993-007-a-2800">fast</w>
       <w lemma="hoodwink" pos="vvn" reg="hoodwinked" xml:id="A41993-007-a-2810">hudwinkt</w>
       <w lemma="that" pos="cs" xml:id="A41993-007-a-2820">that</w>
       <w lemma="I" pos="pns" xml:id="A41993-007-a-2830">I</w>
@@ -5125,7 +5126,7 @@
       <w lemma="hereafter" pos="av" xml:id="A41993-008-a-3150">hereafter</w>
       <w lemma="as" pos="acp" xml:id="A41993-008-a-3160">as</w>
       <w lemma="I" pos="pns" xml:id="A41993-008-a-3170">I</w>
-      <w lemma="tofore" pos="av" xml:id="A41993-008-a-3180">tofore</w>
+      <w lemma="tofore" pos="acp" xml:id="A41993-008-a-3180">tofore</w>
       <w lemma="have" pos="vvb" xml:id="A41993-008-a-3190">have</w>
       <w lemma="do" pos="vvn" xml:id="A41993-008-a-3200">done</w>
       <pc xml:id="A41993-008-a-3210">,</pc>

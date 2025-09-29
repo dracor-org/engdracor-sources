@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A12140</idno>
+    <idno type="STC">STC 22446</idno>
+    <idno type="STC">ESTC S117338</idno>
+    <idno type="EEBO-CITATION">99852553</idno>
+    <idno type="PROQUEST">99852553</idno>
+    <idno type="VID">17878</idno>
+    <idno type="PROQUESTGOID">2240893511</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A12140.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2005 October (TCP phase 1)</date>
-      <idno type="marc">99852553</idno>
-      <idno type="stc">STC (2nd ed.) 22446.</idno>
-      <idno type="stc">Greg, II, 517.</idno>
-      <idno type="vid">17878</idno>
-      <idno type="DLPS">A12140</idno>
-      <idno type="PROQUESTGOID">2240893511</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -422,8 +422,8 @@
  <text xml:id="A12140-e100010" xml:lang="eng">
   <front xml:id="A12140-e100020">
    <div type="title_page" xml:id="A12140-e100030">
-    <pb facs="1" n="eebo_img-1" type="blank" xml:id="A12140-001-a"/>
-    <pb facs="2" n="eebo_img-1" xml:id="A12140-001-b"/>
+    <pb facs="tcp:17878:1" n="eebo_img-1" type="blank" xml:id="A12140-001-a"/>
+    <pb facs="tcp:17878:1" n="eebo_img-1" xml:id="A12140-001-b"/>
     <p xml:id="A12140-e100040">
      <w lemma="hide" pos="vvb" xml:id="A12140-001-b-0010">HIDE</w>
      <w lemma="park" pos="n1" reg="park" xml:id="A12140-001-b-0020">PARKE</w>
@@ -486,8 +486,8 @@
     </p>
    </div>
    <div type="dedication" xml:id="A12140-e100100">
-    <pb facs="3" n="eebo_img-2" type="blank" xml:id="A12140-002-a"/>
-    <pb facs="4" n="eebo_img-2" xml:id="A12140-002-b"/>
+    <pb facs="tcp:17878:2" n="eebo_img-2" type="blank" xml:id="A12140-002-a"/>
+    <pb facs="tcp:17878:2" n="eebo_img-2" xml:id="A12140-002-b"/>
     <head>
      <w lemma="to" pos="acp" xml:id="A12140-002-b-0010">TO</w>
      <w lemma="the" pos="d" xml:id="A12140-002-b-0020">THE</w>
@@ -751,7 +751,7 @@
     </closer>
    </div>
    <div type="dramatis_personae" xml:id="A12140-e100170">
-    <pb facs="5" n="eebo_img-3" xml:id="A12140-003-a"/>
+    <pb facs="tcp:17878:3" n="eebo_img-3" xml:id="A12140-003-a"/>
     <list xml:id="A12140-e100180">
      <head>
       <w lemma="person" pos="n2" xml:id="A12140-003-a-0010">Persons</w>
@@ -865,7 +865,7 @@
   </front>
   <body xml:id="A12140-e100380">
    <div type="play" xml:id="A12140-e100390">
-    <pb facs="6" n="eebo_img-3" xml:id="A12140-003-b"/>
+    <pb facs="tcp:17878:3" n="eebo_img-3" xml:id="A12140-003-b"/>
     <head>
      <w lemma="hide" pos="vvb" xml:id="A12140-003-b-0010">HIDE</w>
      <w lemma="park" pos="n1" reg="park" xml:id="A12140-003-b-0020">PARKE</w>
@@ -1134,7 +1134,7 @@
        <pc xml:id="A12140-003-b-1700">,</pc>
       </l>
       <l xml:id="A12140-e100740">
-       <pb facs="7" n="eebo_img-4" xml:id="A12140-004-a"/>
+       <pb facs="tcp:17878:4" n="eebo_img-4" xml:id="A12140-004-a"/>
        <w lemma="and" pos="cc" xml:id="A12140-004-a-0010">And</w>
        <w lemma="marry" pos="vvi" xml:id="A12140-004-a-0020">marry</w>
        <w lemma="a" pos="d" xml:id="A12140-004-a-0030">a</w>
@@ -1580,7 +1580,7 @@
       </l>
      </sp>
      <sp who="A12140-venture" xml:id="A12140-e101220">
-      <pb facs="8" n="eebo_img-4" xml:id="A12140-004-b"/>
+      <pb facs="tcp:17878:4" n="eebo_img-4" xml:id="A12140-004-b"/>
       <speaker>
        <w lemma="Ven." pos="ab" xml:id="A12140-004-b-0010">Ven.</w>
        <pc unit="sentence" xml:id="A12140-004-b-0020"/>
@@ -2064,7 +2064,7 @@
        <pc xml:id="A12140-004-b-3040">,</pc>
       </l>
       <l xml:id="A12140-e101850">
-       <pb facs="9" n="eebo_img-5" xml:id="A12140-005-a"/>
+       <pb facs="tcp:17878:5" n="eebo_img-5" xml:id="A12140-005-a"/>
        <w lemma="that" pos="cs" xml:id="A12140-005-a-0010">That</w>
        <w lemma="have" pos="vvz" xml:id="A12140-005-a-0020">has</w>
        <w lemma="a" pos="d" xml:id="A12140-005-a-0030">a</w>
@@ -2496,7 +2496,7 @@
        <w lemma="have" pos="vvb" xml:id="A12140-005-a-3010">have</w>
       </l>
       <l xml:id="A12140-e102340">
-       <pb facs="10" n="eebo_img-5" xml:id="A12140-005-b"/>
+       <pb facs="tcp:17878:5" n="eebo_img-5" xml:id="A12140-005-b"/>
        <w lemma="use" pos="vvn" reg="Used" xml:id="A12140-005-b-0010">Vs'd</w>
        <w lemma="no" pos="dx" xml:id="A12140-005-b-0020">no</w>
        <w lemma="enchantment" pos="n1" reg="enchantment" xml:id="A12140-005-b-0030">inchantment</w>
@@ -2917,7 +2917,7 @@
       </l>
      </sp>
      <sp who="A12140-venture" xml:id="A12140-e102840">
-      <pb facs="11" n="eebo_img-6" xml:id="A12140-006-a"/>
+      <pb facs="tcp:17878:6" n="eebo_img-6" xml:id="A12140-006-a"/>
       <speaker>
        <w lemma="Ven." pos="ab" xml:id="A12140-006-a-0010">Ven.</w>
        <pc unit="sentence" xml:id="A12140-006-a-0020"/>
@@ -3394,7 +3394,7 @@
        <pc unit="sentence" xml:id="A12140-006-a-3470">.</pc>
       </l>
       <l xml:id="A12140-e103350">
-       <pb facs="12" n="eebo_img-6" xml:id="A12140-006-b"/>
+       <pb facs="tcp:17878:6" n="eebo_img-6" xml:id="A12140-006-b"/>
        <w lemma="she" pos="pns" xml:id="A12140-006-b-0010">She</w>
        <w lemma="have" pos="vvz" xml:id="A12140-006-b-0020">has</w>
        <w lemma="a" pos="d" xml:id="A12140-006-b-0030">a</w>
@@ -3869,7 +3869,7 @@
       </l>
      </sp>
      <sp who="A12140-tryer" xml:id="A12140-e103870">
-      <pb facs="13" n="eebo_img-7" xml:id="A12140-007-a"/>
+      <pb facs="tcp:17878:7" n="eebo_img-7" xml:id="A12140-007-a"/>
       <speaker>
        <w lemma="Tr." pos="ab" xml:id="A12140-007-a-0010">Tr.</w>
        <pc unit="sentence" xml:id="A12140-007-a-0020"/>
@@ -4351,7 +4351,7 @@
        <pc xml:id="A12140-007-a-3320">,</pc>
       </l>
       <l xml:id="A12140-e104420">
-       <pb facs="14" n="eebo_img-7" xml:id="A12140-007-b"/>
+       <pb facs="tcp:17878:7" n="eebo_img-7" xml:id="A12140-007-b"/>
        <w lemma="and" pos="cc" xml:id="A12140-007-b-0010">And</w>
        <w lemma="doubt" pos="vvb" xml:id="A12140-007-b-0020">doubt</w>
        <w lemma="whether" pos="cs" type="unclear" xml:id="A12140-007-b-0030">whether</w>
@@ -4822,7 +4822,7 @@
       </l>
      </sp>
      <sp who="A12140-fairfield" xml:id="A12140-e104950">
-      <pb facs="15" n="eebo_img-8" xml:id="A12140-008-a"/>
+      <pb facs="tcp:17878:8" n="eebo_img-8" xml:id="A12140-008-a"/>
       <speaker>
        <w lemma="Fa." pos="ab" xml:id="A12140-008-a-0010">Fa.</w>
        <pc unit="sentence" xml:id="A12140-008-a-0020"/>
@@ -5274,7 +5274,7 @@
        <pc xml:id="A12140-008-a-3350">,</pc>
       </l>
       <l xml:id="A12140-e105430">
-       <pb facs="16" n="eebo_img-8" xml:id="A12140-008-b"/>
+       <pb facs="tcp:17878:8" n="eebo_img-8" xml:id="A12140-008-b"/>
        <w lemma="entreat" pos="vvb" reg="Entreat" type="unclear" xml:id="A12140-008-b-0010">Entreate</w>
        <w lemma="to" pos="acp" xml:id="A12140-008-b-0020">to</w>
        <w lemma="wait" pos="vvi" reg="wait" type="unclear" xml:id="A12140-008-b-0030">waite</w>
@@ -5711,7 +5711,7 @@
       </l>
      </sp>
      <sp who="A12140-fairfield" xml:id="A12140-e105920">
-      <pb facs="17" n="eebo_img-9" xml:id="A12140-009-a"/>
+      <pb facs="tcp:17878:9" n="eebo_img-9" xml:id="A12140-009-a"/>
       <speaker>
        <w lemma="Fa." pos="ab" xml:id="A12140-009-a-0010">Fa.</w>
        <pc unit="sentence" xml:id="A12140-009-a-0020"/>
@@ -6181,7 +6181,7 @@
       </l>
      </sp>
      <sp who="A12140-lacy" xml:id="A12140-e106420">
-      <pb facs="18" n="eebo_img-9" xml:id="A12140-009-b"/>
+      <pb facs="tcp:17878:9" n="eebo_img-9" xml:id="A12140-009-b"/>
       <speaker>
        <w lemma="Lac." pos="ab" xml:id="A12140-009-b-0010">Lac.</w>
        <pc unit="sentence" xml:id="A12140-009-b-0020"/>
@@ -6639,7 +6639,7 @@
        <w lemma="too" pos="av" xml:id="A12140-009-b-3390">too</w>
       </l>
       <l xml:id="A12140-e106900">
-       <pb facs="19" n="eebo_img-10" xml:id="A12140-010-a"/>
+       <pb facs="tcp:17878:10" n="eebo_img-10" xml:id="A12140-010-a"/>
        <w lemma="that" pos="cs" xml:id="A12140-010-a-0010">That</w>
        <w lemma="know" pos="vvz" reg="knows" xml:id="A12140-010-a-0020">knowes</w>
        <w lemma="your" pos="po" xml:id="A12140-010-a-0030">your</w>
@@ -7100,7 +7100,7 @@
        <pc unit="sentence" xml:id="A12140-010-a-3170">!</pc>
       </l>
       <l xml:id="A12140-e107430">
-       <pb facs="20" n="eebo_img-10" xml:id="A12140-010-b"/>
+       <pb facs="tcp:17878:10" n="eebo_img-10" xml:id="A12140-010-b"/>
        <w lemma="but" pos="acp" xml:id="A12140-010-b-0010">But</w>
        <w lemma="now" pos="av" xml:id="A12140-010-b-0020">now</w>
        <w lemma="her" pos="po" xml:id="A12140-010-b-0030">her</w>
@@ -7604,7 +7604,7 @@
       </l>
      </sp>
      <sp who="A12140-venture" xml:id="A12140-e107990">
-      <pb facs="21" n="eebo_img-11" xml:id="A12140-011-a"/>
+      <pb facs="tcp:17878:11" n="eebo_img-11" xml:id="A12140-011-a"/>
       <speaker>
        <w lemma="Ven." pos="ab" xml:id="A12140-011-a-0010">Ven.</w>
        <pc unit="sentence" xml:id="A12140-011-a-0020"/>
@@ -8112,7 +8112,7 @@
       </l>
      </sp>
      <stage xml:id="A12140-e108590">
-      <pb facs="22" n="eebo_img-11" xml:id="A12140-011-b"/>
+      <pb facs="tcp:17878:11" n="eebo_img-11" xml:id="A12140-011-b"/>
       <w lemma="they" pos="pns" xml:id="A12140-011-b-0010">They</w>
       <w lemma="dance" pos="vvb" xml:id="A12140-011-b-0020">Dance</w>
       <w lemma="in" pos="acp" xml:id="A12140-011-b-0030">in</w>
@@ -8576,7 +8576,7 @@
       </l>
      </sp>
      <stage xml:id="A12140-e109160">
-      <pb facs="23" n="eebo_img-12" xml:id="A12140-012-a"/>
+      <pb facs="tcp:17878:12" n="eebo_img-12" xml:id="A12140-012-a"/>
       <w lemma="enter" pos="vvb" xml:id="A12140-012-a-0010">Enter</w>
       <w lemma="servant" pos="n1" xml:id="A12140-012-a-0020">Servant</w>
       <w lemma="and" pos="cc" xml:id="A12140-012-a-0030">and</w>
@@ -9049,7 +9049,7 @@
       </l>
      </sp>
      <sp who="A12140-julietta" xml:id="A12140-e109760">
-      <pb facs="24" n="eebo_img-12" xml:id="A12140-012-b"/>
+      <pb facs="tcp:17878:12" n="eebo_img-12" xml:id="A12140-012-b"/>
       <speaker>
        <w lemma="Iu." pos="ab" xml:id="A12140-012-b-0010">Iu.</w>
        <pc unit="sentence" xml:id="A12140-012-b-0020"/>
@@ -9489,7 +9489,7 @@
       </l>
      </sp>
      <sp who="A12140-tryer" xml:id="A12140-e110270">
-      <pb facs="25" n="eebo_img-13" xml:id="A12140-013-a"/>
+      <pb facs="tcp:17878:13" n="eebo_img-13" xml:id="A12140-013-a"/>
       <speaker>
        <w lemma="Tr." pos="ab" xml:id="A12140-013-a-0010">Tr.</w>
        <pc unit="sentence" xml:id="A12140-013-a-0020"/>
@@ -9936,7 +9936,7 @@
        <pc unit="sentence" xml:id="A12140-013-a-3100"/>
       </speaker>
       <l xml:id="A12140-e110780">
-       <w join="right" lemma="there" pos="acp" reg="there" xml:id="A12140-013-a-3110">Ther</w>
+       <w join="right" lemma="there" pos="av" reg="there" xml:id="A12140-013-a-3110">Ther</w>
        <w join="left" lemma="be" pos="vvz" xml:id="A12140-013-a-3111">'s</w>
        <w lemma="a" pos="d" xml:id="A12140-013-a-3120">a</w>
        <w lemma="garden" pos="n1" xml:id="A12140-013-a-3130">garden</w>
@@ -9956,7 +9956,7 @@
       </l>
      </sp>
      <sp who="A12140-lord" xml:id="A12140-e110800">
-      <pb facs="26" n="eebo_img-13" xml:id="A12140-013-b"/>
+      <pb facs="tcp:17878:13" n="eebo_img-13" xml:id="A12140-013-b"/>
       <speaker>
        <w lemma="Lo." pos="ab" xml:id="A12140-013-b-0010">Lo.</w>
        <pc unit="sentence" xml:id="A12140-013-b-0020"/>
@@ -10437,7 +10437,7 @@
        <pc xml:id="A12140-013-b-3190">,</pc>
       </l>
       <l xml:id="A12140-e111380">
-       <pb facs="27" n="eebo_img-14" xml:id="A12140-014-a"/>
+       <pb facs="tcp:17878:14" n="eebo_img-14" xml:id="A12140-014-a"/>
        <w lemma="a" pos="d" xml:id="A12140-014-a-0010">A</w>
        <w lemma="thing" pos="n1" xml:id="A12140-014-a-0020">thing</w>
        <w lemma="much" pos="av-d" xml:id="A12140-014-a-0030">much</w>
@@ -10928,7 +10928,7 @@
        <w lemma="own" pos="d" reg="own" type="unclear" xml:id="A12140-014-a-3520">owne</w>
       </l>
       <l xml:id="A12140-e111900">
-       <pb facs="28" n="eebo_img-14" xml:id="A12140-014-b"/>
+       <pb facs="tcp:17878:14" n="eebo_img-14" xml:id="A12140-014-b"/>
        <w lemma="ride" pos="vvg" xml:id="A12140-014-b-0010">Riding</w>
        <pc xml:id="A12140-014-b-0020">,</pc>
        <w lemma="who" pos="crq" xml:id="A12140-014-b-0030">who</w>
@@ -11088,7 +11088,7 @@
        <w lemma="a" pos="d" xml:id="A12140-014-b-1090">A</w>
        <w lemma="whore" pos="n1" xml:id="A12140-014-b-1100">Whore</w>
        <w lemma="than" pos="cs" reg="than" xml:id="A12140-014-b-1110">then</w>
-       <w join="right" lemma="i" pos="pns" reg="I" xml:id="A12140-014-b-1120">i</w>
+       <w join="right" lemma="i" pos="pns" xml:id="A12140-014-b-1120">i</w>
        <w join="left" lemma="will" pos="vmd" reg="'d" xml:id="A12140-014-b-1121">de</w>
        <w lemma="be" pos="vvi" xml:id="A12140-014-b-1130">be</w>
        <w lemma="revenge" pos="vvn" reg="revenged" xml:id="A12140-014-b-1140">reveng'd</w>
@@ -11318,7 +11318,7 @@
        <w lemma="be" pos="vvi" type="unclear" xml:id="A12140-014-b-2690">be</w>
        <w lemma="displease" pos="vvn" xml:id="A12140-014-b-2700">displeased</w>
        <w join="right" lemma="with" pos="acp" reg="with" xml:id="A12140-014-b-2710">wo</w>
-       <w join="left" lemma="it" pos="pn" reg="'ot" xml:id="A12140-014-b-2711">ot</w>
+       <w join="left" lemma="it" pos="pn" xml:id="A12140-014-b-2711">ot</w>
        <pc unit="sentence" xml:id="A12140-014-b-2720">.</pc>
       </l>
      </sp>
@@ -11436,7 +11436,7 @@
       </l>
      </sp>
      <sp who="A12140-caroll" xml:id="A12140-e112450">
-      <pb facs="29" n="eebo_img-15" xml:id="A12140-015-a"/>
+      <pb facs="tcp:17878:15" n="eebo_img-15" xml:id="A12140-015-a"/>
       <speaker>
        <w lemma="Ca." pos="ab" xml:id="A12140-015-a-0010">Ca.</w>
        <pc unit="sentence" xml:id="A12140-015-a-0020"/>
@@ -11921,7 +11921,7 @@
       </l>
      </sp>
      <sp who="A12140-caroll" xml:id="A12140-e113010">
-      <pb facs="30" n="eebo_img-15" xml:id="A12140-015-b"/>
+      <pb facs="tcp:17878:15" n="eebo_img-15" xml:id="A12140-015-b"/>
       <speaker>
        <w lemma="Ca." pos="ab" xml:id="A12140-015-b-0010">Ca.</w>
        <pc unit="sentence" xml:id="A12140-015-b-0020"/>
@@ -12433,7 +12433,7 @@
        <pc xml:id="A12140-015-b-3610">,</pc>
        <w lemma="when" pos="crq" xml:id="A12140-015-b-3620">when</w>
        <w lemma="I" pos="pns" xml:id="A12140-015-b-3630">I</w>
-       <w join="left" lemma="have" pos="vvb" reg="'ve" xml:id="A12140-015-b-3631">v'e</w>
+       <w join="left" lemma="have" pos="vvb" xml:id="A12140-015-b-3631">v'e</w>
       </l>
       <l xml:id="A12140-e113550">
        <w lemma="a" pos="d" xml:id="A12140-015-b-3640">a</w>
@@ -12447,7 +12447,7 @@
        <w lemma="which" pos="crq" xml:id="A12140-015-b-3720">which</w>
       </l>
       <l xml:id="A12140-e113560">
-       <pb facs="31" n="eebo_img-16" xml:id="A12140-016-a"/>
+       <pb facs="tcp:17878:16" n="eebo_img-16" xml:id="A12140-016-a"/>
        <w lemma="your" pos="po" xml:id="A12140-016-a-0010">Your</w>
        <w lemma="worship" pos="n1" xml:id="A12140-016-a-0020">worship</w>
        <w lemma="shall" pos="vmb" xml:id="A12140-016-a-0030">shall</w>
@@ -12914,7 +12914,7 @@
        <pc xml:id="A12140-016-a-3540">,</pc>
       </l>
       <l xml:id="A12140-e114030">
-       <pb facs="32" n="eebo_img-16" xml:id="A12140-016-b"/>
+       <pb facs="tcp:17878:16" n="eebo_img-16" xml:id="A12140-016-b"/>
        <w lemma="I" pos="pns" xml:id="A12140-016-b-0010">I</w>
        <w lemma="must" pos="vmb" xml:id="A12140-016-b-0020">must</w>
        <w lemma="not" pos="xx" xml:id="A12140-016-b-0030">not</w>
@@ -13078,7 +13078,7 @@
       </speaker>
       <l xml:id="A12140-e114200">
        <w lemma="but" pos="acp" xml:id="A12140-016-b-1180">But</w>
-       <w join="right" lemma="i" pos="pns" reg="I" xml:id="A12140-016-b-1190">i</w>
+       <w join="right" lemma="i" pos="pns" xml:id="A12140-016-b-1190">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A12140-016-b-1191">le</w>
        <w lemma="speak" pos="vvi" reg="speak" xml:id="A12140-016-b-1200">speake</w>
        <w lemma="our" pos="po" xml:id="A12140-016-b-1210">our</w>
@@ -13339,7 +13339,7 @@
        <pc xml:id="A12140-016-b-2960">,</pc>
       </l>
       <l xml:id="A12140-e114500">
-       <pb facs="33" n="eebo_img-17" xml:id="A12140-017-a"/>
+       <pb facs="tcp:17878:17" n="eebo_img-17" xml:id="A12140-017-a"/>
        <w lemma="and" pos="cc" xml:id="A12140-017-a-0010">And</w>
        <w lemma="he" pos="pns" xml:id="A12140-017-a-0020">he</w>
        <w join="right" lemma="that" pos="cs" xml:id="A12140-017-a-0030">that</w>
@@ -13854,7 +13854,7 @@
       </l>
      </sp>
      <sp who="A12140-lord" xml:id="A12140-e115110">
-      <pb facs="34" n="eebo_img-17" xml:id="A12140-017-b"/>
+      <pb facs="tcp:17878:17" n="eebo_img-17" xml:id="A12140-017-b"/>
       <speaker>
        <w lemma="Lo." pos="ab" xml:id="A12140-017-b-0010">Lo.</w>
        <pc unit="sentence" xml:id="A12140-017-b-0020"/>
@@ -14353,7 +14353,7 @@
        <w lemma="gentleman" pos="n1" xml:id="A12140-017-b-3160">gentleman</w>
       </l>
       <l xml:id="A12140-e115730">
-       <pb facs="35" n="eebo_img-18" xml:id="A12140-018-a"/>
+       <pb facs="tcp:17878:18" n="eebo_img-18" xml:id="A12140-018-a"/>
        <w lemma="you" pos="pn" xml:id="A12140-018-a-0010">You</w>
        <w lemma="may" pos="vmb" xml:id="A12140-018-a-0020">may</w>
        <w lemma="in" pos="acp" xml:id="A12140-018-a-0030">in</w>
@@ -14822,7 +14822,7 @@
        <pc unit="sentence" xml:id="A12140-018-a-3450">.</pc>
       </l>
       <l xml:id="A12140-e116220">
-       <pb facs="36" n="eebo_img-18" xml:id="A12140-018-b"/>
+       <pb facs="tcp:17878:18" n="eebo_img-18" xml:id="A12140-018-b"/>
        <w lemma="I" pos="pns" xml:id="A12140-018-b-0010">I</w>
        <w lemma="will" pos="vmb" xml:id="A12140-018-b-0020">Will</w>
        <w lemma="hear" pos="vvi" reg="hear" type="unclear" xml:id="A12140-018-b-0030">heare</w>
@@ -15324,7 +15324,7 @@
       </l>
      </sp>
      <sp who="A12140-lacy" xml:id="A12140-e116810">
-      <pb facs="37" n="eebo_img-19" xml:id="A12140-019-a"/>
+      <pb facs="tcp:17878:19" n="eebo_img-19" xml:id="A12140-019-a"/>
       <speaker>
        <w lemma="La." pos="ab" xml:id="A12140-019-a-0010">La.</w>
        <pc unit="sentence" xml:id="A12140-019-a-0020"/>
@@ -15837,7 +15837,7 @@
        <w lemma="they" pos="pno" reg="'em" xml:id="A12140-019-a-3390">em</w>
        <w lemma="here" pos="av" xml:id="A12140-019-a-3400">here</w>
        <pc xml:id="A12140-019-a-3410">,</pc>
-       <w lemma="cousin" pos="n1" reg="x" xml:id="A12140-019-a-3420">Cousen</w>
+       <w lemma="cousin" pos="n1" xml:id="A12140-019-a-3420">Cousen</w>
        <pc xml:id="A12140-019-a-3430">,</pc>
        <w lemma="do" pos="vvb" xml:id="A12140-019-a-3440">do</w>
        <w lemma="they" pos="pns" xml:id="A12140-019-a-3450">they</w>
@@ -15862,7 +15862,7 @@
       </l>
      </sp>
      <sp who="A12140-caroll" xml:id="A12140-e117440">
-      <pb facs="38" n="eebo_img-19" xml:id="A12140-019-b"/>
+      <pb facs="tcp:17878:19" n="eebo_img-19" xml:id="A12140-019-b"/>
       <speaker>
        <w lemma="Ca." pos="ab" xml:id="A12140-019-b-0010">Ca.</w>
        <pc unit="sentence" xml:id="A12140-019-b-0020"/>
@@ -15874,7 +15874,7 @@
        <w lemma="such" pos="d" xml:id="A12140-019-b-0060">such</w>
        <w lemma="fellow" pos="n2" reg="fellows" xml:id="A12140-019-b-0070">fellowes</w>
        <pc xml:id="A12140-019-b-0080">,</pc>
-       <w lemma="cousin" pos="n1" reg="x" xml:id="A12140-019-b-0090">Cousen</w>
+       <w lemma="cousin" pos="n1" xml:id="A12140-019-b-0090">Cousen</w>
        <pc unit="sentence" xml:id="A12140-019-b-0100">.</pc>
       </l>
      </sp>
@@ -16402,7 +16402,7 @@
       </l>
      </sp>
      <sp who="A12140-bonavent" xml:id="A12140-e118060">
-      <pb facs="39" n="eebo_img-20" xml:id="A12140-020-a"/>
+      <pb facs="tcp:17878:20" n="eebo_img-20" xml:id="A12140-020-a"/>
       <speaker>
        <w lemma="M." pos="ab" xml:id="A12140-020-a-0010">M.</w>
        <w lemma="B." pos="ab" xml:id="A12140-020-a-0020">B.</w>
@@ -16923,7 +16923,7 @@
       </l>
      </sp>
      <sp who="A12140-fairfield" xml:id="A12140-e118670">
-      <pb facs="40" n="eebo_img-20" xml:id="A12140-020-b"/>
+      <pb facs="tcp:17878:20" n="eebo_img-20" xml:id="A12140-020-b"/>
       <speaker>
        <w lemma="Fa." pos="ab" xml:id="A12140-020-b-0010">Fa.</w>
        <pc unit="sentence" xml:id="A12140-020-b-0020"/>
@@ -17406,7 +17406,7 @@
        <w lemma="credit" pos="n1" xml:id="A12140-020-b-3620">credit</w>
       </l>
       <l xml:id="A12140-e119150">
-       <pb facs="41" n="eebo_img-21" xml:id="A12140-021-a"/>
+       <pb facs="tcp:17878:21" n="eebo_img-21" xml:id="A12140-021-a"/>
        <w lemma="have" pos="vvd" xml:id="A12140-021-a-0010">Had</w>
        <w lemma="not" pos="xx" xml:id="A12140-021-a-0020">not</w>
        <w lemma="be" pos="vvn" reg="been" type="unclear" xml:id="A12140-021-a-0030">beene</w>
@@ -17872,7 +17872,7 @@
       </l>
      </sp>
      <sp who="A12140-fairfield" xml:id="A12140-e119640">
-      <pb facs="42" n="eebo_img-21" xml:id="A12140-021-b"/>
+      <pb facs="tcp:17878:21" n="eebo_img-21" xml:id="A12140-021-b"/>
       <speaker>
        <w lemma="Fa." pos="ab" xml:id="A12140-021-b-0010">Fa.</w>
        <pc unit="sentence" xml:id="A12140-021-b-0020"/>
@@ -18335,7 +18335,7 @@
        <pc xml:id="A12140-021-b-3210">,</pc>
       </l>
       <l xml:id="A12140-e120180">
-       <pb facs="43" n="eebo_img-22" xml:id="A12140-022-a"/>
+       <pb facs="tcp:17878:22" n="eebo_img-22" xml:id="A12140-022-a"/>
        <w lemma="you" pos="pn" xml:id="A12140-022-a-0010">You</w>
        <w lemma="know" pos="vvb" xml:id="A12140-022-a-0020">know</w>
        <w lemma="my" pos="po" xml:id="A12140-022-a-0030">my</w>
@@ -18829,7 +18829,7 @@
        <pc xml:id="A12140-022-a-3690">,</pc>
       </l>
       <l xml:id="A12140-e120670">
-       <pb facs="44" n="eebo_img-22" xml:id="A12140-022-b"/>
+       <pb facs="tcp:17878:22" n="eebo_img-22" xml:id="A12140-022-b"/>
        <w join="right" lemma="it" pos="pn" reg="'t" xml:id="A12140-022-b-0010">T</w>
        <w join="left" lemma="be" pos="vvd" xml:id="A12140-022-b-0011">was</w>
        <w lemma="Philomel" pos="nn1" type="unclear" xml:id="A12140-022-b-0020">Philomel</w>
@@ -19300,7 +19300,7 @@
        <w lemma="notice" pos="n1" type="unclear" xml:id="A12140-022-b-3170">notice</w>
       </l>
       <l xml:id="A12140-e121230">
-       <pb facs="45" n="eebo_img-23" xml:id="A12140-023-a"/>
+       <pb facs="tcp:17878:23" n="eebo_img-23" xml:id="A12140-023-a"/>
        <w join="right" lemma="i" pos="pns" xml:id="A12140-023-a-0010">I</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A12140-023-a-0011">le</w>
        <w lemma="waft" pos="vvi" xml:id="A12140-023-a-0020">waft</w>
@@ -19809,7 +19809,7 @@
       </l>
      </sp>
      <stage xml:id="A12140-e121830">
-      <pb facs="46" n="eebo_img-23" xml:id="A12140-023-b"/>
+      <pb facs="tcp:17878:23" n="eebo_img-23" xml:id="A12140-023-b"/>
       <w lemma="enter" pos="vvb" xml:id="A12140-023-b-0010">Enter</w>
       <w lemma="Bonavent" pos="nn1" xml:id="A12140-023-b-0020">Bonavent</w>
       <pc unit="sentence" xml:id="A12140-023-b-0030">.</pc>
@@ -20275,7 +20275,7 @@
        <w lemma="gentleman" pos="ng1" reg="gentleman's" type="unclear" xml:id="A12140-023-b-3270">gentlemans</w>
       </l>
       <l xml:id="A12140-e122370">
-       <pb facs="47" n="eebo_img-24" xml:id="A12140-024-a"/>
+       <pb facs="tcp:17878:24" n="eebo_img-24" xml:id="A12140-024-a"/>
        <w join="right" lemma="it" pos="pn" xml:id="A12140-024-a-0010">It</w>
        <w join="left" lemma="the" pos="d" reg="t'h" xml:id="A12140-024-a-0011">'h</w>
        <w lemma="city" pos="n1" xml:id="A12140-024-a-0020">City</w>
@@ -20539,7 +20539,7 @@
        <w lemma="you" pos="pn" xml:id="A12140-024-a-1610">you</w>
        <w lemma="not" pos="xx" xml:id="A12140-024-a-1620">not</w>
        <w lemma="my" pos="po" xml:id="A12140-024-a-1630">my</w>
-       <w lemma="cousin" pos="n1" reg="x" xml:id="A12140-024-a-1640">Cousen</w>
+       <w lemma="cousin" pos="n1" xml:id="A12140-024-a-1640">Cousen</w>
        <pc unit="sentence" xml:id="A12140-024-a-1650">.</pc>
       </l>
       <stage xml:id="A12140-e122710">
@@ -20795,7 +20795,7 @@
       </l>
      </sp>
      <sp who="A12140-lacy" xml:id="A12140-e123010">
-      <pb facs="48" n="eebo_img-24" xml:id="A12140-024-b"/>
+      <pb facs="tcp:17878:24" n="eebo_img-24" xml:id="A12140-024-b"/>
       <speaker>
        <w lemma="La." pos="ab" xml:id="A12140-024-b-0010">La.</w>
        <pc unit="sentence" xml:id="A12140-024-b-0020"/>
@@ -20956,7 +20956,7 @@
          <w lemma="all" pos="d" xml:id="A12140-024-b-1020">all</w>
          <w lemma="that" pos="cs" xml:id="A12140-024-b-1030">that</w>
          <w lemma="dwell" pos="vvb" xml:id="A12140-024-b-1040">dwell</w>
-         <w lemma="nigh" pos="av-j" xml:id="A12140-024-b-1050">nigh</w>
+         <w lemma="nigh" pos="acp" xml:id="A12140-024-b-1050">nigh</w>
          <w lemma="the" pos="d" xml:id="A12140-024-b-1060">the</w>
          <w lemma="fountain" pos="n1" reg="fountain" xml:id="A12140-024-b-1070">fountaine</w>
          <pc xml:id="A12140-024-b-1080">,</pc>
@@ -21184,7 +21184,7 @@
          <pc unit="sentence" xml:id="A12140-024-b-2790">.</pc>
         </l>
         <l xml:id="A12140-e123450">
-         <pb facs="49" n="eebo_img-25" xml:id="A12140-025-a"/>
+         <pb facs="tcp:17878:25" n="eebo_img-25" xml:id="A12140-025-a"/>
          <w lemma="but" pos="acp" xml:id="A12140-025-a-0010">But</w>
          <w lemma="if" pos="cs" xml:id="A12140-025-a-0020">if</w>
          <w lemma="I" pos="pns" xml:id="A12140-025-a-0030">I</w>
@@ -21694,7 +21694,7 @@
       <pc unit="sentence" xml:id="A12140-025-a-3360">.</pc>
      </stage>
      <sp who="A12140-venture" xml:id="A12140-e124060">
-      <pb facs="50" n="eebo_img-25" xml:id="A12140-025-b"/>
+      <pb facs="tcp:17878:25" n="eebo_img-25" xml:id="A12140-025-b"/>
       <speaker>
        <w lemma="Ven." pos="ab" xml:id="A12140-025-b-0010">Ven.</w>
        <pc unit="sentence" xml:id="A12140-025-b-0020"/>
@@ -22194,7 +22194,7 @@
       </l>
      </sp>
      <sp who="A12140-caroll" xml:id="A12140-e124670">
-      <pb facs="51" n="eebo_img-26" xml:id="A12140-026-a"/>
+      <pb facs="tcp:17878:26" n="eebo_img-26" xml:id="A12140-026-a"/>
       <speaker>
        <w lemma="Ca." pos="ab" xml:id="A12140-026-a-0010">Ca.</w>
        <pc unit="sentence" xml:id="A12140-026-a-0020"/>
@@ -22707,7 +22707,7 @@
       </l>
      </sp>
      <sp who="A12140-fairfield" xml:id="A12140-e125300">
-      <pb facs="52" n="eebo_img-26" xml:id="A12140-026-b"/>
+      <pb facs="tcp:17878:26" n="eebo_img-26" xml:id="A12140-026-b"/>
       <speaker>
        <w lemma="Fa." pos="ab" xml:id="A12140-026-b-0010">Fa.</w>
        <pc unit="sentence" xml:id="A12140-026-b-0020"/>
@@ -23048,7 +23048,7 @@
        <w join="left" lemma="be" pos="vvz" xml:id="A12140-026-b-2141">is</w>
        <w lemma="do" pos="vvn" xml:id="A12140-026-b-2150">done</w>
        <w join="right" lemma="we" pos="pns" reg="wi'" xml:id="A12140-026-b-2160">we</w>
-       <w join="left" lemma="you" pos="pn" reg="ye" xml:id="A12140-026-b-2161">'e</w>
+       <w join="left" lemma="you" pos="pn" xml:id="A12140-026-b-2161">'e</w>
        <pc unit="sentence" xml:id="A12140-026-b-2170">.</pc>
       </l>
      </sp>
@@ -23233,7 +23233,7 @@
       <pc unit="sentence" xml:id="A12140-026-b-3290">.</pc>
      </stage>
      <sp who="A12140-julietta" xml:id="A12140-e125960">
-      <pb facs="53" n="eebo_img-27" xml:id="A12140-027-a"/>
+      <pb facs="tcp:17878:27" n="eebo_img-27" xml:id="A12140-027-a"/>
       <speaker>
        <w lemma="Iu." pos="ab" xml:id="A12140-027-a-0010">Iu.</w>
        <pc unit="sentence" xml:id="A12140-027-a-0020"/>
@@ -23278,7 +23278,7 @@
        <w lemma="a" pos="d" xml:id="A12140-027-a-0240">a</w>
        <w lemma="pair" pos="n1" reg="pair" xml:id="A12140-027-a-0250">paire</w>
        <w lemma="of" pos="acp" xml:id="A12140-027-a-0260">of</w>
-       <w lemma="presume" pos="j-vn" reg="presumed" xml:id="A12140-027-a-0270">persum'd</w>
+       <w lemma="presume" pos="j-vn" reg="presumed" xml:id="A12140-027-a-0270">perfum'd</w>
        <w lemma="glove" pos="n2" xml:id="A12140-027-a-0280">gloves</w>
        <w lemma="I" pos="pns" xml:id="A12140-027-a-0290">I</w>
        <w lemma="take" pos="vvb" xml:id="A12140-027-a-0300">take</w>
@@ -23723,7 +23723,7 @@
        <pc xml:id="A12140-027-a-3420">,</pc>
       </l>
       <l xml:id="A12140-e126520">
-       <pb facs="54" n="eebo_img-27" xml:id="A12140-027-b"/>
+       <pb facs="tcp:17878:27" n="eebo_img-27" xml:id="A12140-027-b"/>
        <w lemma="beside" pos="acp" type="unclear" xml:id="A12140-027-b-0010">Besides</w>
        <w lemma="mortify" pos="vvn" xml:id="A12140-027-b-0020">mortified</w>
        <pc xml:id="A12140-027-b-0030">,</pc>
@@ -24225,7 +24225,7 @@
       </l>
      </sp>
      <sp who="A12140-bonavent" xml:id="A12140-e127080">
-      <pb facs="55" n="eebo_img-28" xml:id="A12140-028-a"/>
+      <pb facs="tcp:17878:28" n="eebo_img-28" xml:id="A12140-028-a"/>
       <speaker>
        <w lemma="M." pos="ab" xml:id="A12140-028-a-0010">M.</w>
        <pc unit="sentence" xml:id="A12140-028-a-0020"/>
@@ -24368,7 +24368,7 @@
        <w lemma="shall" pos="vmbx" reg="sha'not" xml:id="A12140-028-a-1010">shannot</w>
        <w lemma="fight" pos="vvi" xml:id="A12140-028-a-1020">fight</w>
        <pc xml:id="A12140-028-a-1030">,</pc>
-       <w join="right" lemma="i" pos="pns" reg="I" xml:id="A12140-028-a-1040">i</w>
+       <w join="right" lemma="i" pos="pns" xml:id="A12140-028-a-1040">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A12140-028-a-1041">le</w>
        <w lemma="understand" pos="vvi" xml:id="A12140-028-a-1050">understand</w>
       </l>
@@ -24709,7 +24709,7 @@
        <w lemma="thought" pos="n1" xml:id="A12140-028-a-3380">thought</w>
       </l>
       <l xml:id="A12140-e127620">
-       <pb facs="56" n="eebo_img-28" xml:id="A12140-028-b"/>
+       <pb facs="tcp:17878:28" n="eebo_img-28" xml:id="A12140-028-b"/>
        <w lemma="to" pos="prt" xml:id="A12140-028-b-0010">To</w>
        <w lemma="violate" pos="vvi" type="unclear" xml:id="A12140-028-b-0020">violate</w>
        <w lemma="your" pos="po" xml:id="A12140-028-b-0030">your</w>
@@ -25129,7 +25129,7 @@
        <w lemma="thus" pos="av" xml:id="A12140-028-b-3210">thus</w>
       </l>
       <l xml:id="A12140-e128050">
-       <pb facs="57" n="eebo_img-29" xml:id="A12140-029-a"/>
+       <pb facs="tcp:17878:29" n="eebo_img-29" xml:id="A12140-029-a"/>
        <w lemma="divorce" pos="vvn" reg="Divorced" xml:id="A12140-029-a-0010">Divorc'd</w>
        <pc unit="sentence" xml:id="A12140-029-a-0020">—</pc>
       </l>
@@ -25625,7 +25625,7 @@
      </stage>
     </div>
     <div n="5" type="act" xml:id="A12140-e128660">
-     <pb facs="58" n="eebo_img-29" xml:id="A12140-029-b"/>
+     <pb facs="tcp:17878:29" n="eebo_img-29" xml:id="A12140-029-b"/>
      <head>
       <w lemma="the" pos="d" xml:id="A12140-029-b-0010">The</w>
       <w lemma="five" pos="ord" xml:id="A12140-029-b-0020">fift</w>
@@ -26062,7 +26062,7 @@
       </l>
      </sp>
      <sp who="A12140-julietta" xml:id="A12140-e129170">
-      <pb facs="59" n="eebo_img-30" xml:id="A12140-030-a"/>
+      <pb facs="tcp:17878:30" n="eebo_img-30" xml:id="A12140-030-a"/>
       <speaker>
        <w lemma="Iu." pos="ab" xml:id="A12140-030-a-0010">Iu.</w>
        <pc unit="sentence" xml:id="A12140-030-a-0020"/>
@@ -26515,7 +26515,7 @@
       </l>
      </sp>
      <sp who="A12140-julietta" xml:id="A12140-e129650">
-      <pb facs="60" n="eebo_img-30" xml:id="A12140-030-b"/>
+      <pb facs="tcp:17878:30" n="eebo_img-30" xml:id="A12140-030-b"/>
       <speaker>
        <w lemma="Iu." pos="ab" xml:id="A12140-030-b-0010">Iu.</w>
        <pc unit="sentence" xml:id="A12140-030-b-0020"/>
@@ -26959,7 +26959,7 @@
        <w lemma="thus" pos="av" xml:id="A12140-030-b-3130">thus</w>
       </l>
       <l xml:id="A12140-e130150">
-       <pb facs="61" n="eebo_img-31" xml:id="A12140-031-a"/>
+       <pb facs="tcp:17878:31" n="eebo_img-31" xml:id="A12140-031-a"/>
        <w lemma="there" pos="av" xml:id="A12140-031-a-0010">There</w>
        <w lemma="be" pos="vvb" xml:id="A12140-031-a-0020">be</w>
        <w lemma="some" pos="d" xml:id="A12140-031-a-0030">some</w>
@@ -27412,7 +27412,7 @@
        <w lemma="i" pos="pno" xml:id="A12140-031-a-3330">me</w>
       </l>
       <l xml:id="A12140-e130620">
-       <pb facs="62" n="eebo_img-31" xml:id="A12140-031-b"/>
+       <pb facs="tcp:17878:31" n="eebo_img-31" xml:id="A12140-031-b"/>
        <w lemma="to" pos="acp" xml:id="A12140-031-b-0010">To</w>
        <w lemma="any" pos="d" xml:id="A12140-031-b-0020">any</w>
        <w lemma="noble" pos="j" xml:id="A12140-031-b-0030">noble</w>
@@ -27845,7 +27845,7 @@
        <w lemma="up" pos="acp" xml:id="A12140-031-b-3110">up</w>
       </l>
       <l xml:id="A12140-e131100">
-       <pb facs="63" n="eebo_img-32" xml:id="A12140-032-a"/>
+       <pb facs="tcp:17878:32" n="eebo_img-32" xml:id="A12140-032-a"/>
        <w lemma="a" pos="d" xml:id="A12140-032-a-0010">A</w>
        <w lemma="seat" pos="n1" reg="seat" xml:id="A12140-032-a-0020">seate</w>
        <w lemma="among" pos="acp" xml:id="A12140-032-a-0030">among</w>
@@ -28130,7 +28130,7 @@
       <l xml:id="A12140-e131350">
        <w lemma="my" pos="po" xml:id="A12140-032-a-2250">My</w>
        <w lemma="lord" pos="n1" xml:id="A12140-032-a-2260">Lord</w>
-       <w join="right" lemma="i" pos="pns" reg="I" xml:id="A12140-032-a-2270">i</w>
+       <w join="right" lemma="i" pos="pns" xml:id="A12140-032-a-2270">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A12140-032-a-2271">le</w>
        <w lemma="follow" pos="vvi" xml:id="A12140-032-a-2280">follow</w>
        <w lemma="you" pos="pn" reg="ye" xml:id="A12140-032-a-2290">yee</w>
@@ -28348,7 +28348,7 @@
       </l>
      </sp>
      <sp who="A12140-caroll" xml:id="A12140-e131610">
-      <pb facs="64" n="eebo_img-32" xml:id="A12140-032-b"/>
+      <pb facs="tcp:17878:32" n="eebo_img-32" xml:id="A12140-032-b"/>
       <speaker>
        <w lemma="Ca." pos="ab" xml:id="A12140-032-b-0010">Ca.</w>
        <pc unit="sentence" xml:id="A12140-032-b-0020"/>
@@ -28814,7 +28814,7 @@
       </l>
      </sp>
      <sp who="A12140-fairfield" xml:id="A12140-e132090">
-      <pb facs="65" n="eebo_img-33" xml:id="A12140-033-a"/>
+      <pb facs="tcp:17878:33" n="eebo_img-33" xml:id="A12140-033-a"/>
       <speaker>
        <w lemma="Fa." pos="ab" xml:id="A12140-033-a-0010">Fa.</w>
        <pc unit="sentence" xml:id="A12140-033-a-0020"/>
@@ -29260,7 +29260,7 @@
       </l>
      </sp>
      <sp who="A12140-caroll" xml:id="A12140-e132570">
-      <pb facs="66" n="eebo_img-33" xml:id="A12140-033-b"/>
+      <pb facs="tcp:17878:33" n="eebo_img-33" xml:id="A12140-033-b"/>
       <speaker>
        <w lemma="Ca." pos="ab" xml:id="A12140-033-b-0010">Ca.</w>
        <pc unit="sentence" xml:id="A12140-033-b-0020"/>
@@ -29746,7 +29746,7 @@
        <w lemma="find" pos="vvi" reg="find" xml:id="A12140-033-b-3620">finde</w>
       </l>
       <l xml:id="A12140-e133040">
-       <pb facs="67" n="eebo_img-34" xml:id="A12140-034-a"/>
+       <pb facs="tcp:17878:34" n="eebo_img-34" xml:id="A12140-034-a"/>
        <w lemma="a" pos="d" xml:id="A12140-034-a-0010">A</w>
        <w lemma="grudge" pos="j-vg" xml:id="A12140-034-a-0020">grudging</w>
        <pc xml:id="A12140-034-a-0030">,</pc>
@@ -29761,7 +29761,7 @@
       </l>
       <l xml:id="A12140-e133050">
        <w lemma="say" pos="vvb" xml:id="A12140-034-a-0120">Say</w>
-       <w join="right" lemma="be" pos="vvz" reg="is" xml:id="A12140-034-a-0130">is</w>
+       <w join="right" lemma="be" pos="vvz" xml:id="A12140-034-a-0130">is</w>
        <w join="left" lemma="it" pos="pn" reg="'t" xml:id="A12140-034-a-0131">t</w>
        <w lemma="a" pos="d" xml:id="A12140-034-a-0140">a</w>
        <w lemma="match" pos="n1" xml:id="A12140-034-a-0150">Match</w>
@@ -30230,7 +30230,7 @@
        <w lemma="be" pos="vvb" xml:id="A12140-034-a-3360">be</w>
       </l>
       <l xml:id="A12140-e133590">
-       <pb facs="68" n="eebo_img-34" xml:id="A12140-034-b"/>
+       <pb facs="tcp:17878:34" n="eebo_img-34" xml:id="A12140-034-b"/>
        <w lemma="at" pos="acp" xml:id="A12140-034-b-0010">At</w>
        <w lemma="such" pos="d" xml:id="A12140-034-b-0020">such</w>
        <w lemma="a" pos="d" xml:id="A12140-034-b-0030">a</w>
@@ -30381,7 +30381,7 @@
        <w lemma="Fairfield" pos="nn1" reg="Fairfield" rend="hi" xml:id="A12140-034-b-0990">Fairefield</w>
        <w lemma="and" pos="cc" xml:id="A12140-034-b-1000">and</w>
        <w lemma="my" pos="po" xml:id="A12140-034-b-1010">my</w>
-       <w lemma="cousin" pos="n1" reg="x" xml:id="A12140-034-b-1020">Cosen</w>
+       <w lemma="cousin" pos="n1" xml:id="A12140-034-b-1020">Cosen</w>
        <w lemma="be" pos="vvb" xml:id="A12140-034-b-1030">are</w>
        <w lemma="contract" pos="vvn" xml:id="A12140-034-b-1040">contracted</w>
        <pc unit="sentence" xml:id="A12140-034-b-1050">.</pc>
@@ -30400,7 +30400,7 @@
        <w lemma="think" pos="vvb" reg="think" xml:id="A12140-034-b-1110">thinke</w>
        <pc xml:id="A12140-034-b-1120">,</pc>
        <w lemma="sister" pos="n1" xml:id="A12140-034-b-1130">sister</w>
-       <w join="right" lemma="i" pos="pns" reg="I" xml:id="A12140-034-b-1140">i</w>
+       <w join="right" lemma="i" pos="pns" xml:id="A12140-034-b-1140">i</w>
        <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A12140-034-b-1141">le</w>
        <w lemma="short" pos="av-j" xml:id="A12140-034-b-1150">shortly</w>
        <w lemma="call" pos="vvi" xml:id="A12140-034-b-1160">call</w>
@@ -30731,7 +30731,7 @@
       </l>
      </sp>
      <sp who="A12140-caroll" xml:id="A12140-e134210">
-      <pb facs="69" n="eebo_img-35" xml:id="A12140-035-a"/>
+      <pb facs="tcp:17878:35" n="eebo_img-35" xml:id="A12140-035-a"/>
       <speaker>
        <w lemma="Ca." pos="ab" xml:id="A12140-035-a-0010">Ca.</w>
        <pc unit="sentence" xml:id="A12140-035-a-0020"/>
@@ -31253,7 +31253,7 @@
       </l>
      </sp>
      <sp who="A12140-lacy" xml:id="A12140-e134820">
-      <pb facs="70" n="eebo_img-35" xml:id="A12140-035-b"/>
+      <pb facs="tcp:17878:35" n="eebo_img-35" xml:id="A12140-035-b"/>
       <speaker>
        <w lemma="La." pos="ab" xml:id="A12140-035-b-0010">La.</w>
        <pc unit="sentence" xml:id="A12140-035-b-0020"/>
@@ -31744,7 +31744,7 @@
        <w lemma="your" pos="po" xml:id="A12140-035-b-3260">your</w>
       </l>
       <l xml:id="A12140-e135400">
-       <pb facs="71" n="eebo_img-36" xml:id="A12140-036-a"/>
+       <pb facs="tcp:17878:36" n="eebo_img-36" xml:id="A12140-036-a"/>
        <w lemma="expect" pos="j-vn" xml:id="A12140-036-a-0010">Expected</w>
        <w lemma="bride" pos="n1" xml:id="A12140-036-a-0020">Bride</w>
        <pc xml:id="A12140-036-a-0030">,</pc>
@@ -31862,7 +31862,7 @@
       <w lemma="n/a" pos="fla" xml:id="A12140-036-a-0840">FINIS</w>
       <pc unit="sentence" xml:id="A12140-036-a-0850">.</pc>
      </trailer>
-     <pb facs="72" n="eebo_img-36" xml:id="A12140-036-b"/>
+     <pb facs="tcp:17878:36" n="eebo_img-36" xml:id="A12140-036-b"/>
     </div>
    </div>
   </body>

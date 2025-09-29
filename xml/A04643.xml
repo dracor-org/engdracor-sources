@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A04643</idno>
+    <idno type="STC">STC 14761</idno>
+    <idno type="STC">ESTC S109233</idno>
+    <idno type="EEBO-CITATION">99844883</idno>
+    <idno type="PROQUEST">99844883</idno>
+    <idno type="VID">9733</idno>
+    <idno type="PROQUESTGOID">2264193657</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A04643.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99844883</idno>
-      <idno type="stc">STC (2nd ed.) 14761.</idno>
-      <idno type="stc">Greg, I, 269-71(a).</idno>
-      <idno type="vid">9733</idno>
-      <idno type="DLPS">A04643</idno>
-      <idno type="PROQUESTGOID">2264193657</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -313,7 +313,7 @@
      <w lemma="great" pos="j" xml:id="A04643-001-b-0280">great</w>
      <w lemma="Britain" pos="nn1" reg="Britain" xml:id="A04643-001-b-0290">Britaine</w>
      <pc xml:id="A04643-001-b-0300">,</pc>
-     <w lemma="etc." pos="av" reg="etc." xml:id="A04643-001-b-0310">&amp;c.</w>
+     <w lemma="etc." pos="ab" reg="etc." xml:id="A04643-001-b-0310">&amp;c.</w>
      <pc unit="sentence" xml:id="A04643-001-b-0320"/>
      <w lemma="with" pos="acp" xml:id="A04643-001-b-0330">With</w>
      <w lemma="her" pos="po" xml:id="A04643-001-b-0340">her</w>
@@ -724,7 +724,7 @@
       <pc xml:id="A04643-003-a-1050">:</pc>
       <w lemma="n/a" pos="fla" rend="hi" xml:id="A04643-003-a-1060">Nigri</w>
       <w lemma="n/a" pos="fla" reg="flwio" rend="hi" type="unclear" xml:id="A04643-003-a-1070">fluuio</w>
-      <w lemma="n/a" pos="fla" rend="hi" xml:id="A04643-003-a-1080">cadem</w>
+      <w lemma="n/a" pos="fla" rend="hi" xml:id="A04643-003-a-1080">eadem</w>
       <w lemma="n/a" pos="fla" rend="hi" xml:id="A04643-003-a-1090">natura</w>
       <pc rend="hi" xml:id="A04643-003-a-1100">,</pc>
       <w lemma="n/a" pos="fla" rend="hi" xml:id="A04643-003-a-1110">que</w>
@@ -3615,7 +3615,7 @@
       </seg>
       <pc rend="hi" xml:id="A04643-006-b-2550">.</pc>
       <w lemma="n/a" pos="fla" rend="hi" xml:id="A04643-006-b-2560">in</w>
-      <w lemma="n/a" pos="fmi" rend="hi" xml:id="A04643-006-b-2570">voce</w>
+      <w lemma="n/a" pos="fla" rend="hi" xml:id="A04643-006-b-2570">voce</w>
       <seg xml:id="A04643-e101690" xml:lang="unk">
        <w lemma="n/a" pos="fgr" xml:id="A04643-006-b-2580">ΑἸΘΙΟΠΙΟΝ</w>
       </seg>
@@ -5662,7 +5662,7 @@
       <pc xml:id="A04643-010-a-2670">,</pc>
       <w lemma="iconolog" pos="n1" rend="hi" xml:id="A04643-010-a-2680">Iconolog</w>
       <pc rend="hi" xml:id="A04643-010-a-2690">.</pc>
-      <w lemma="di" pos="uh" rend="hi" xml:id="A04643-010-a-2700">di</w>
+      <w lemma="n/a" pos="fit" rend="hi" xml:id="A04643-010-a-2700">di</w>
       <w lemma="Cesare" pos="nn1" rend="hi" xml:id="A04643-010-a-2710">Cesare</w>
       <w lemma="Ripa" pos="nn1" rend="hi" xml:id="A04643-010-a-2720">Ripa</w>
       <pc rend="hi" unit="sentence" xml:id="A04643-010-a-2730">.</pc>
@@ -5934,7 +5934,7 @@
        <pc xml:id="A04643-011-a-0240">,</pc>
        <w lemma="n/a" pos="fla" xml:id="A04643-011-a-0250">vento</w>
        <pc xml:id="A04643-011-a-0260">,</pc>
-       <w lemma="etc." pos="av" reg="etc." xml:id="A04643-011-a-0270">&amp;c.</w>
+       <w lemma="etc." pos="ab" reg="etc." xml:id="A04643-011-a-0270">&amp;c.</w>
        <pc unit="sentence" xml:id="A04643-011-a-0280"/>
       </note>
       <w lemma="rude" pos="j" xml:id="A04643-011-a-0290">rude</w>
@@ -6612,7 +6612,7 @@
        <w lemma="of" pos="acp" rend="hi" xml:id="A04643-011-b-2820">of</w>
        <w lemma="Delos" pos="nn1" xml:id="A04643-011-b-2830">Delos</w>
        <pc unit="sentence" xml:id="A04643-011-b-2840">.</pc>
-       <w lemma="etc." pos="av" reg="etc." xml:id="A04643-011-b-2850">&amp;c.</w>
+       <w lemma="etc." pos="ab" reg="etc." xml:id="A04643-011-b-2850">&amp;c.</w>
        <pc unit="sentence" xml:id="A04643-011-b-2860"/>
       </note>
       <w lemma="float" pos="vvd" reg="floated" xml:id="A04643-011-b-2870">floted</w>
@@ -8195,7 +8195,7 @@
         <w lemma="n/a" pos="fla" rend="hi" xml:id="A04643-015-a-0570">ferunt</w>
         <w lemma="n/a" pos="fla" rend="hi" xml:id="A04643-015-a-0580">solutae</w>
         <pc rend="hi" unit="sentence" xml:id="A04643-015-a-0590">.</pc>
-        <w lemma="etc." pos="av" reg="etc." xml:id="A04643-015-a-0600">&amp;c.</w>
+        <w lemma="etc." pos="ab" reg="etc." xml:id="A04643-015-a-0600">&amp;c.</w>
         <pc unit="sentence" xml:id="A04643-015-a-0610"/>
        </note>
        <w lemma="myrtle" pos="n1" rend="hi" xml:id="A04643-015-a-0620">Myrtle</w>
@@ -8677,7 +8677,7 @@
          <w lemma="in" pos="acp" xml:id="A04643-015-b-1620">in</w>
          <w lemma="iconolog" pos="n1" rend="hi" xml:id="A04643-015-b-1630">Iconolog</w>
          <pc rend="hi" xml:id="A04643-015-b-1640">.</pc>
-         <w lemma="di" pos="uh" rend="hi" xml:id="A04643-015-b-1650">di</w>
+         <w lemma="n/a" pos="fit" rend="hi" xml:id="A04643-015-b-1650">di</w>
          <w lemma="Cesare" pos="nn1" rend="hi" xml:id="A04643-015-b-1660">Cesare</w>
          <w lemma="Ripa" pos="nn1" rend="hi" xml:id="A04643-015-b-1670">Ripa</w>
          <pc rend="hi" xml:id="A04643-015-b-1680">,</pc>
@@ -10556,7 +10556,7 @@
      <w lemma="first" pos="ord" xml:id="A04643-018-b-0740">first</w>
      <w lemma="tenor" pos="n1" rend="hi" xml:id="A04643-018-b-0750">Tenor</w>
      <pc rend="hi" xml:id="A04643-018-b-0760">,</pc>
-     <w lemma="admit" pos="vvd" reg="admitted" xml:id="A04643-018-b-0770">admit'd</w>
+     <w lemma="admit" pos="vvd" reg="admitted" xml:id="A04643-018-b-0770">admir'd</w>
      <w lemma="they" pos="pno" xml:id="A04643-018-b-0780">them</w>
      <w lemma="thus" pos="av" xml:id="A04643-018-b-0790">thus</w>
      <pc unit="sentence" xml:id="A04643-018-b-0800">.</pc>
@@ -11089,15 +11089,6 @@
    </div>
   </body>
   <back>
-   <div type="supplied_by_editor">
-    <head>Notes, typically marginal, from the original text</head>
-    <div corresp="A04643-e100100" xml:id="A04643-e100100-n">
-     <head>Notes for div A04643-e100100</head>
-    </div>
-    <div corresp="A04643-e103270" xml:id="A04643-e103270-n">
-     <head>Notes for div A04643-e103270</head>
-    </div>
-   </div>
    <div type="machine-generated_castlist">
     <head>Machine-generated castlist</head>
     <list n="160-A04643">

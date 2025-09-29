@@ -25,10 +25,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A12150</idno>
+    <idno type="STC">STC 22454</idno>
+    <idno type="STC">ESTC S117251</idno>
+    <idno type="EEBO-CITATION">99852466</idno>
+    <idno type="PROQUEST">99852466</idno>
+    <idno type="VID">17790</idno>
+    <idno type="PROQUESTGOID">2248541855</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A12150.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -41,12 +47,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2005 October (TCP phase 1)</date>
-      <idno type="marc">99852466</idno>
-      <idno type="stc">STC (2nd ed.) 22454.</idno>
-      <idno type="stc">Greg, II, 538(*).</idno>
-      <idno type="vid">17790</idno>
-      <idno type="DLPS">A12150</idno>
-      <idno type="PROQUESTGOID">2248541855</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -16244,7 +16244,7 @@
        <w lemma="all" pos="d" xml:id="A12150-023-a-1970">all</w>
        <pc xml:id="A12150-023-a-1980">;</pc>
        <w lemma="what" pos="crq" xml:id="A12150-023-a-1990">what</w>
-       <w join="right" lemma="be" pos="vvz" reg="is" xml:id="A12150-023-a-2000">is</w>
+       <w join="right" lemma="be" pos="vvz" xml:id="A12150-023-a-2000">is</w>
        <w join="left" lemma="it" pos="pn" reg="'t" xml:id="A12150-023-a-2001">t</w>
       </l>
       <l xml:id="A12150-e117780">
@@ -18946,7 +18946,7 @@
        <pc xml:id="A12150-026-a-1670">;</pc>
        <w lemma="why" pos="crq" xml:id="A12150-026-a-1680">why</w>
        <w lemma="mother" pos="n1" xml:id="A12150-026-a-1690">mother</w>
-       <w join="right" lemma="be" pos="vvz" reg="is" xml:id="A12150-026-a-1700">is</w>
+       <w join="right" lemma="be" pos="vvz" xml:id="A12150-026-a-1700">is</w>
        <w join="left" lemma="it" pos="pn" reg="'t" xml:id="A12150-026-a-1701">t</w>
        <w lemma="not" pos="xx" xml:id="A12150-026-a-1710">not</w>
        <w lemma="possible" pos="j" xml:id="A12150-026-a-1720">possible</w>
@@ -20649,7 +20649,7 @@
        <w lemma="he" pos="pns" xml:id="A12150-028-a-1380">He</w>
        <w lemma="have" pos="vvz" xml:id="A12150-028-a-1390">has</w>
        <w lemma="prevent" pos="vvn" xml:id="A12150-028-a-1400">prevented</w>
-       <w lemma="man" orig="mē" pos="n2" reg="men" xml:id="A12150-028-a-1410">men</w>
+       <w lemma="man" orig="mē" pos="n2" xml:id="A12150-028-a-1410">men</w>
        <pc unit="sentence" xml:id="A12150-028-a-1420">.</pc>
       </l>
       <l xml:id="A12150-e122840">
@@ -27346,7 +27346,7 @@
        <w lemma="be" pos="vv2" xml:id="A12150-035-b-1010">art</w>
       </l>
       <l xml:id="A12150-e130450">
-       <w lemma="consign" pos="vvn" reg="Consigned" xml:id="A12150-035-b-1020">Consin'd</w>
+       <w lemma="consign" pos="vvn" reg="Consigned" xml:id="A12150-035-b-1020">Confin'D</w>
        <pc xml:id="A12150-035-b-1030">,</pc>
        <w lemma="do" pos="vv2" reg="dost" xml:id="A12150-035-b-1040">doest</w>
        <w lemma="mark" pos="vvi" reg="mark" xml:id="A12150-035-b-1050">marke</w>
@@ -27870,7 +27870,7 @@
       <l xml:id="A12150-e130960">
        <w lemma="aloi" pos="zz" rend="hi" xml:id="A12150-036-a-1490">Aloi</w>
        <pc rend="hi" unit="sentence" xml:id="A12150-036-a-1500">.</pc>
-       <w lemma="consign" pos="vvn" reg="Consigned" xml:id="A12150-036-a-1510">Consin'd</w>
+       <w lemma="consign" pos="vvn" reg="Consigned" xml:id="A12150-036-a-1510">Confin'D</w>
        <pc unit="sentence" xml:id="A12150-036-a-1520">!</pc>
       </l>
      </sp>
@@ -28372,7 +28372,7 @@
       <l xml:id="A12150-e131510">
        <w lemma="be" pos="vvz" xml:id="A12150-036-b-2290">Is</w>
        <w lemma="now" pos="av" xml:id="A12150-036-b-2300">now</w>
-       <w lemma="consign" pos="vvn" reg="consigned" xml:id="A12150-036-b-2310">consin'd</w>
+       <w lemma="confine" pos="vvn" xml:id="A12150-036-b-2310">confin'd</w>
        <pc xml:id="A12150-036-b-2320">,</pc>
        <w lemma="and" pos="cc" xml:id="A12150-036-b-2330">and</w>
        <w lemma="under" pos="acp" xml:id="A12150-036-b-2340">under</w>

@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A04652</idno>
+    <idno type="STC">STC 14772</idno>
+    <idno type="STC">ESTC S109228</idno>
+    <idno type="EEBO-CITATION">99844878</idno>
+    <idno type="PROQUEST">99844878</idno>
+    <idno type="VID">9727</idno>
+    <idno type="PROQUESTGOID">2240860159</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A04652.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99844878</idno>
-      <idno type="stc">STC (2nd ed.) 14772.</idno>
-      <idno type="stc">Greg, II, 411(a).</idno>
-      <idno type="vid">9727</idno>
-      <idno type="DLPS">A04652</idno>
-      <idno type="PROQUESTGOID">2240860159</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -1582,7 +1582,7 @@
       <w lemma="of" pos="acp" xml:id="A04652-005-a-1910">Of</w>
       <w lemma="tincture" pos="n1" xml:id="A04652-005-a-1920">tincture</w>
       <pc xml:id="A04652-005-a-1930">,</pc>
-      <w lemma="high" pos="av-j" xml:id="A04652-005-a-1940">high</w>
+      <w lemma="high" pos="j" xml:id="A04652-005-a-1940">high</w>
       <w lemma="rose" pos="n1" xml:id="A04652-005-a-1950">rose</w>
       <w lemma="tincture" pos="n1" xml:id="A04652-005-a-1960">tincture</w>
       <pc unit="sentence" xml:id="A04652-005-a-1970">.</pc>
@@ -1710,10 +1710,10 @@
       <w lemma="and" pos="cc" xml:id="A04652-005-b-0300">&amp;</w>
       <w lemma="learning" pos="n1" xml:id="A04652-005-b-0310">learning</w>
       <pc unit="sentence" xml:id="A04652-005-b-0320">.</pc>
-      <w lemma="when" orig="Whē" pos="crq" reg="When" xml:id="A04652-005-b-0330">When</w>
+      <w lemma="when" orig="Whē" pos="crq" xml:id="A04652-005-b-0330">When</w>
       <w lemma="you" pos="pn" xml:id="A04652-005-b-0340">you</w>
       <w join="right" lemma="have" pos="vvb" xml:id="A04652-005-b-0350">ha'</w>
-      <w join="left" lemma="make" pos="vvn" reg=" made" xml:id="A04652-005-b-0351">made</w>
+      <w join="left" lemma="make" pos="vvn" xml:id="A04652-005-b-0351">made</w>
      </l>
      <l xml:id="A04652-e101690">
       <w lemma="your" pos="po" xml:id="A04652-005-b-0360">Your</w>
@@ -4006,7 +4006,7 @@
        <w lemma="of" pos="acp" xml:id="A04652-010-a-0330">of</w>
        <w lemma="Westminster" pos="nn1" xml:id="A04652-010-a-0340">Westminster</w>
        <pc xml:id="A04652-010-a-0350">,</pc>
-       <w lemma="n/a" pos="fmi" xml:id="A04652-010-a-0360">Tom</w>
+       <w lemma="tom" pos="nn1" xml:id="A04652-010-a-0360">Tom</w>
        <w lemma="Thumb" pos="nn1" reg="Thumb" xml:id="A04652-010-a-0370">Thumbe</w>
        <pc xml:id="A04652-010-a-0380">,</pc>
        <w lemma="and" pos="cc" rend="hi" xml:id="A04652-010-a-0390">and</w>
@@ -6155,12 +6155,6 @@
    </div>
   </body>
   <back>
-   <div type="supplied_by_editor">
-    <head>Notes, typically marginal, from the original text</head>
-    <div corresp="A04652-e100070" xml:id="A04652-e100070-n">
-     <head>Notes for div A04652-e100070</head>
-    </div>
-   </div>
    <div type="machine-generated_castlist">
     <head>Machine-generated castlist</head>
     <list n="162-A04652">

@@ -25,10 +25,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A11155</idno>
+    <idno type="STC">STC 21425</idno>
+    <idno type="STC">ESTC S116285</idno>
+    <idno type="EEBO-CITATION">99851502</idno>
+    <idno type="PROQUEST">99851502</idno>
+    <idno type="VID">16776</idno>
+    <idno type="PROQUESTGOID">2248537596</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A11155.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -41,12 +47,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2004 August (TCP phase 1)</date>
-      <idno type="marc">99851502</idno>
-      <idno type="stc">STC (2nd ed.) 21425.</idno>
-      <idno type="stc">Greg, II, 471.</idno>
-      <idno type="vid">16776</idno>
-      <idno type="DLPS">A11155</idno>
-      <idno type="PROQUESTGOID">2248537596</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -115,9 +115,9 @@
     <ep:defectiveTokenCount>0</ep:defectiveTokenCount>
     <ep:missingChunkCount>0</ep:missingChunkCount>
     <ep:missingPagesCount>0</ep:missingPagesCount>
-    <ep:defectRate>0</ep:defectRate>
+    <ep:defectRate>0.00</ep:defectRate>
     <ep:finalGrade>A</ep:finalGrade>
-    <ep:defectRangePerGrade> This text has no known defects that were recorded as gap elements at the time of transcription</ep:defectRangePerGrade>
+    <ep:defectRangePerGrade>This text  has no known defects that were recorded as gap elements at the time of transcription. </ep:defectRangePerGrade>
    </ep:epHeader>
   </xenoData>
   <revisionDesc>
@@ -136,217 +136,217 @@
   <surfaceGrp n="lab">
    <note type="witnessDetail">Boston Public Library</note>
    <surface corresp="#tcp:16776:1" xml:id="A11155-001-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$7"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$7"/>
    </surface>
    <surface corresp="#tcp:16776:2" xml:id="A11155-002-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$8"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$8"/>
    </surface>
    <surface corresp="#tcp:16776:2" xml:id="A11155-002-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$9"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$9"/>
    </surface>
    <surface corresp="#tcp:16776:3" xml:id="A11155-003-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$10"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$10"/>
    </surface>
    <surface corresp="#tcp:16776:3" xml:id="A11155-003-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$11"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$11"/>
    </surface>
    <surface corresp="#tcp:16776:4" xml:id="A11155-004-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$12"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$12"/>
    </surface>
    <surface corresp="#tcp:16776:4" xml:id="A11155-004-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$13"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$13"/>
    </surface>
    <surface corresp="#tcp:16776:5" xml:id="A11155-005-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$14"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$14"/>
    </surface>
    <surface corresp="#tcp:16776:5" xml:id="A11155-005-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$15"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$15"/>
    </surface>
    <surface corresp="#tcp:16776:6" xml:id="A11155-006-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$16"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$16"/>
    </surface>
    <surface corresp="#tcp:16776:6" xml:id="A11155-006-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$17"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$17"/>
    </surface>
    <surface corresp="#tcp:16776:7" xml:id="A11155-007-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$18"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$18"/>
    </surface>
    <surface corresp="#tcp:16776:7" xml:id="A11155-007-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$19"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$19"/>
    </surface>
    <surface corresp="#tcp:16776:8" xml:id="A11155-008-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$20"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$20"/>
    </surface>
    <surface corresp="#tcp:16776:8" xml:id="A11155-008-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$21"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$21"/>
    </surface>
    <surface corresp="#tcp:16776:9" xml:id="A11155-009-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$22"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$22"/>
    </surface>
    <surface corresp="#tcp:16776:9" xml:id="A11155-009-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$23"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$23"/>
    </surface>
    <surface corresp="#tcp:16776:10" xml:id="A11155-010-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$24"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$24"/>
    </surface>
    <surface corresp="#tcp:16776:10" xml:id="A11155-010-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$25"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$25"/>
    </surface>
    <surface corresp="#tcp:16776:11" xml:id="A11155-011-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$26"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$26"/>
    </surface>
    <surface corresp="#tcp:16776:11" xml:id="A11155-011-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$27"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$27"/>
    </surface>
    <surface corresp="#tcp:16776:12" xml:id="A11155-012-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$28"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$28"/>
    </surface>
    <surface corresp="#tcp:16776:12" xml:id="A11155-012-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$29"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$29"/>
    </surface>
    <surface corresp="#tcp:16776:13" xml:id="A11155-013-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$30"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$30"/>
    </surface>
    <surface corresp="#tcp:16776:13" xml:id="A11155-013-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$31"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$31"/>
    </surface>
    <surface corresp="#tcp:16776:14" xml:id="A11155-014-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$32"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$32"/>
    </surface>
    <surface corresp="#tcp:16776:14" xml:id="A11155-014-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$33"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$33"/>
    </surface>
    <surface corresp="#tcp:16776:15" xml:id="A11155-015-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$34"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$34"/>
    </surface>
    <surface corresp="#tcp:16776:15" xml:id="A11155-015-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$35"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$35"/>
    </surface>
    <surface corresp="#tcp:16776:16" xml:id="A11155-016-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$36"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$36"/>
    </surface>
    <surface corresp="#tcp:16776:16" xml:id="A11155-016-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$37"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$37"/>
    </surface>
    <surface corresp="#tcp:16776:17" xml:id="A11155-017-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$38"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$38"/>
    </surface>
    <surface corresp="#tcp:16776:17" xml:id="A11155-017-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$39"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$39"/>
    </surface>
    <surface corresp="#tcp:16776:18" xml:id="A11155-018-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$40"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$40"/>
    </surface>
    <surface corresp="#tcp:16776:18" xml:id="A11155-018-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$41"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$41"/>
    </surface>
    <surface corresp="#tcp:16776:19" xml:id="A11155-019-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$42"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$42"/>
    </surface>
    <surface corresp="#tcp:16776:19" xml:id="A11155-019-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$43"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$43"/>
    </surface>
    <surface corresp="#tcp:16776:20" xml:id="A11155-020-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$44"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$44"/>
    </surface>
    <surface corresp="#tcp:16776:20" xml:id="A11155-020-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$45"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$45"/>
    </surface>
    <surface corresp="#tcp:16776:21" xml:id="A11155-021-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$46"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$46"/>
    </surface>
    <surface corresp="#tcp:16776:21" xml:id="A11155-021-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$47"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$47"/>
    </surface>
    <surface corresp="#tcp:16776:22" xml:id="A11155-022-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$48"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$48"/>
    </surface>
    <surface corresp="#tcp:16776:22" xml:id="A11155-022-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$49"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$49"/>
    </surface>
    <surface corresp="#tcp:16776:23" xml:id="A11155-023-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$50"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$50"/>
    </surface>
    <surface corresp="#tcp:16776:23" xml:id="A11155-023-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$51"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$51"/>
    </surface>
    <surface corresp="#tcp:16776:24" xml:id="A11155-024-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$52"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$52"/>
    </surface>
    <surface corresp="#tcp:16776:24" xml:id="A11155-024-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$53"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$53"/>
    </surface>
    <surface corresp="#tcp:16776:25" xml:id="A11155-025-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$54"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$54"/>
    </surface>
    <surface corresp="#tcp:16776:25" xml:id="A11155-025-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$55"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$55"/>
    </surface>
    <surface corresp="#tcp:16776:26" xml:id="A11155-026-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$56"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$56"/>
    </surface>
    <surface corresp="#tcp:16776:26" xml:id="A11155-026-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$57"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$57"/>
    </surface>
    <surface corresp="#tcp:16776:27" xml:id="A11155-027-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$58"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$58"/>
    </surface>
    <surface corresp="#tcp:16776:27" xml:id="A11155-027-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$59"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$59"/>
    </surface>
    <surface corresp="#tcp:16776:28" xml:id="A11155-028-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$60"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$60"/>
    </surface>
    <surface corresp="#tcp:16776:28" xml:id="A11155-028-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$61"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$61"/>
    </surface>
    <surface corresp="#tcp:16776:29" xml:id="A11155-029-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$62"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$62"/>
    </surface>
    <surface corresp="#tcp:16776:29" xml:id="A11155-029-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$63"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$63"/>
    </surface>
    <surface corresp="#tcp:16776:30" xml:id="A11155-030-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$64"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$64"/>
    </surface>
    <surface corresp="#tcp:16776:30" xml:id="A11155-030-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$65"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$65"/>
    </surface>
    <surface corresp="#tcp:16776:31" xml:id="A11155-031-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$66"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$66"/>
    </surface>
    <surface corresp="#tcp:16776:31" xml:id="A11155-031-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$67"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$67"/>
    </surface>
    <surface corresp="#tcp:16776:32" xml:id="A11155-032-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$68"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$68"/>
    </surface>
    <surface corresp="#tcp:16776:32" xml:id="A11155-032-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$69"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$69"/>
    </surface>
    <surface corresp="#tcp:16776:33" xml:id="A11155-033-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$70"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$70"/>
    </surface>
    <surface corresp="#tcp:16776:33" xml:id="A11155-033-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$71"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$71"/>
    </surface>
    <surface corresp="#tcp:16776:34" xml:id="A11155-034-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$72"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$72"/>
    </surface>
    <surface corresp="#tcp:16776:34" xml:id="A11155-034-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$73"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$73"/>
    </surface>
    <surface corresp="#tcp:16776:35" xml:id="A11155-035-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$74"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$74"/>
    </surface>
    <surface corresp="#tcp:16776:35" xml:id="A11155-035-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$75"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$75"/>
    </surface>
    <surface corresp="#tcp:16776:36" xml:id="A11155-036-a-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$76"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$76"/>
    </surface>
    <surface corresp="#tcp:16776:36" xml:id="A11155-036-b-im">
-    <graphic url="https://iiif.archivelab.org/iiif/tragedycalledall00rowl$77"/>
+    <graphic url="https://iiif.archive.org/iiif/tragedycalledall00rowl$77"/>
    </surface>
   </surfaceGrp>
   <surfaceGrp n="eebo">
@@ -6064,7 +6064,7 @@
        <w lemma="of" pos="acp" xml:id="A11155-009-b-0960">of</w>
        <w lemma="both" pos="d" xml:id="A11155-009-b-0970">both</w>
        <w lemma="that" pos="cs" xml:id="A11155-009-b-0980">that</w>
-       <w lemma="neither" pos="dx" xml:id="A11155-009-b-0990">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A11155-009-b-0990">neither</w>
        <w lemma="the" pos="d" xml:id="A11155-009-b-1000">the</w>
        <w lemma="lord" pos="n1" xml:id="A11155-009-b-1010">Lord</w>
       </l>
@@ -7667,7 +7667,7 @@
        <w lemma="repulse" pos="vvn" reg="repulsed" xml:id="A11155-011-b-0100">repulst</w>
        <w join="right" lemma="in" pos="acp" reg="i'" xml:id="A11155-011-b-0110">i</w>
        <w join="left" lemma="the" pos="d" reg="th'" xml:id="A11155-011-b-0111">th</w>
-       <w lemma="n/a" pos="fmi" xml:id="A11155-011-b-0120">van</w>
+       <w lemma="van" pos="nnp" xml:id="A11155-011-b-0120">van</w>
        <pc xml:id="A11155-011-b-0130">;</pc>
       </l>
       <l xml:id="A11155-e106710">
@@ -7912,7 +7912,7 @@
        <w lemma="then" pos="av" xml:id="A11155-011-b-1820">then</w>
        <pc xml:id="A11155-011-b-1830">,</pc>
        <w lemma="and" pos="cc" xml:id="A11155-011-b-1840">and</w>
-       <w lemma="neither" pos="dx" xml:id="A11155-011-b-1850">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A11155-011-b-1850">neither</w>
        <w lemma="friend" pos="n2" xml:id="A11155-011-b-1860">friends</w>
        <w lemma="of" pos="acp" xml:id="A11155-011-b-1870">of</w>
        <w lemma="i" pos="png" xml:id="A11155-011-b-1880">mine</w>
@@ -8742,6 +8742,7 @@
        <w lemma="your" pos="po" xml:id="A11155-012-b-1160">your</w>
        <w lemma="humble" pos="j" xml:id="A11155-012-b-1170">humble</w>
        <w lemma="vassal" pos="n1" xml:id="A11155-012-b-1180">vassayle</w>
+       <pc xml:id="A11155-012-b-1181">?</pc>
        <pc unit="sentence" xml:id="A11155-012-b-1190">?</pc>
       </l>
      </sp>
@@ -11910,7 +11911,7 @@
       </l>
       <l xml:id="A11155-e111300">
        <w lemma="to" pos="prt" xml:id="A11155-016-a-1500">To</w>
-       <w join="right" lemma="destroy" pos="vvi" reg="destroy" xml:id="A11155-016-a-1510">destroy</w>
+       <w join="right" lemma="destroy" pos="vvi" xml:id="A11155-016-a-1510">destroy</w>
        <w join="left" lemma="they" pos="pno" xml:id="A11155-016-a-1511">'em</w>
        <pc xml:id="A11155-016-a-1520">;</pc>
        <w join="right" lemma="you" pos="pn" xml:id="A11155-016-a-1530">yo'</w>
@@ -13295,7 +13296,7 @@
        <pc unit="sentence" xml:id="A11155-017-b-0570"/>
       </speaker>
       <l xml:id="A11155-e112800">
-       <w lemma="o" pos="nn1" type="unclear" xml:id="A11155-017-b-0580">O</w>
+       <w lemma="o" pos="uh" type="unclear" xml:id="A11155-017-b-0580">O</w>
        <w lemma="strange" pos="j" xml:id="A11155-017-b-0590">strange</w>
        <pc xml:id="A11155-017-b-0600">,</pc>
        <w lemma="he" pos="pns" xml:id="A11155-017-b-0610">he</w>
@@ -13668,7 +13669,7 @@
        <w lemma="you" pos="pn" xml:id="A11155-017-b-3250">you</w>
        <pc xml:id="A11155-017-b-3260">,</pc>
        <w lemma="what" pos="crq" xml:id="A11155-017-b-3270">what</w>
-       <w join="right" lemma="be" pos="vvz" reg="is" xml:id="A11155-017-b-3280">is</w>
+       <w join="right" lemma="be" pos="vvz" xml:id="A11155-017-b-3280">is</w>
        <w join="left" lemma="it" pos="pn" reg="'t" xml:id="A11155-017-b-3281">t</w>
        <pc unit="sentence" xml:id="A11155-017-b-3290">.</pc>
       </l>
@@ -14457,7 +14458,7 @@
        <w lemma="be" pos="vv2" xml:id="A11155-018-b-1570">art</w>
        <pc xml:id="A11155-018-b-1580">;</pc>
        <w lemma="be" pos="vvg" xml:id="A11155-018-b-1590">being</w>
-       <w lemma="neither" pos="dx" xml:id="A11155-018-b-1600">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A11155-018-b-1600">neither</w>
       </l>
       <l xml:id="A11155-e113970">
        <w lemma="maid" pos="n1" reg="Maid" xml:id="A11155-018-b-1610">Maide</w>
@@ -15493,7 +15494,7 @@
        <w lemma="his" pos="po" type="unclear" xml:id="A11155-019-b-2600">his</w>
        <w lemma="office" pos="n1" xml:id="A11155-019-b-2610">office</w>
        <w lemma="beat" pos="vvi" xml:id="A11155-019-b-261">beat</w>
-       <w lemma="out" pos="acp" xml:id="A11155-019-b-2612">out</w>
+       <w lemma="out" pos="av" xml:id="A11155-019-b-2612">out</w>
        <w lemma="his" pos="po" xml:id="A11155-019-b-2613">his</w>
        <w lemma="brain" pos="n2" xml:id="A11155-019-b-2614">braines</w>
        <pc xml:id="A11155-019-b-2615">braines</pc>
@@ -16088,7 +16089,7 @@
        <w lemma="rogue" pos="n1" xml:id="A11155-020-b-0900">Rogue</w>
        <pc xml:id="A11155-020-b-0910">,</pc>
        <w lemma="thou" pos="pns" xml:id="A11155-020-b-0920">thou</w>
-       <w lemma="neither" pos="dx" xml:id="A11155-020-b-0930">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A11155-020-b-0930">neither</w>
        <w lemma="see" pos="vv2" xml:id="A11155-020-b-0940">seest</w>
        <pc xml:id="A11155-020-b-0950">,</pc>
        <w lemma="nor" pos="ccx" xml:id="A11155-020-b-0960">nor</w>
@@ -16424,7 +16425,7 @@
        <w lemma="and" pos="cc" xml:id="A11155-020-b-3340">And</w>
        <w lemma="the" pos="d" xml:id="A11155-020-b-3350">the</w>
        <w lemma="office" pos="n1" xml:id="A11155-020-b-3360">office</w>
-       <w lemma="I" pos="nng1" rend="italics-before_hi" xml:id="A11155-020-b-3370">I</w>
+       <w lemma="I" pos="pns" rend="italics-before_hi" xml:id="A11155-020-b-3370">I</w>
        <w lemma="hold" pos="vvi" xml:id="A11155-020-b-3371">hold</w>
        <w lemma="about" pos="acp" xml:id="A11155-020-b-3380">about</w>
        <w lemma="you" pos="pn" xml:id="A11155-020-b-3381">you</w>
@@ -18395,8 +18396,7 @@
        <w lemma="my" pos="po" xml:id="A11155-023-a-0900">my</w>
        <w lemma="letter" pos="n1" xml:id="A11155-023-a-0910">letter</w>
        <pc xml:id="A11155-023-a-0920">,</pc>
-       <w lemma="pat" pos="uh" xml:id="A11155-023-a-0930">pat</w>
-       <w lemma="i'faith" pos="uh" xml:id="A11155-023-a-0940">yffaith</w>
+       <w lemma="pat." pos="ab" xml:id="A11155-023-a-0930">pat.</w>
        <pc xml:id="A11155-023-a-0950">,</pc>
        <w join="right" lemma="here" pos="av" xml:id="A11155-023-a-0960">here</w>
        <w join="left" lemma="be" pos="vvz" xml:id="A11155-023-a-0961">'s</w>
@@ -18581,8 +18581,7 @@
        <pc unit="sentence" xml:id="A11155-023-a-2410"/>
       </speaker>
       <l xml:id="A11155-e117870">
-       <w lemma="Hum" pos="uh" xml:id="A11155-023-a-2420">Hum</w>
-       <pc xml:id="A11155-023-a-2430">,</pc>
+       <w lemma="hum." pos="ab" xml:id="A11155-023-a-2420">Hum.</w>
        <w lemma="humh" pos="uh" xml:id="A11155-023-a-2440">hum</w>
        <pc xml:id="A11155-023-a-2450">,</pc>
        <w lemma="humh" pos="uh" xml:id="A11155-023-a-2460">hum</w>
@@ -18869,8 +18868,7 @@
        <w lemma="with" pos="acp" xml:id="A11155-023-b-0860">with</w>
        <w lemma="you" pos="pn" xml:id="A11155-023-b-0870">you</w>
        <pc unit="sentence" xml:id="A11155-023-b-0880">.</pc>
-       <w lemma="Hum" pos="uh" xml:id="A11155-023-b-0890">Hum</w>
-       <pc xml:id="A11155-023-b-0900">,</pc>
+       <w lemma="hum." pos="ab" xml:id="A11155-023-b-0890">Hum.</w>
        <w lemma="humh" pos="uh" xml:id="A11155-023-b-0910">hum</w>
        <pc xml:id="A11155-023-b-0920">,</pc>
        <w lemma="humh" pos="uh" xml:id="A11155-023-b-0930">hum</w>
@@ -19884,7 +19882,7 @@
        <w lemma="n/a" pos="fes" rend="hi" xml:id="A11155-024-b-0890">Bonos</w>
        <w lemma="n/a" pos="fes" rend="hi" xml:id="A11155-024-b-0900">nocios</w>
        <pc rend="hi" xml:id="A11155-024-b-0910">,</pc>
-       <w lemma="n/a" pos="fit" rend="hi" xml:id="A11155-024-b-0920">mi</w>
+       <w lemma="n/a" pos="fla" rend="hi" xml:id="A11155-024-b-0920">mi</w>
        <w lemma="n/a" pos="fla" rend="hi" xml:id="A11155-024-b-0930">frater</w>
        <pc rend="hi" unit="sentence" xml:id="A11155-024-b-0940">.</pc>
       </p>
@@ -26604,8 +26602,7 @@
        <pc unit="sentence" xml:id="A11155-032-a-1520"/>
       </speaker>
       <p xml:id="A11155-e125750">
-       <w lemma="Hum" pos="uh" xml:id="A11155-032-a-1530">Hum</w>
-       <pc xml:id="A11155-032-a-1540">?</pc>
+       <w lemma="hum." pos="ab" xml:id="A11155-032-a-1530">Hum.</w>
        <w lemma="my" pos="po" xml:id="A11155-032-a-1550">my</w>
        <w lemma="brother" pos="n1" xml:id="A11155-032-a-1560">brother</w>
        <w lemma="be" pos="vvz" xml:id="A11155-032-a-1570">is</w>
@@ -26691,7 +26688,7 @@
        <w lemma="and" pos="cc" xml:id="A11155-032-a-2360">And</w>
        <w lemma="so" pos="av" xml:id="A11155-032-a-2370">so</w>
        <w lemma="come" pos="vvb" xml:id="A11155-032-a-2380">come</w>
-       <w lemma="along" pos="d" xml:id="A11155-032-a-2390">along</w>
+       <w lemma="along" pos="acp" xml:id="A11155-032-a-2390">along</w>
        <w lemma="with" pos="acp" xml:id="A11155-032-a-2410">with</w>
        <w lemma="to" pos="acp" xml:id="A11155-032-a-2420">to</w>
        <w lemma="i" pos="pno" xml:id="A11155-032-a-2430">me</w>
@@ -27057,7 +27054,7 @@
        <w lemma="all" pos="d" xml:id="A11155-032-b-1930">all</w>
        <pc xml:id="A11155-032-b-1940">,</pc>
        <w lemma="since" pos="acp" xml:id="A11155-032-b-1950">since</w>
-       <w lemma="you" pos="pn" type="unclear" xml:id="A11155-032-b-1960">you</w>
+       <w lemma="you" pos="pn" type="unclear" xml:id="A11155-032-b-1960">young</w>
        <w lemma="will" pos="vmb" xml:id="A11155-032-b-1961">le</w>
        <w lemma="not" pos="xx" xml:id="A11155-032-b-1970">not</w>
        <w lemma="let" pos="vvb" xml:id="A11155-032-b-1980">let</w>
@@ -27526,7 +27523,7 @@
        <w lemma="arrow" pos="n2" reg="arrows" xml:id="A11155-033-a-2150">arrowes</w>
        <w lemma="draw" pos="vvn" reg="drawn" xml:id="A11155-033-a-2160">drawne</w>
        <w join="right" lemma="to" pos="acp" xml:id="A11155-033-a-2170">to</w>
-       <w join="left" lemma="the" pos="d" reg="th'" xml:id="A11155-033-a-2171">th'</w>
+       <w join="left" lemma="the" pos="d" xml:id="A11155-033-a-2171">th'</w>
        <w lemma="head" pos="n1" xml:id="A11155-033-a-2180">head</w>
        <pc unit="sentence" xml:id="A11155-033-a-2190">.</pc>
       </l>
@@ -29779,7 +29776,7 @@ w      <w lemma="lead" pos="n1-vg" xml:id="A11155-035-a-0050">leading</w>
        <pc unit="sentence" xml:id="A11155-035-b-2810">?</pc>
       </l>
       <l xml:id="A11155-e128960">
-       <w lemma="be" pos="vvd" type="unclear" xml:id="A11155-035-b-2820">Was</w>
+       <w lemma="be" pos="vvd" type="unclear" xml:id="A11155-035-b-2820">WAS</w>
        <w lemma="she" pos="pns" xml:id="A11155-035-b-2830">she</w>
        <w lemma="the" pos="d" xml:id="A11155-035-b-2840">the</w>
        <w lemma="target" pos="n1" xml:id="A11155-035-b-2850">target</w>

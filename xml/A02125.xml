@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A02125</idno>
+    <idno type="STC">STC 12265</idno>
+    <idno type="STC">ESTC S105966</idno>
+    <idno type="EEBO-CITATION">99841691</idno>
+    <idno type="PROQUEST">99841691</idno>
+    <idno type="VID">6289</idno>
+    <idno type="PROQUESTGOID">2240873696</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A02125.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99841691</idno>
-      <idno type="stc">STC (2nd ed.) 12265.</idno>
-      <idno type="stc">Greg, I, 123(a).</idno>
-      <idno type="vid">6289</idno>
-      <idno type="DLPS">A02125</idno>
-      <idno type="PROQUESTGOID">2240873696</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -1497,7 +1497,7 @@
      </l>
      <l xml:id="A02125-e101320">
       <w lemma="as" pos="acp" xml:id="A02125-005-a-0190">As</w>
-      <w lemma="neither" pos="dx" xml:id="A02125-005-a-0200">neither</w>
+      <w lemma="neither" pos="avx-d" xml:id="A02125-005-a-0200">neither</w>
       <w lemma="country" pos="n1" xml:id="A02125-005-a-0210">Country</w>
       <pc xml:id="A02125-005-a-0220">,</pc>
       <w lemma="king" pos="n1" xml:id="A02125-005-a-0230">King</w>
@@ -8877,7 +8877,7 @@
      </p>
      <pb facs="tcp:6289:16" xml:id="A02125-016-b"/>
      <l xml:id="A02125-e108500">
-      <w lemma="step" pos="vvb" xml:id="A02125-016-b-0010">Step</w>
+      <w lemma="step" pos="n1" xml:id="A02125-016-b-0010">Step</w>
       <w lemma="but" pos="acp" xml:id="A02125-016-b-0020">but</w>
       <w lemma="aside" pos="av" xml:id="A02125-016-b-0030">aside</w>
       <w lemma="into" pos="acp" xml:id="A02125-016-b-0040">into</w>
@@ -14491,11 +14491,11 @@
       <w lemma="shall" pos="vmb" xml:id="A02125-024-b-0950">shall</w>
       <w lemma="not" pos="xx" xml:id="A02125-024-b-0960">not</w>
       <pc xml:id="A02125-024-b-0970">,</pc>
-      <w lemma="etc." pos="av" reg="etc." xml:id="A02125-024-b-0980">&amp;c.</w>
+      <w lemma="etc." pos="ab" reg="etc." xml:id="A02125-024-b-0980">&amp;c.</w>
       <pc unit="sentence" xml:id="A02125-024-b-0990"/>
      </l>
      <l xml:id="A02125-e114190">
-      <w lemma="'souns" pos="uh" reg="'Zounds" xml:id="A02125-024-b-1000">Sounes</w>
+      <w lemma="'souns" pos="uh" xml:id="A02125-024-b-1000">Sounes</w>
       <w lemma="Orgalio" pos="nn1" xml:id="A02125-024-b-1010">Orgalio</w>
       <pc xml:id="A02125-024-b-1020">,</pc>
       <w lemma="why" pos="crq" xml:id="A02125-024-b-1030">why</w>
@@ -14507,7 +14507,7 @@
       <w lemma="to" pos="prt" xml:id="A02125-024-b-1090">to</w>
       <w lemma="come" pos="vvi" xml:id="A02125-024-b-1100">come</w>
       <w lemma="so" pos="av" xml:id="A02125-024-b-1110">so</w>
-      <w lemma="nigh" pos="av-j" xml:id="A02125-024-b-1120">nigh</w>
+      <w lemma="nigh" pos="acp" xml:id="A02125-024-b-1120">nigh</w>
       <w lemma="i" pos="pno" xml:id="A02125-024-b-1130">me</w>
       <pc unit="sentence" xml:id="A02125-024-b-1140">?</pc>
      </l>
@@ -17341,7 +17341,7 @@
       <pc unit="sentence" xml:id="A02125-029-a-2380">.</pc>
      </speaker>
      <l xml:id="A02125-e116990">
-      <w lemma="marry" pos="uh" reg="Marry" xml:id="A02125-029-a-2390">Marrie</w>
+      <w lemma="marrie" pos="nn1" xml:id="A02125-029-a-2390">Marrie</w>
       <w lemma="sir" pos="n1" xml:id="A02125-029-a-2400">sir</w>
       <pc xml:id="A02125-029-a-2410">,</pc>
       <w lemma="that" pos="cs" xml:id="A02125-029-a-2420">that</w>

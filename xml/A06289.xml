@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A06289</idno>
+    <idno type="STC">STC 1677</idno>
+    <idno type="STC">ESTC S101186</idno>
+    <idno type="EEBO-CITATION">99837008</idno>
+    <idno type="PROQUEST">99837008</idno>
+    <idno type="VID">1312</idno>
+    <idno type="PROQUESTGOID">2240922969</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A06289.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99837008</idno>
-      <idno type="stc">STC (2nd ed.) 1677.</idno>
-      <idno type="stc">Greg, II, 357(a*).</idno>
-      <idno type="vid">1312</idno>
-      <idno type="DLPS">A06289</idno>
-      <idno type="PROQUESTGOID">2240922969</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -27818,7 +27818,7 @@
       <l xml:id="A06289-e128500">
        <w lemma="to" pos="prt" xml:id="A06289-031-b-0420">To</w>
        <w lemma="think" pos="vvi" reg="think" xml:id="A06289-031-b-0430">thinke</w>
-       <w lemma="a" pos="d" reg="an" type="unclear" xml:id="A06289-031-b-0440">an</w>
+       <w lemma="a" pos="d" type="unclear" xml:id="A06289-031-b-0440">an</w>
        <w lemma="action" pos="n1" xml:id="A06289-031-b-0450">action</w>
        <w lemma="that" pos="cs" xml:id="A06289-031-b-0460">that</w>
        <w lemma="will" pos="vmd" xml:id="A06289-031-b-0470">would</w>
@@ -32597,7 +32597,7 @@
        <w lemma="old" pos="j" xml:id="A06289-036-b-1460">old</w>
        <pc xml:id="A06289-036-b-1470">,</pc>
        <w lemma="and" pos="cc" xml:id="A06289-036-b-1480">and</w>
-       <w lemma="neither" pos="dx" xml:id="A06289-036-b-1490">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A06289-036-b-1490">neither</w>
        <w lemma="wise" pos="j" xml:id="A06289-036-b-1500">wise</w>
        <pc xml:id="A06289-036-b-1510">,</pc>
        <w lemma="nor" pos="ccx" xml:id="A06289-036-b-1520">nor</w>

@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A04600</idno>
+    <idno type="STC">STC 14719</idno>
+    <idno type="STC">ESTC S107859</idno>
+    <idno type="EEBO-CITATION">99843551</idno>
+    <idno type="PROQUEST">99843551</idno>
+    <idno type="VID">8293</idno>
+    <idno type="PROQUESTGOID">2240915539</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A04600.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99843551</idno>
-      <idno type="stc">STC (2nd ed.) 14719.</idno>
-      <idno type="stc">Greg, II, 497.</idno>
-      <idno type="vid">8293</idno>
-      <idno type="DLPS">A04600</idno>
-      <idno type="PROQUESTGOID">2240915539</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -107,9 +107,9 @@
     <ep:defectiveTokenCount>0</ep:defectiveTokenCount>
     <ep:missingChunkCount>0</ep:missingChunkCount>
     <ep:missingPagesCount>4</ep:missingPagesCount>
-    <ep:defectRate>2790.70</ep:defectRate>
+    <ep:defectRate>2792.00</ep:defectRate>
     <ep:finalGrade>F</ep:finalGrade>
-    <ep:defectRangePerGrade> The  rate of 2790.70 defects per 10,000 words puts this text in the F category of texts with  100 or more defects per 10,000 words.</ep:defectRangePerGrade>
+    <ep:defectRangePerGrade> The  rate of 2792.00 defects per 10,000 words puts this text in the F category of texts with  100 or more defects per 10,000 words.</ep:defectRangePerGrade>
    </ep:epHeader>
   </xenoData>
   <revisionDesc>
@@ -237,8 +237,7 @@
      <w lemma="surveyor" pos="n1" xml:id="A04600-001-b-0300">Surveyor</w>
      <w lemma="of" pos="acp" xml:id="A04600-001-b-0310">of</w>
      <w lemma="his" pos="po" xml:id="A04600-001-b-0320">his</w>
-     <w lemma="majesty" pos="ng1" reg="Maties" xml:id="A04600-001-b-0330">Ma</w>
-     <pc join="right" unit="sentence" xml:id="A04600-001-b-0340">.</pc>
+     <w lemma="Ma." pos="ab" xml:id="A04600-001-b-0330">Ma.</w>
      <w lemma="work" pos="vvz" reg="Works" xml:id="A04600-001-b-0350">Workes</w>
      <pc xml:id="A04600-001-b-0360">,</pc>
      <w lemma="and" pos="cc" xml:id="A04600-001-b-0370">and</w>
@@ -3454,7 +3453,7 @@
       <w lemma="all" pos="d" xml:id="A04600-007-b-0260">all</w>
       <w lemma="look" pos="n1" reg="look" xml:id="A04600-007-b-0270">looke</w>
       <w lemma="melancholy" pos="j" xml:id="A04600-007-b-0280">melancholy</w>
-      <w lemma="vow" pos="n1" reg="vow" xml:id="A04600-007-b-0290">uow</w>
+      <w lemma="vow" pos="n1" reg="vow" xml:id="A04600-007-b-0290">now</w>
       <pc unit="sentence" xml:id="A04600-007-b-0300">?</pc>
      </l>
      <l xml:id="A04600-e102380">
@@ -4870,7 +4869,7 @@
          <pc unit="sentence" xml:id="A04600-009-b-2270">)</pc>
         </head>
         <l xml:id="A04600-e103080">
-         <w lemma="whilst" orig="VVHilst" pos="cs" reg="whilst" xml:id="A04600-009-b-2280">WHilst</w>
+         <w lemma="whilst" orig="VVHilst" pos="cs" xml:id="A04600-009-b-2280">WHilst</w>
          <w lemma="by" pos="acp" xml:id="A04600-009-b-2290">by</w>
          <w lemma="a" pos="d" xml:id="A04600-009-b-2300">a</w>
          <w lemma="mixture" pos="n1" xml:id="A04600-009-b-2310">mixture</w>

@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A06270</idno>
+    <idno type="STC">STC 16754</idno>
+    <idno type="STC">ESTC S122090</idno>
+    <idno type="EEBO-CITATION">99857242</idno>
+    <idno type="PROQUEST">99857242</idno>
+    <idno type="VID">22934</idno>
+    <idno type="PROQUESTGOID">2240885949</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A06270.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2004 March (TCP phase 1)</date>
-      <idno type="marc">99857242</idno>
-      <idno type="stc">STC (2nd ed.) 16754.</idno>
-      <idno type="stc">Greg, I, 192.</idno>
-      <idno type="vid">22934</idno>
-      <idno type="DLPS">A06270</idno>
-      <idno type="PROQUESTGOID">2240885949</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -1110,7 +1110,7 @@
     </sp>
     <sp who="A06270-cornelius" xml:id="A06270-e100730">
      <speaker>
-      <w lemma="Cor." pos="nn1" type="unclear" xml:id="A06270-003-a-1240">Cor.</w>
+      <w lemma="cor." pos="ab" type="unclear" xml:id="A06270-003-a-1240">Cor.</w>
       <pc unit="sentence" xml:id="A06270-003-a-1250"/>
      </speaker>
      <l xml:id="A06270-e100740">
@@ -8712,7 +8712,7 @@
       <w lemma="guiltless" pos="j" reg="guiltless" xml:id="A06270-011-b-2690">guiltles</w>
       <w lemma="blood" pos="n1" reg="blood" xml:id="A06270-011-b-2700">bloud</w>
       <w lemma="have" pos="vvz" xml:id="A06270-011-b-2710">hath</w>
-      <w lemma="dye" pos="vvn" xml:id="A06270-011-b-2720">dyed</w>
+      <w lemma="die" pos="vvn" xml:id="A06270-011-b-2720">dyed</w>
       <w lemma="poor" pos="j" reg="poor" xml:id="A06270-011-b-2730">poore</w>
       <w lemma="Belgius" pos="nng1" reg="Belgius'" rend="hi" xml:id="A06270-011-b-2740">Belgius</w>
       <w lemma="check" pos="n2" reg="checks" xml:id="A06270-011-b-2750">checkes</w>
@@ -9319,7 +9319,7 @@
      <pc rend="hi" xml:id="A06270-012-b-1030">,</pc>
      <w lemma="Verdugo" pos="nn1" rend="hi" xml:id="A06270-012-b-1040">Verdugo</w>
      <w lemma="and" pos="cc" xml:id="A06270-012-b-1050">and</w>
-     <w lemma="Van" pos="nn1" rend="hi" xml:id="A06270-012-b-1060">Van</w>
+     <w lemma="Van" pos="nnp" rend="hi" xml:id="A06270-012-b-1060">Van</w>
      <w lemma="end" pos="vvb" rend="hi" xml:id="A06270-012-b-1070">End</w>
      <pc rend="hi" xml:id="A06270-012-b-1080">,</pc>
      <w lemma="where" pos="crq" xml:id="A06270-012-b-1090">where</w>
@@ -11077,7 +11077,7 @@
      </l>
      <l xml:id="A06270-e110720">
       <w lemma="spare" pos="vvb" xml:id="A06270-014-b-0800">Spare</w>
-      <w lemma="neither" pos="dx" xml:id="A06270-014-b-0810">neither</w>
+      <w lemma="neither" pos="avx-d" xml:id="A06270-014-b-0810">neither</w>
       <w lemma="widow" pos="n1" reg="widow" xml:id="A06270-014-b-0820">widdow</w>
       <pc xml:id="A06270-014-b-0830">,</pc>
       <w lemma="matron" pos="n1" xml:id="A06270-014-b-0840">matron</w>
@@ -11234,7 +11234,7 @@
       <w lemma="and" pos="cc" xml:id="A06270-014-b-2030">and</w>
       <w lemma="for" pos="acp" xml:id="A06270-014-b-2040">for</w>
       <w lemma="you" pos="pn" xml:id="A06270-014-b-2050">you</w>
-      <w lemma="Van" pos="nn1" rend="hi" xml:id="A06270-014-b-2060">Van</w>
+      <w lemma="Van" pos="nnp" rend="hi" xml:id="A06270-014-b-2060">Van</w>
       <w lemma="end" pos="vvb" rend="hi" xml:id="A06270-014-b-2070">End</w>
       <pc rend="hi" xml:id="A06270-014-b-2080">,</pc>
      </l>
@@ -12915,7 +12915,7 @@
       <w lemma="command" pos="vvi" reg="command" xml:id="A06270-016-b-0820">commaund</w>
       <pc xml:id="A06270-016-b-0830">;</pc>
       <w lemma="if" pos="cs" xml:id="A06270-016-b-0840">if</w>
-      <w lemma="neither" pos="dx" xml:id="A06270-016-b-0850">neither</w>
+      <w lemma="neither" pos="avx-d" xml:id="A06270-016-b-0850">neither</w>
       <w lemma="will" pos="vmb" xml:id="A06270-016-b-0860">will</w>
       <w lemma="prevail" pos="vvi" reg="prevail" xml:id="A06270-016-b-0870">preuaile</w>
       <pc xml:id="A06270-016-b-0880">,</pc>
@@ -17589,7 +17589,7 @@
      </l>
      <stage xml:id="A06270-e117520">
       <w lemma="another" pos="d" xml:id="A06270-021-b-2020">Another</w>
-      <w lemma="sto" pos="zz" xml:id="A06270-021-b-2030">sto</w>
+      <w lemma="n/a" pos="fit" xml:id="A06270-021-b-2030">sto</w>
       <pc unit="sentence" xml:id="A06270-021-b-2040">.</pc>
      </stage>
      <l xml:id="A06270-e117530">

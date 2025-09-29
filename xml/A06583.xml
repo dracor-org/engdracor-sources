@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A06583</idno>
+    <idno type="STC">STC 17047.5</idno>
+    <idno type="STC">ESTC S122289</idno>
+    <idno type="EEBO-CITATION">99857441</idno>
+    <idno type="PROQUEST">99857441</idno>
+    <idno type="VID">23181</idno>
+    <idno type="PROQUESTGOID">2240874066</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A06583.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2004 November (TCP phase 1)</date>
-      <idno type="marc">99857441</idno>
-      <idno type="stc">STC (2nd ed.) 17047.5.</idno>
-      <idno type="stc">Greg, I, 84(a).</idno>
-      <idno type="vid">23181</idno>
-      <idno type="DLPS">A06583</idno>
-      <idno type="PROQUESTGOID">2240874066</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -703,7 +703,7 @@
      <w lemma="as" pos="acp" xml:id="A06583-003-b-0330">as</w>
      <w lemma="jupiter" pos="nn1" reg="jupiter" rend="hi" xml:id="A06583-003-b-0340">Iupiter</w>
      <w lemma="place" pos="vvd" xml:id="A06583-003-b-0350">placed</w>
-     <w lemma="Silenus" pos="nng1" reg="Silenus'" rend="hi" xml:id="A06583-003-b-0360">Silenus</w>
+     <w lemma="Silenus" pos="nn1" reg="Silenus'" rend="hi" xml:id="A06583-003-b-0360">Silenus</w>
      <w lemma="ass" pos="n1" reg="Ass" xml:id="A06583-003-b-0370">Asse</w>
      <w lemma="among" pos="acp" xml:id="A06583-003-b-0380">among</w>
      <w lemma="the" pos="d" xml:id="A06583-003-b-0390">the</w>
@@ -2464,7 +2464,7 @@
        <w lemma="but" pos="acp" xml:id="A06583-006-a-2540">but</w>
        <w lemma="he" pos="pns" reg="he" xml:id="A06583-006-a-2550">hee</w>
        <w lemma="keep" pos="vvz" xml:id="A06583-006-a-2560">keepeth</w>
-       <w lemma="neither" pos="dx" xml:id="A06583-006-a-2570">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A06583-006-a-2570">neither</w>
        <w lemma="hot" pos="j" xml:id="A06583-006-a-2580">hot</w>
        <w lemma="nor" pos="ccx" xml:id="A06583-006-a-2590">nor</w>
        <w lemma="cold" pos="j" xml:id="A06583-006-a-2600">cold</w>
@@ -6054,7 +6054,7 @@
        <w lemma="no" pos="dx" xml:id="A06583-010-b-0960">no</w>
        <w lemma="money" pos="n1" xml:id="A06583-010-b-0970">money</w>
        <pc xml:id="A06583-010-b-0980">,</pc>
-       <w lemma="neither" pos="dx" xml:id="A06583-010-b-0990">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A06583-010-b-0990">neither</w>
        <w lemma="will" pos="vmb" xml:id="A06583-010-b-1000">will</w>
        <w lemma="I" pos="pns" xml:id="A06583-010-b-1010">I</w>
        <w lemma="have" pos="vvb" reg="have" xml:id="A06583-010-b-1020">haue</w>
@@ -7732,7 +7732,7 @@
        <w lemma="yield" pos="vvi" reg="yield" xml:id="A06583-012-b-1170">yeeld</w>
        <pc xml:id="A06583-012-b-1180">,</pc>
        <w lemma="when" pos="crq" xml:id="A06583-012-b-1190">when</w>
-       <w lemma="neither" pos="dx" xml:id="A06583-012-b-1200">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A06583-012-b-1200">neither</w>
        <w lemma="reason" pos="n1" xml:id="A06583-012-b-1210">reason</w>
        <w lemma="nor" pos="ccx" xml:id="A06583-012-b-1220">nor</w>
        <w lemma="counsel" pos="n1" xml:id="A06583-012-b-1230">counsel</w>
@@ -12191,7 +12191,7 @@
        <w lemma="you" pos="pn" xml:id="A06583-017-b-1270">You</w>
        <w lemma="lean" pos="j" reg="lean" xml:id="A06583-017-b-1280">leane</w>
        <w lemma="too" pos="av" xml:id="A06583-017-b-1290">too</w>
-       <w lemma="hard" pos="av-j" xml:id="A06583-017-b-1300">hard</w>
+       <w lemma="hard" pos="j" xml:id="A06583-017-b-1300">hard</w>
        <pc unit="sentence" xml:id="A06583-017-b-1310">.</pc>
       </p>
      </sp>
@@ -15374,8 +15374,7 @@
        <pc xml:id="A06583-021-b-0300">,</pc>
        <w lemma="Sol" pos="sy" xml:id="A06583-021-b-0310">Sol</w>
        <pc unit="sentence" xml:id="A06583-021-b-0320">.</pc>
-       <w lemma="n/a" pos="fit" xml:id="A06583-021-b-0330">Fa</w>
-       <pc unit="sentence" xml:id="A06583-021-b-0340">.</pc>
+       <w lemma="Fa." pos="ab" xml:id="A06583-021-b-0330">Fa.</w>
        <w lemma="La." pos="ab" xml:id="A06583-021-b-0350">La.</w>
        <w lemma="for" pos="acp" xml:id="A06583-021-b-0360">for</w>
        <w lemma="his" pos="po" xml:id="A06583-021-b-0370">his</w>

@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A06625</idno>
+    <idno type="STC">STC 17086</idno>
+    <idno type="STC">ESTC S2801</idno>
+    <idno type="EEBO-CITATION">24655124</idno>
+    <idno type="OCLC">ocm 24655124</idno>
+    <idno type="VID">27855</idno>
+    <idno type="PROQUESTGOID">2240924187</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A06625.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,11 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2004 August (TCP phase 1)</date>
-      <idno type="marc">24655124</idno>
-      <idno type="stc">STC (2nd ed.) 17086.</idno>
-      <idno type="vid">27855</idno>
-      <idno type="DLPS">A06625</idno>
-      <idno type="PROQUESTGOID">2240924187</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -2574,7 +2575,7 @@
        <w lemma="my" pos="po" xml:id="A06625-005-b-1530">Mine</w>
        <w lemma="eye" pos="n1" reg="eye" xml:id="A06625-005-b-1540">eie</w>
        <w lemma="drink" pos="vvz" xml:id="A06625-005-b-1550">drinketh</w>
-       <w lemma="neither" pos="dx" xml:id="A06625-005-b-1560">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A06625-005-b-1560">neither</w>
        <w lemma="the" pos="d" xml:id="A06625-005-b-1570">the</w>
        <w lemma="colour" pos="n1" xml:id="A06625-005-b-1580">colour</w>
        <w lemma="of" pos="acp" xml:id="A06625-005-b-1590">of</w>
@@ -15454,7 +15455,7 @@
        <w lemma="what" pos="crq" xml:id="A06625-019-b-3450">what</w>
        <w lemma="have" pos="vv2" reg="hast" xml:id="A06625-019-b-3460">haste</w>
        <w lemma="thou" pos="pns" xml:id="A06625-019-b-3470">thou</w>
-       <w lemma="do" pos="vvi" xml:id="A06625-019-b-3480">done</w>
+       <w lemma="do" pos="vvn" xml:id="A06625-019-b-3480">done</w>
        <w lemma="put" pos="vvi" xml:id="A06625-019-b-3490">put</w>
        <w lemma="thy" pos="po" xml:id="A06625-019-b-3500">thine</w>
        <w lemma="arrow" pos="n2" reg="arrows" xml:id="A06625-019-b-3510">arrowes</w>
@@ -19332,7 +19333,7 @@
        <pc xml:id="A06625-024-b-1620">,</pc>
        <w lemma="have" pos="vv2" reg="hast" xml:id="A06625-024-b-1630">haste</w>
        <w lemma="thou" pos="pns" xml:id="A06625-024-b-1640">thou</w>
-       <w lemma="do" pos="vvi" xml:id="A06625-024-b-1650">done</w>
+       <w lemma="do" pos="vvn" xml:id="A06625-024-b-1650">done</w>
        <w lemma="it" pos="pn" xml:id="A06625-024-b-1660">it</w>
        <pc unit="sentence" xml:id="A06625-024-b-1670">?</pc>
       </p>
@@ -20820,7 +20821,7 @@
      <w lemma="a" pos="d" xml:id="A06625-026-b-0990">a</w>
      <w lemma="wheel" pos="n1" reg="wheel" xml:id="A06625-026-b-1000">wheele</w>
      <pc xml:id="A06625-026-b-1010">,</pc>
-     <w lemma="neither" pos="dx" xml:id="A06625-026-b-1020">neither</w>
+     <w lemma="neither" pos="avx-d" xml:id="A06625-026-b-1020">neither</w>
      <w lemma="can" orig="cā" pos="vmb" xml:id="A06625-026-b-1030">can</w>
      <w lemma="there" pos="av" xml:id="A06625-026-b-1040">there</w>
      <w lemma="any" pos="d" xml:id="A06625-026-b-1050">any</w>

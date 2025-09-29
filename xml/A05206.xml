@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A05206</idno>
+    <idno type="STC">STC 15343</idno>
+    <idno type="STC">ESTC S111094</idno>
+    <idno type="EEBO-CITATION">99846511</idno>
+    <idno type="PROQUEST">99846511</idno>
+    <idno type="VID">11484</idno>
+    <idno type="PROQUESTGOID">2248516968</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A05206.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2005 December (TCP phase 1)</date>
-      <idno type="marc">99846511</idno>
-      <idno type="stc">STC (2nd ed.) 15343.</idno>
-      <idno type="stc">Greg, I, 213.</idno>
-      <idno type="vid">11484</idno>
-      <idno type="DLPS">A05206</idno>
-      <idno type="PROQUESTGOID">2248516968</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -114,12 +114,12 @@
     <ep:untranscribedForeignCount>0</ep:untranscribedForeignCount>
     <ep:untranscribedMathCount>0</ep:untranscribedMathCount>
     <ep:untranscribedMusicCount>0</ep:untranscribedMusicCount>
-    <ep:defectiveTokenCount>4</ep:defectiveTokenCount>
+    <ep:defectiveTokenCount>2</ep:defectiveTokenCount>
     <ep:missingChunkCount>0</ep:missingChunkCount>
     <ep:missingPagesCount>0</ep:missingPagesCount>
-    <ep:defectRate>1.46</ep:defectRate>
+    <ep:defectRate>0.73</ep:defectRate>
     <ep:finalGrade>B</ep:finalGrade>
-    <ep:defectRangePerGrade> The  rate of 1.46 defects per 10,000 words puts this text in the B category of texts with fewer than 10 defects per 10,000 words.</ep:defectRangePerGrade>
+    <ep:defectRangePerGrade> The  rate of 0.73 defects per 10,000 words puts this text in the B category of texts with fewer than 10 defects per 10,000 words.</ep:defectRangePerGrade>
    </ep:epHeader>
   </xenoData>
   <revisionDesc>
@@ -4459,7 +4459,7 @@
         <w lemma="will" pos="vmb" xml:id="A05206-006-b-1920">will</w>
         <w lemma="bestow" pos="vvi" xml:id="A05206-006-b-1930">bestow</w>
         <w lemma="they" pos="pno" xml:id="A05206-006-b-1940">them</w>
-        <w lemma="worthy" pos="av-j" xml:id="A05206-006-b-1950">worthy</w>
+        <w lemma="worthy" pos="j" xml:id="A05206-006-b-1950">worthy</w>
         <w lemma="their" pos="po" xml:id="A05206-006-b-1960">their</w>
         <w lemma="desert" pos="n2" xml:id="A05206-006-b-1970">deserts</w>
         <pc xml:id="A05206-006-b-1980">:</pc>
@@ -22627,7 +22627,7 @@
         <w lemma="be" pos="vvb" xml:id="A05206-024-b-3040">are</w>
         <w lemma="not" pos="xx" xml:id="A05206-024-b-3050">not</w>
         <w lemma="so" pos="av" xml:id="A05206-024-b-3060">so</w>
-        <w lemma="rife" pos="av-j" xml:id="A05206-024-b-3070">rife</w>
+        <w lemma="rife" pos="j" xml:id="A05206-024-b-3070">rife</w>
         <pc unit="sentence" xml:id="A05206-024-b-3080">.</pc>
        </p>
       </sp>
@@ -34191,7 +34191,7 @@
        <l xml:id="A05206-e133030">
         <w join="right" lemma="we" pos="pns" reg="we" xml:id="A05206-035-b-2840">Wee</w>
         <w join="left" lemma="will" pos="vmb" reg="'ll" xml:id="A05206-035-b-2841">le</w>
-        <w lemma="fast" pos="av-j" xml:id="A05206-035-b-2850">fast</w>
+        <w lemma="fast" pos="vvi" xml:id="A05206-035-b-2850">fast</w>
         <w lemma="and" pos="cc" xml:id="A05206-035-b-2860">and</w>
         <w lemma="pray" pos="vvb" xml:id="A05206-035-b-2870">pray</w>
         <pc xml:id="A05206-035-b-2880">,</pc>

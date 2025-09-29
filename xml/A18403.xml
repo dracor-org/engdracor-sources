@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A18403</idno>
+    <idno type="STC">STC 4966</idno>
+    <idno type="STC">ESTC S107951</idno>
+    <idno type="EEBO-CITATION">99843643</idno>
+    <idno type="PROQUEST">99843643</idno>
+    <idno type="VID">8389</idno>
+    <idno type="PROQUESTGOID">2240915546</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A18403.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99843643</idno>
-      <idno type="stc">STC (2nd ed.) 4966.</idno>
-      <idno type="stc">Greg, I, 246(a*).</idno>
-      <idno type="vid">8389</idno>
-      <idno type="DLPS">A18403</idno>
-      <idno type="PROQUESTGOID">2240915546</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -5019,7 +5019,7 @@
      </l>
      <l xml:id="A18403-e104640">
       <pc join="right" xml:id="A18403-007-b-2840">(</pc>
-      <w lemma="no" pos="avx-d" xml:id="A18403-007-b-2850">No</w>
+      <w lemma="no" pos="uhx" xml:id="A18403-007-b-2850">No</w>
       <pc xml:id="A18403-007-b-2860">,</pc>
       <w lemma="not" pos="xx" xml:id="A18403-007-b-2870">not</w>
       <w lemma="when" pos="crq" xml:id="A18403-007-b-2880">when</w>
@@ -5753,7 +5753,7 @@
       <w lemma="and" pos="cc" xml:id="A18403-008-b-0910">and</w>
       <w lemma="you" pos="pn" reg="ye" xml:id="A18403-008-b-0920">yee</w>
       <w lemma="sleep" pos="n1" reg="sleep" xml:id="A18403-008-b-0930">sleepe</w>
-      <w join="right" lemma="an" pos="cs" xml:id="A18403-008-b-0940">an</w>
+      <w lemma="an" pos="cs" xml:id="A18403-008-b-0940">an</w>
       <w join="left" lemma="it" pos="pn" xml:id="A18403-008-b-0941">'t</w>
       <pc xml:id="A18403-008-b-0950">,</pc>
       <w lemma="hang" pos="vvb" xml:id="A18403-008-b-0960">hang</w>
@@ -6336,7 +6336,7 @@
      <l xml:id="A18403-e105760">
       <w lemma="and" pos="cc" xml:id="A18403-009-a-1970">And</w>
       <w lemma="therefore" pos="av" xml:id="A18403-009-a-1980">therefore</w>
-      <w lemma="cousin" pos="n1" reg="x" xml:id="A18403-009-a-1990">cousen</w>
+      <w lemma="cousin" pos="n1" xml:id="A18403-009-a-1990">cousen</w>
       <w lemma="Guise" pos="nn1" xml:id="A18403-009-a-2000">Guise</w>
       <w lemma="let" pos="vvb" xml:id="A18403-009-a-2010">let</w>
       <w lemma="we" pos="pno" reg="us" xml:id="A18403-009-a-2020">vs</w>
@@ -17016,7 +17016,7 @@
       <pc unit="sentence" xml:id="A18403-020-b-2570"/>
      </speaker>
      <p xml:id="A18403-e115770">
-      <w join="right" lemma="by" pos="acp" reg="by" xml:id="A18403-020-b-2580">be</w>
+      <w lemma="be" pos="vvb" xml:id="A18403-020-b-2580">be</w>
       <w join="left" lemma="our" pos="po" reg="'r" xml:id="A18403-020-b-2581">r</w>
       <w lemma="lady" pos="n1" xml:id="A18403-020-b-2590">lady</w>
       <w lemma="a" pos="d" xml:id="A18403-020-b-2600">a</w>
@@ -17070,7 +17070,7 @@
       <w lemma="a" pos="d" xml:id="A18403-020-b-3000">a</w>
       <w lemma="liver" pos="n1" reg="liver" xml:id="A18403-020-b-3010">liuer</w>
       <w lemma="as" pos="acp" xml:id="A18403-020-b-3020">as</w>
-      <w lemma="hard" pos="av-j" xml:id="A18403-020-b-3030">hard</w>
+      <w lemma="hard" pos="j" xml:id="A18403-020-b-3030">hard</w>
       <w lemma="as" pos="acp" xml:id="A18403-020-b-3040">as</w>
       <w lemma="a" pos="d" xml:id="A18403-020-b-3050">a</w>
       <w lemma="biscuit" pos="n1" reg="biscuit" xml:id="A18403-020-b-3060">bisket</w>
@@ -17464,7 +17464,7 @@
       <w lemma="which" pos="crq" xml:id="A18403-021-a-1590">which</w>
       <w lemma="you" pos="pn" xml:id="A18403-021-a-1600">you</w>
       <w lemma="shall" pos="vmb" xml:id="A18403-021-a-1610">shall</w>
-      <w lemma="neither" pos="dx" xml:id="A18403-021-a-1620">neither</w>
+      <w lemma="neither" pos="avx-d" xml:id="A18403-021-a-1620">neither</w>
       <w lemma="riddle" pos="n1" xml:id="A18403-021-a-1630">riddle</w>
       <w lemma="nor" pos="ccx" xml:id="A18403-021-a-1640">nor</w>
       <w lemma="fiddle" pos="n1" xml:id="A18403-021-a-1650">fiddle</w>
@@ -28071,7 +28071,7 @@
       <w lemma="be" pos="vvz" xml:id="A18403-032-b-0590">is</w>
       <w lemma="blind" pos="js" xml:id="A18403-032-b-0600">blindest</w>
       <pc xml:id="A18403-032-b-0610">:</pc>
-      <w lemma="open" pos="av-j" xml:id="A18403-032-b-0620">open</w>
+      <w lemma="open" pos="j" xml:id="A18403-032-b-0620">open</w>
       <w lemma="now" pos="av" xml:id="A18403-032-b-0630">now</w>
       <w lemma="the" pos="d" xml:id="A18403-032-b-0640">the</w>
       <w lemma="heart" pos="n1" xml:id="A18403-032-b-0650">heart</w>
@@ -32293,15 +32293,6 @@
    </div>
   </body>
   <back>
-   <div type="supplied_by_editor">
-    <head>Notes, typically marginal, from the original text</head>
-    <div corresp="A18403-e117950" xml:id="A18403-e117950-n">
-     <head>Notes for div A18403-e117950</head>
-    </div>
-    <div corresp="A18403-e123550" xml:id="A18403-e123550-n">
-     <head>Notes for div A18403-e123550</head>
-    </div>
-   </div>
    <div type="machine-generated_castlist">
     <head>Machine-generated castlist</head>
     <list n="160-A18403">

@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A13848</idno>
+    <idno type="STC">STC 24156</idno>
+    <idno type="STC">ESTC S118499</idno>
+    <idno type="EEBO-CITATION">99853706</idno>
+    <idno type="PROQUEST">99853706</idno>
+    <idno type="VID">19100</idno>
+    <idno type="PROQUESTGOID">2240896298</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A13848.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99853706</idno>
-      <idno type="stc">STC (2nd ed.) 24156.</idno>
-      <idno type="stc">Greg, II, 454.</idno>
-      <idno type="vid">19100</idno>
-      <idno type="DLPS">A13848</idno>
-      <idno type="PROQUESTGOID">2240896298</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -559,7 +559,7 @@
       <pb facs="tcp:19100:3" n="3" xml:id="A13848-003-b"/>
       <w lemma="book" pos="n1" reg="book" xml:id="A13848-003-b-0010">booke</w>
       <w lemma="lie" pos="vvg" xml:id="A13848-003-b-0020">lying</w>
-      <w lemma="open" pos="av-j" xml:id="A13848-003-b-0030">open</w>
+      <w lemma="open" pos="j" xml:id="A13848-003-b-0030">open</w>
       <w lemma="before" pos="acp" xml:id="A13848-003-b-0040">before</w>
       <w lemma="he" pos="pno" xml:id="A13848-003-b-0050">him</w>
       <pc xml:id="A13848-003-b-0060">,</pc>
@@ -1993,8 +1993,7 @@
      </list>
      <p xml:id="A13848-e100960">
       <w lemma="the" pos="d" xml:id="A13848-006-a-0510">The</w>
-      <w lemma="n/a" pos="fla" xml:id="A13848-006-a-0520">Anti</w>
-      <w lemma="masque" pos="n2" xml:id="A13848-006-a-0530">Masques</w>
+      <w lemma="anti masque" pos="n2" xml:id="A13848-006-a-0520">Anti Masques</w>
       <w lemma="be" pos="vvg" xml:id="A13848-006-a-0540">being</w>
       <w lemma="pass" pos="vvn" reg="passed" xml:id="A13848-006-a-0550">past</w>
       <pc xml:id="A13848-006-a-0560">;</pc>

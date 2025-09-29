@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A08065</idno>
+    <idno type="STC">STC 18430</idno>
+    <idno type="STC">ESTC S113150</idno>
+    <idno type="EEBO-CITATION">99848389</idno>
+    <idno type="PROQUEST">99848389</idno>
+    <idno type="VID">13479</idno>
+    <idno type="PROQUESTGOID">2248535486</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A08065.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -38,12 +44,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2012 November (TCP phase 2)</date>
-      <idno type="marc">99848389</idno>
-      <idno type="stc">STC (2nd ed.) 18430.</idno>
-      <idno type="stc">Greg, II, 410(a).</idno>
-      <idno type="vid">13479</idno>
-      <idno type="DLPS">A08065</idno>
-      <idno type="PROQUESTGOID">2248535486</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -124,7 +124,7 @@
    </ep:epHeader>
   </xenoData>
   <revisionDesc>
-   <change when="20152011" who="MM">
+   <change when="20152011" who="A08065-MM">
     <ab>Incorporated ~ 10,000 textual changes made to the SHC corpus by Hannah Bredar, Kate Needham, and Lydia Zoells between April and July 2015 during visits, separately or together, to the Bodleian, Folger and Houghton Libraries as well as the Rare Book Libraries at Northwestern University and the University of Chicago</ab>
    </change>
   </revisionDesc>
@@ -23603,7 +23603,7 @@
        <w lemma="god" pos="n2" xml:id="A08065-027-b-3130">Gods</w>
        <pc xml:id="A08065-027-b-3140">,</pc>
        <w lemma="before" pos="acp" xml:id="A08065-027-b-3150">before</w>
-       <w join="right" lemma="they" pos="pns" reg="they" xml:id="A08065-027-b-3160">th</w>
+       <w join="right" lemma="they" pos="pns" xml:id="A08065-027-b-3160">th</w>
        <w join="left" lemma="will" pos="vmd" reg="'d" xml:id="A08065-027-b-3161">'would</w>
        <w lemma="let" pos="vvi" xml:id="A08065-027-b-3170">let</w>
        <w lemma="we" pos="pno" reg="us" xml:id="A08065-027-b-3180">vs</w>

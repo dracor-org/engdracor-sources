@@ -25,10 +25,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A18421</idno>
+    <idno type="STC">STC 4989</idno>
+    <idno type="STC">ESTC S122391</idno>
+    <idno type="EEBO-CITATION">99857542</idno>
+    <idno type="PROQUEST">99857542</idno>
+    <idno type="VID">23296</idno>
+    <idno type="PROQUESTGOID">2240897167</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A18421.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -41,12 +47,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99857542</idno>
-      <idno type="stc">STC (2nd ed.) 4989.</idno>
-      <idno type="stc">Greg, I, 307.</idno>
-      <idno type="vid">23296</idno>
-      <idno type="DLPS">A18421</idno>
-      <idno type="PROQUESTGOID">2240897167</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -542,7 +542,7 @@
      <w lemma="Thomas" pos="nn1" xml:id="A18421-002-b-0120">Thomas</w>
      <w lemma="Howard" pos="nn1" xml:id="A18421-002-b-0130">Howard</w>
      <pc unit="sentence" xml:id="A18421-002-b-0140">.</pc>
-     <w lemma="etc." pos="av" reg="etc." xml:id="A18421-002-b-0150">&amp;c.</w>
+     <w lemma="etc." pos="ab" reg="etc." xml:id="A18421-002-b-0150">&amp;c.</w>
      <pc unit="sentence" xml:id="A18421-002-b-0160"/>
     </head>
     <opener xml:id="A18421-e100070">
@@ -4656,7 +4656,7 @@
       <w lemma="live" pos="vvg" reg="living" xml:id="A18421-008-a-3460">liuing</w>
       <w lemma="from" pos="acp" xml:id="A18421-008-a-3470">from</w>
       <w lemma="such" pos="d" xml:id="A18421-008-a-3480">such</w>
-      <w lemma="emrod" pos="nng1" reg="emrod's" xml:id="A18421-008-a-3490">Emrods</w>
+      <w lemma="hemorrhoids" pos="n2" reg="emrod's" xml:id="A18421-008-a-3490">Emrods</w>
       <pc unit="sentence" xml:id="A18421-008-a-3500">.</pc>
      </l>
      <l xml:id="A18421-e103810">
@@ -6780,7 +6780,7 @@
      <l xml:id="A18421-e105910">
       <w lemma="with" pos="acp" xml:id="A18421-010-b-1900">With</w>
       <w lemma="modest" pos="j" xml:id="A18421-010-b-1910">modest</w>
-      <w lemma="out-part" pos="n2" reg="out-parts" xml:id="A18421-010-b-1920">out-parts</w>
+      <w lemma="out-part" pos="n2" xml:id="A18421-010-b-1920">out-parts</w>
       <pc xml:id="A18421-010-b-1930">;</pc>
       <w lemma="what" pos="crq" xml:id="A18421-010-b-1940">what</w>
       <w lemma="they" pos="pns" xml:id="A18421-010-b-1950">they</w>
@@ -10056,7 +10056,7 @@
        <w lemma="" pos="fgr" xml:id="A18421-014-a-1711"/>
        <w lemma="" pos="fgr" xml:id="A18421-014-a-1712"/>
        <pc xml:id="A18421-014-a-1713">,</pc>
-       <w lemma="etc." pos="av" xml:id="A18421-014-a-1714">&amp;c.</w>
+       <w lemma="etc." pos="ab" xml:id="A18421-014-a-1714">&amp;c.</w>
        <w lemma="n/a" pos="fla" type="unclear" xml:id="A18421-014-a-1720">Impossibile</w>
        <w lemma="n/a" pos="fla" xml:id="A18421-014-a-1730">est</w>
        <w lemma="n/a" pos="fla" type="unclear" xml:id="A18421-014-a-1740">viri</w>
@@ -14675,7 +14675,7 @@
       <w lemma="a" pos="d" xml:id="A18421-020-a-1390">a</w>
       <w lemma="murder" pos="n1" reg="murder" xml:id="A18421-020-a-1400">murther</w>
       <pc xml:id="A18421-020-a-1410">,</pc>
-      <w lemma="do" pos="vvi" xml:id="A18421-020-a-1420">done</w>
+      <w lemma="do" pos="vvn" xml:id="A18421-020-a-1420">done</w>
       <w lemma="so" pos="av" xml:id="A18421-020-a-1430">so</w>
       <w lemma="like" pos="acp" xml:id="A18421-020-a-1440">like</w>
       <w lemma="a" pos="d" xml:id="A18421-020-a-1450">a</w>
@@ -25781,7 +25781,7 @@
     <pb facs="tcp:23296:32" xml:id="A18421-032-a"/>
     <sp who="A18421-maillard" xml:id="A18421-e125180">
      <speaker>
-      <w lemma="Mail" pos="nn1" xml:id="A18421-032-a-0010">Mail</w>
+      <w lemma="mail" pos="n1" xml:id="A18421-032-a-0010">Mail</w>
       <pc unit="sentence" xml:id="A18421-032-a-0020"/>
      </speaker>
      <l xml:id="A18421-e125190">
@@ -28557,7 +28557,7 @@
      </l>
      <l xml:id="A18421-e127970">
       <w lemma="for" pos="acp" xml:id="A18421-035-a-0530">For</w>
-      <w lemma="neither" pos="dx" xml:id="A18421-035-a-0540">neither</w>
+      <w lemma="neither" pos="avx-d" xml:id="A18421-035-a-0540">neither</w>
       <w lemma="Fly" pos="n2" reg="flies" type="unclear" xml:id="A18421-035-a-0550">Flyes</w>
       <w lemma="love" pos="n1" reg="love" xml:id="A18421-035-a-0560">loue</w>
       <w lemma="milk" pos="n1" reg="milk" xml:id="A18421-035-a-0570">milke</w>
@@ -32611,7 +32611,7 @@
       <pc xml:id="A18421-039-a-1590">,</pc>
       <w lemma="make" pos="vvz" xml:id="A18421-039-a-1600">makes</w>
       <w join="right" lemma="you" pos="pn" xml:id="A18421-039-a-1610">y'</w>
-      <w join="left" lemma="another" pos="j" xml:id="A18421-039-a-1611">another</w>
+      <w join="left" lemma="another" pos="d" xml:id="A18421-039-a-1611">another</w>
       <w lemma="man" pos="n1" xml:id="A18421-039-a-1620">man</w>
       <pc xml:id="A18421-039-a-1630">,</pc>
      </l>
@@ -34723,12 +34723,6 @@
    </div>
   </body>
   <back>
-   <div type="supplied_by_editor">
-    <head>Notes, typically marginal, from the original text</head>
-    <div corresp="A18421-e107570" xml:id="A18421-e107570-n">
-     <head>Notes for div A18421-e107570</head>
-    </div>
-   </div>
    <div type="machine-generated_castlist">
     <head>Machine-generated castlist</head>
     <list n="161-A18421">

@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A09221</idno>
+    <idno type="STC">STC 19531</idno>
+    <idno type="STC">ESTC S110337</idno>
+    <idno type="EEBO-CITATION">99845899</idno>
+    <idno type="PROQUEST">99845899</idno>
+    <idno type="VID">10830</idno>
+    <idno type="PROQUESTGOID">2240897899</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A09221.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99845899</idno>
-      <idno type="stc">STC (2nd ed.) 19531.</idno>
-      <idno type="stc">Greg, I, 127.</idno>
-      <idno type="vid">10830</idno>
-      <idno type="DLPS">A09221</idno>
-      <idno type="PROQUESTGOID">2240897899</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -7226,7 +7226,7 @@
      <l xml:id="A09221-e106960">
       <w lemma="suffice" pos="vvz" xml:id="A09221-012-a-2190">Sufficeth</w>
       <w lemma="we" pos="pno" reg="us" xml:id="A09221-012-a-2200">vs</w>
-      <w lemma="you" pos="pn" reg="ye" xml:id="A09221-012-a-2210">ye</w>
+      <w lemma="you" pos="pn" xml:id="A09221-012-a-2210">ye</w>
       <w lemma="lord" pos="n2" reg="Lords" xml:id="A09221-012-a-2220">Lordes</w>
       <w lemma="of" pos="acp" xml:id="A09221-012-a-2230">of</w>
       <w lemma="Barbary" pos="nn1" reg="barbary" xml:id="A09221-012-a-2240">Barbarie</w>
@@ -8174,7 +8174,7 @@
      </l>
      <l xml:id="A09221-e107890">
       <w lemma="where" pos="crq" xml:id="A09221-013-b-0980">Where</w>
-      <w lemma="Neptune" pos="nn1" reg="Veptune" xml:id="A09221-013-b-0990">Neptune</w>
+      <w lemma="Neptune" pos="nn1" xml:id="A09221-013-b-0990">Neptune</w>
       <w lemma="sit" pos="vvz" xml:id="A09221-013-b-1000">sits</w>
       <w lemma="in" pos="acp" xml:id="A09221-013-b-1010">in</w>
       <w lemma="triumph" pos="n1" xml:id="A09221-013-b-1020">triumph</w>
@@ -8207,7 +8207,7 @@
      </l>
      <l xml:id="A09221-e107920">
       <w lemma="where" pos="crq" xml:id="A09221-013-b-1250">Where</w>
-      <w lemma="Venus" pos="nn1" reg="Nenus" xml:id="A09221-013-b-1260">Venus</w>
+      <w lemma="Venus" pos="nn1" xml:id="A09221-013-b-1260">Venus</w>
       <w lemma="banquet" pos="n2" xml:id="A09221-013-b-1270">banquets</w>
       <w lemma="all" pos="d" xml:id="A09221-013-b-1280">all</w>
       <w lemma="her" pos="po" xml:id="A09221-013-b-1290">her</w>
@@ -17241,7 +17241,7 @@
       <w lemma="from" pos="acp" xml:id="A09221-026-a-1080">From</w>
       <w lemma="any" pos="d" reg="any" xml:id="A09221-026-a-1090">anie</w>
       <w lemma="such" pos="d" xml:id="A09221-026-a-1100">such</w>
-      <w lemma="foul" pos="j" reg="foul" xml:id="A09221-026-a-1110">soule</w>
+      <w lemma="foul" pos="j" xml:id="A09221-026-a-1110">soule</w>
       <w lemma="fact" pos="n1" xml:id="A09221-026-a-1120">fact</w>
       <w lemma="or" pos="cc" xml:id="A09221-026-a-1130">or</w>
       <w lemma="bad" pos="j" xml:id="A09221-026-a-1140">bad</w>

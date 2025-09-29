@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A29238</idno>
+    <idno type="STC">Wing B4270</idno>
+    <idno type="STC">ESTC R16567</idno>
+    <idno type="EEBO-CITATION">12859911</idno>
+    <idno type="OCLC">ocm 12859911</idno>
+    <idno type="VID">94669</idno>
+    <idno type="PROQUESTGOID">2240851808</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A29238.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,13 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 July (TCP phase 1)</date>
-      <idno type="marc">12859911</idno>
-      <idno type="stc">Wing B4270.</idno>
-      <idno type="stc">Pforzheimer 96-97.</idno>
-      <idno type="stc">Clark EEL II 16.</idno>
-      <idno type="vid">94669</idno>
-      <idno type="DLPS">A29238</idno>
-      <idno type="PROQUESTGOID">2240851808</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -5697,7 +5696,7 @@
        <pc xml:id="A29238-009-b-3230">,</pc>
        <w lemma="the" pos="d" xml:id="A29238-009-b-3240">the</w>
        <w lemma="other" pos="pi-d" xml:id="A29238-009-b-3250">other</w>
-       <w lemma="neither" pos="dx" xml:id="A29238-009-b-3260">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A29238-009-b-3260">neither</w>
        <w lemma="dispense" pos="vvn" xml:id="A29238-009-b-3270">dispensed</w>
        <w lemma="they" pos="pno" xml:id="A29238-009-b-3280">them</w>
        <w lemma="nor" pos="ccx" xml:id="A29238-009-b-3290">nor</w>
@@ -7818,7 +7817,7 @@
        <w lemma="have" pos="vvd" xml:id="A29238-012-b-2200">had</w>
        <w lemma="get" pos="vvn" xml:id="A29238-012-b-2210">gotten</w>
        <w lemma="it" pos="pn" xml:id="A29238-012-b-2220">it</w>
-       <w lemma="no" pos="avx-d" xml:id="A29238-012-b-2230">no</w>
+       <w lemma="no" pos="dx" xml:id="A29238-012-b-2230">no</w>
        <w lemma="man" pos="n1" xml:id="A29238-012-b-2240">man</w>
        <w lemma="more" pos="avc-d" xml:id="A29238-012-b-2250">more</w>
        <w lemma="unhappy" pos="av-j" xml:id="A29238-012-b-2260">unhappily</w>
@@ -11546,7 +11545,7 @@
        <pc xml:id="A29238-017-b-0990">:</pc>
        <w lemma="wherefore" pos="crq" xml:id="A29238-017-b-1000">wherefore</w>
        <w lemma="we" pos="pns" xml:id="A29238-017-b-1010">we</w>
-       <w lemma="neither" pos="dx" xml:id="A29238-017-b-1020">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A29238-017-b-1020">neither</w>
        <w lemma="will" pos="vmb" xml:id="A29238-017-b-1030">will</w>
        <w lemma="have" pos="vvi" xml:id="A29238-017-b-1040">have</w>
        <w lemma="pray" pos="vvg" xml:id="A29238-017-b-1050">praying</w>

@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A73627</idno>
+    <idno type="STC">STC 4340</idno>
+    <idno type="STC">ESTC S122351</idno>
+    <idno type="EEBO-CITATION">99857502</idno>
+    <idno type="PROQUEST">99857502</idno>
+    <idno type="VID">176939</idno>
+    <idno type="PROQUESTGOID">2248512450</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A73627.xml</idno>
    </publicationStmt>
    <seriesStmt>
     <title>Early English books online.</title>
@@ -42,13 +48,6 @@
       <publisher>University of Michigan Library</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2009 March (TCP phase 1)</date>
-      <idno type="DLPS">A73627</idno>
-      <idno type="vid">176939</idno>
-      <idno type="Aleph">5371074</idno>
-      <idno type="stc">STC (2nd ed.) 4340.</idno>
-      <idno type="stc">Greg, I, 232(AII).</idno>
-      <idno type="bibno">(UnM)99857502e</idno>
-      <idno type="PROQUESTGOID">2248512450</idno>
       <availability>
        <p>Where applicable, subject to copyright. Other restrictions on distribution may apply. Please go to http://www.umdl.umich.edu/ for more information.</p>
       </availability>
@@ -1601,7 +1600,7 @@
        <pc xml:id="A73627-003-b-1680">,</pc>
       </l>
       <l xml:id="A73627-e101290">
-       <w lemma="grief" pos="zz" reg="grief" xml:id="A73627-003-b-1690">Greife</w>
+       <w lemma="grief" pos="n1" reg="grief" xml:id="A73627-003-b-1690">Greife</w>
        <w lemma="stop" pos="vvn" reg="stopped" xml:id="A73627-003-b-1700">stopt</w>
        <w lemma="his" pos="po" xml:id="A73627-003-b-1710">his</w>
        <w lemma="breath" pos="n1" xml:id="A73627-003-b-1720">breath</w>
@@ -7844,7 +7843,7 @@
        <pc xml:id="A73627-011-a-0950">,</pc>
        <w lemma="be" pos="vvg" xml:id="A73627-011-a-0960">being</w>
        <w lemma="discord" pos="n1" xml:id="A73627-011-a-0970">Discord</w>
-       <w lemma="hight" pos="vvd" reg="hight" xml:id="A73627-011-a-0980">hight</w>
+       <w lemma="hight" pos="vvd" xml:id="A73627-011-a-0980">hight</w>
        <pc xml:id="A73627-011-a-0990">,</pc>
       </l>
       <l xml:id="A73627-e107340">
@@ -9280,7 +9279,7 @@
        </l>
        <l xml:id="A73627-e108730">
         <w lemma="Caesar" pos="nn1" rend="hi" xml:id="A73627-012-b-1810">Caesar</w>
-        <w lemma="no" pos="avx-d" xml:id="A73627-012-b-1820">no</w>
+        <w lemma="no" pos="dx" xml:id="A73627-012-b-1820">no</w>
         <w lemma="doubt" pos="n1" xml:id="A73627-012-b-1830">doubt</w>
         <w lemma="with" pos="acp" xml:id="A73627-012-b-1840">with</w>
         <w lemma="praise" pos="n1" xml:id="A73627-012-b-1850">praise</w>
@@ -12413,7 +12412,7 @@
        <l xml:id="A73627-e111840">
         <w lemma="do" pos="vvb" xml:id="A73627-016-a-3230">Do</w>
         <w lemma="not" pos="xx" xml:id="A73627-016-a-3240">not</w>
-        <w lemma="add" pos="vvi" reg="add" xml:id="A73627-016-a-3250">ad</w>
+        <w lemma="n/a" pos="fla" xml:id="A73627-016-a-3250">ad</w>
         <w lemma="fuel" pos="n1" reg="Fuel" xml:id="A73627-016-a-3260">Fuell</w>
         <w lemma="to" pos="acp" xml:id="A73627-016-a-3270">to</w>
         <w lemma="the" pos="d" xml:id="A73627-016-a-3280">the</w>
@@ -14410,7 +14409,7 @@
         <w lemma="thought" pos="n2" xml:id="A73627-018-b-2330">thoughts</w>
         <w lemma="be" pos="vvd" xml:id="A73627-018-b-2340">were</w>
         <w lemma="chain" pos="vvn" reg="chained" xml:id="A73627-018-b-2350">chayned</w>
-        <w lemma="afore" pos="acp" reg="afore" xml:id="A73627-018-b-2370">afore</w>
+        <w lemma="afore" pos="acp" xml:id="A73627-018-b-2370">afore</w>
         <pc xml:id="A73627-018-b-2380">,</pc>
        </l>
        <l xml:id="A73627-e113810">
@@ -25087,7 +25086,7 @@
        </l>
       </sp>
       <stage xml:id="A73627-e124330">
-       <w lemma="finis" pos="nn1" xml:id="A73627-031-a-3120">Finis</w>
+       <w lemma="n/a" pos="fla" xml:id="A73627-031-a-3120">Finis</w>
        <pc unit="sentence" xml:id="A73627-031-a-3130">.</pc>
        <w lemma="Act." pos="ab" xml:id="A73627-031-a-3140">Act.</w>
        <pc unit="sentence" xml:id="A73627-031-a-3150"/>

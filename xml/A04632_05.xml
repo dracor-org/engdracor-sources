@@ -21,11 +21,17 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <date>2015</date>
+    <idno type="DLPS">A04632</idno>
+    <idno type="STC">STC 14752</idno>
+    <idno type="STC">ESTC S112455</idno>
+    <idno type="EEBO-CITATION">99847709</idno>
+    <idno type="PROQUEST">99847709</idno>
+    <idno type="VID">12766</idno>
+    <idno type="PROQUESTGOID">2240922515</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <date>2015</date>
-    <idno type="SHC">A04632_05.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -38,12 +44,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99847709</idno>
-      <idno type="stc">STC (2nd ed.) 14752.</idno>
-      <idno type="stc">Greg, III, p. 1070-3.</idno>
-      <idno type="vid">12766</idno>
-      <idno type="DLPS">A04632</idno>
-      <idno type="PROQUESTGOID">2240922515</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -1442,7 +1442,7 @@
       <pc xml:id="A04632-194-a-0210">,</pc>
       <w lemma="Haterius" pos="nn1" reg="HATERIUS" xml:id="A04632-194-a-0220">HATERIVS</w>
       <pc xml:id="A04632-194-a-0230">,</pc>
-      <w lemma="etc." pos="av" reg="etc." xml:id="A04632-194-a-0240">&amp;c.</w>
+      <w lemma="etc." pos="ab" reg="etc." xml:id="A04632-194-a-0240">&amp;c.</w>
       <pc unit="sentence" xml:id="A04632-194-a-0250"/>
      </head>
      <sp who="A04632-sabinus" xml:id="A04632_05-e100705">
@@ -3889,7 +3889,7 @@
       <pc xml:id="A04632-197-a-1860">,</pc>
       <w lemma="Terentius" pos="nn1" reg="Terentius" xml:id="A04632-197-a-1870">TERENTIVS</w>
       <pc xml:id="A04632-197-a-1880">,</pc>
-      <w lemma="etc." pos="av" reg="etc." xml:id="A04632-197-a-1890">&amp;c.</w>
+      <w lemma="etc." pos="ab" reg="etc." xml:id="A04632-197-a-1890">&amp;c.</w>
       <pc unit="sentence" xml:id="A04632-197-a-1900"/>
      </head>
      <stage place="margin" xml:id="A04632_05-e103100">
@@ -8799,7 +8799,7 @@
        <w lemma="grace" pos="n1" xml:id="A04632-202-a-0580">grace</w>
        <w lemma="too" pos="av" xml:id="A04632-202-a-0590">too</w>
        <w lemma="in" pos="acp" xml:id="A04632-202-a-0600">in</w>
-       <w lemma="consign" pos="vvg" reg="consigning" xml:id="A04632-202-a-0610">consining</w>
+       <w lemma="consign" pos="vvg" reg="consigning" xml:id="A04632-202-a-0610">confining</w>
        <w lemma="of" pos="acp" xml:id="A04632-202-a-0620">of</w>
        <w lemma="Silanus" pos="nn1" reg="SILANUS" xml:id="A04632-202-a-0630">SILANVS</w>
        <pc xml:id="A04632-202-a-0640">,</pc>
@@ -9426,7 +9426,7 @@
       <pc xml:id="A04632-202-b-0860">,</pc>
       <w lemma="Arruntius" pos="nn1" reg="Arruntius" xml:id="A04632-202-b-0870">ARRVNTIVS</w>
       <pc xml:id="A04632-202-b-0880">,</pc>
-      <w lemma="etc." pos="av" reg="etc." xml:id="A04632-202-b-0890">&amp;c.</w>
+      <w lemma="etc." pos="ab" reg="etc." xml:id="A04632-202-b-0890">&amp;c.</w>
       <pc unit="sentence" xml:id="A04632-202-b-0900"/>
      </head>
      <stage place="margin" xml:id="A04632_05-e108740">
@@ -16566,7 +16566,7 @@
        <pc unit="sentence" xml:id="A04632-208-b-0350"/>
       </speaker>
       <l xml:id="A04632_05-e116030">
-       <w join="right" lemma="you" pos="pn" reg="you were" xml:id="A04632-208-b-0360">Yo'</w>
+       <w join="right" lemma="you" pos="pn" reg="You" xml:id="A04632-208-b-0360">Yo'</w>
        <w join="left" lemma="be" pos="vvd" xml:id="A04632-208-b-0361">were</w>
        <w lemma="with" pos="acp" xml:id="A04632-208-b-0370">with</w>
        <w lemma="he" pos="pno" xml:id="A04632-208-b-0380">him</w>
@@ -22532,7 +22532,7 @@
        <w lemma="flesh" pos="n1" xml:id="A04632-215-a-1900">flesh</w>
        <pc xml:id="A04632-215-a-1910">,</pc>
        <w lemma="to" pos="prt" xml:id="A04632-215-a-1920">to</w>
-       <w lemma="bay" pos="vvi" xml:id="A04632-215-a-1930">bay</w>
+       <w lemma="bay" pos="n1" xml:id="A04632-215-a-1930">bay</w>
        <w lemma="at" pos="acp" xml:id="A04632-215-a-1940">at</w>
        <w lemma="citizen" pos="n2" xml:id="A04632-215-a-1950">citizens</w>
        <pc unit="sentence" xml:id="A04632-215-a-1960">.</pc>
@@ -37388,7 +37388,7 @@
       <pc xml:id="A04632-228-b-3290">,</pc>
       <w lemma="Satrius" pos="nn1" reg="SATRIUS" xml:id="A04632-228-b-3300">SATRIVS</w>
       <pc xml:id="A04632-228-b-3310">,</pc>
-      <w lemma="etc." pos="av" reg="etc." xml:id="A04632-228-b-3320">&amp;c.</w>
+      <w lemma="etc." pos="ab" reg="etc." xml:id="A04632-228-b-3320">&amp;c.</w>
       <pc unit="sentence" xml:id="A04632-228-b-3330"/>
      </head>
      <sp who="A04632-praecones" xml:id="A04632_05-e135826">
@@ -38095,7 +38095,7 @@
       <pc xml:id="A04632-229-a-3850">,</pc>
       <w lemma="Minutius" pos="nn1" reg="Minutius" xml:id="A04632-229-a-3860">MINVTIVS</w>
       <pc xml:id="A04632-229-a-3870">,</pc>
-      <w lemma="etc." pos="av" reg="etc." xml:id="A04632-229-a-3880">&amp;c.</w>
+      <w lemma="etc." pos="ab" reg="etc." xml:id="A04632-229-a-3880">&amp;c.</w>
       <pc unit="sentence" xml:id="A04632-229-a-3890"/>
      </head>
      <sp who="A04632-pomponius" xml:id="A04632_05-e136455">
@@ -39510,7 +39510,7 @@
       <pc xml:id="A04632-230-b-0020">,</pc>
       <w lemma="Sejanus" pos="nn1" reg="Sejanus" xml:id="A04632-230-b-0030">SEIANVS</w>
       <pc xml:id="A04632-230-b-0040">,</pc>
-      <w lemma="etc." pos="av" reg="etc." xml:id="A04632-230-b-0050">&amp;c.</w>
+      <w lemma="etc." pos="ab" reg="etc." xml:id="A04632-230-b-0050">&amp;c.</w>
       <pc unit="sentence" xml:id="A04632-230-b-0060"/>
      </head>
      <l xml:id="A04632_05-e137960">
@@ -42030,7 +42030,7 @@
       <pc xml:id="A04632-232-b-0090">,</pc>
       <w lemma="Sejanus" pos="nn1" reg="Sejanus" xml:id="A04632-232-b-0100">SEIANVS</w>
       <pc xml:id="A04632-232-b-0110">,</pc>
-      <w lemma="etc." pos="av" reg="etc." xml:id="A04632-232-b-0120">&amp;c.</w>
+      <w lemma="etc." pos="ab" reg="etc." xml:id="A04632-232-b-0120">&amp;c.</w>
       <pc unit="sentence" xml:id="A04632-232-b-0130"/>
      </head>
      <stage place="margin" xml:id="A04632_05-e140680">

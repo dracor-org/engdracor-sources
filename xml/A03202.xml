@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A03202</idno>
+    <idno type="STC">STC 13321</idno>
+    <idno type="STC">ESTC S120519</idno>
+    <idno type="EEBO-CITATION">99855715</idno>
+    <idno type="PROQUEST">99855715</idno>
+    <idno type="VID">21217</idno>
+    <idno type="PROQUESTGOID">2240923902</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A03202.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,12 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2003 January (TCP phase 1)</date>
-      <idno type="marc">99855715</idno>
-      <idno type="stc">STC (2nd ed.) 13321.</idno>
-      <idno type="stc">Greg, I, 333(a).</idno>
-      <idno type="vid">21217</idno>
-      <idno type="DLPS">A03202</idno>
-      <idno type="PROQUESTGOID">2240923902</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -110,12 +110,12 @@
     <ep:untranscribedForeignCount>0</ep:untranscribedForeignCount>
     <ep:untranscribedMathCount>0</ep:untranscribedMathCount>
     <ep:untranscribedMusicCount>0</ep:untranscribedMusicCount>
-    <ep:defectiveTokenCount>2</ep:defectiveTokenCount>
+    <ep:defectiveTokenCount>0</ep:defectiveTokenCount>
     <ep:missingChunkCount>0</ep:missingChunkCount>
     <ep:missingPagesCount>0</ep:missingPagesCount>
-    <ep:defectRate>0.69</ep:defectRate>
-    <ep:finalGrade>B</ep:finalGrade>
-    <ep:defectRangePerGrade> The  rate of 0.69 defects per 10,000 words puts this text in the B category of texts with fewer than 10 defects per 10,000 words.</ep:defectRangePerGrade>
+    <ep:defectRate>0.00</ep:defectRate>
+    <ep:finalGrade>A</ep:finalGrade>
+    <ep:defectRangePerGrade>This text  has no known defects that were recorded as gap elements at the time of transcription. </ep:defectRangePerGrade>
    </ep:epHeader>
   </xenoData>
   <revisionDesc>
@@ -5667,7 +5667,7 @@
        <w lemma="valour" pos="n1" xml:id="A03202-009-b-2960">valour</w>
        <w lemma="be" pos="vvd" xml:id="A03202-009-b-2970">was</w>
        <w lemma="the" pos="d" xml:id="A03202-009-b-2980">th'</w>
-       <w lemma="surper" pos="n1" reg="surper" xml:id="A03202-009-b-2990">usurper</w>
+       <w lemma="surper" pos="n1" xml:id="A03202-009-b-2990">usurper</w>
        <w lemma="slay" pos="vvn" reg="slain" xml:id="A03202-009-b-3000">slaine</w>
        <pc xml:id="A03202-009-b-3010">;</pc>
       </l>
@@ -12594,7 +12594,7 @@
        <pc xml:id="A03202-016-b-3660">,</pc>
        <w lemma="I" pos="pns" xml:id="A03202-016-b-3670">I</w>
        <w lemma="be" pos="vvm" xml:id="A03202-016-b-3680">am</w>
-       <w lemma="half" pos="av-j" reg="half" xml:id="A03202-016-b-3690">halfe</w>
+       <w lemma="half" pos="j" xml:id="A03202-016-b-3690">halfe</w>
        <w lemma="your" pos="po" xml:id="A03202-016-b-3700">your</w>
        <w lemma="captain" pos="n1" reg="Captain" xml:id="A03202-016-b-3710">Captaine</w>
        <w lemma="now" pos="av" xml:id="A03202-016-b-3720">now</w>
@@ -15603,7 +15603,7 @@
       </l>
       <l xml:id="A03202-e114430">
        <w lemma="with" pos="acp" xml:id="A03202-019-b-2730">With</w>
-       <w lemma="a" pos="d" reg="an" type="unclear" xml:id="A03202-019-b-2740">an</w>
+       <w lemma="a" pos="d" type="unclear" xml:id="A03202-019-b-2740">an</w>
        <w lemma="unnumbered" pos="j" reg="unnumbered" xml:id="A03202-019-b-2750">vnnumbred</w>
        <w lemma="army" pos="n1" xml:id="A03202-019-b-2760">Army</w>
        <w lemma="and" pos="cc" xml:id="A03202-019-b-2770">and</w>
@@ -15874,7 +15874,7 @@
        <w lemma="emperor" pos="n1" reg="Emperor" xml:id="A03202-020-a-1380">Emp'rour</w>
        <w lemma="shall" pos="vmb" xml:id="A03202-020-a-1390">shall</w>
        <w lemma="say" pos="vvi" xml:id="A03202-020-a-1400">say</w>
-       <w lemma="no" pos="avx-d" xml:id="A03202-020-a-1410">no</w>
+       <w lemma="no" pos="uhx" xml:id="A03202-020-a-1410">no</w>
        <pc unit="sentence" xml:id="A03202-020-a-1420">.</pc>
       </l>
      </lg>
@@ -20221,9 +20221,8 @@
        <pc xml:id="A03202-024-a-3500">,</pc>
       </l>
       <l xml:id="A03202-e119740">
-       <w lemma="I" pos="pns" xml:id="A03202-024-a-3510">I</w>
-       <pc xml:id="A03202-024-a-3520">▪</pc>
-       <w lemma="n/a" pos="ffr" xml:id="A03202-024-a-3530">le</w>
+       <w join="right" lemma="I" pos="pns" xml:id="A03202-024-a-3510">I</w>
+       <w join="left" lemma="n/a" pos="vmb" reg="'ll" xml:id="A03202-024-a-3530">'le</w>
        <w lemma="bid" pos="vvb" xml:id="A03202-024-a-3540">bid</w>
        <w lemma="as" pos="acp" xml:id="A03202-024-a-3550">as</w>
        <w lemma="fair" pos="j" reg="fair" xml:id="A03202-024-a-3560">faire</w>
@@ -27156,7 +27155,7 @@
      <w lemma="lady" pos="n2" xml:id="A03202-031-a-3060">Ladies</w>
      <w lemma="fly" pos="vvg" xml:id="A03202-031-a-3070">flying</w>
      <pc xml:id="A03202-031-a-3080">,</pc>
-     <w lemma="pursue" pos="vvd" reg="pursued" xml:id="A03202-031-a-3090">purfued</w>
+     <w lemma="pursue" pos="vvd" reg="pursued" xml:id="A03202-031-a-3090">pursued</w>
      <w lemma="by" pos="acp" xml:id="A03202-031-a-3100">by</w>
      <w lemma="the" pos="d" xml:id="A03202-031-a-3110">the</w>
      <w lemma="clown" pos="n1" reg="clown" type="unclear" xml:id="A03202-031-a-3120">Clowne</w>
@@ -28577,7 +28576,7 @@
        <w lemma="know" pos="vvn" reg="known" xml:id="A03202-032-b-2310">knowne</w>
        <w lemma="my" pos="po" xml:id="A03202-032-b-2320">my</w>
        <w lemma="valour" pos="ng1" reg="valour's" xml:id="A03202-032-b-2330">valours</w>
-       <w lemma="propose" pos="n1" reg="propose" xml:id="A03202-032-b-2340">proose</w>
+       <w lemma="propose" pos="n1" reg="propose" xml:id="A03202-032-b-2340">proofe</w>
        <pc xml:id="A03202-032-b-2350">:</pc>
       </l>
       <l xml:id="A03202-e128760">
@@ -36930,7 +36929,7 @@
        <w lemma="sultan" pos="n1" rend="hi" xml:id="A03202-041-a-2570">Soldan</w>
        <w lemma="he" pos="pns" xml:id="A03202-041-a-2580">he</w>
        <w lemma="be" pos="vvd" xml:id="A03202-041-a-2590">was</w>
-       <w lemma="slay" pos="vvn" reg="slain" xml:id="A03202-041-a-2600">flayne</w>
+       <w lemma="slay" pos="vvn" reg="slain" xml:id="A03202-041-a-2600">slayne</w>
        <pc unit="sentence" xml:id="A03202-041-a-2610">.</pc>
       </l>
      </lg>

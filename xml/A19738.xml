@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A19738</idno>
+    <idno type="STC">STC 6160</idno>
+    <idno type="STC">ESTC S109178</idno>
+    <idno type="EEBO-CITATION">99844827</idno>
+    <idno type="PROQUEST">99844827</idno>
+    <idno type="VID">9673</idno>
+    <idno type="PROQUESTGOID">2240886509</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A19738.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,12 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2008 September (TCP phase 1)</date>
-      <idno type="marc">99844827</idno>
-      <idno type="stc">STC (2nd ed.) 6160.</idno>
-      <idno type="stc">Greg I, 131.</idno>
-      <idno type="vid">9673</idno>
-      <idno type="DLPS">A19738</idno>
-      <idno type="PROQUESTGOID">2240886509</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -2132,7 +2132,7 @@
        <w lemma="than" pos="cs" reg="than" xml:id="A19738-004-b-0960">then</w>
        <w lemma="a" pos="d" xml:id="A19738-004-b-0970">a</w>
        <w lemma="fort" pos="n1" xml:id="A19738-004-b-0980">fort</w>
-       <w lemma="of" pos="acp" reg="of" xml:id="A19738-004-b-0990">af</w>
+       <w lemma="of" pos="acp" xml:id="A19738-004-b-0990">af</w>
        <w lemma="brazen" pos="j" xml:id="A19738-004-b-1000">brazen</w>
        <w lemma="wall" pos="n2" reg="walls" xml:id="A19738-004-b-1010">walles</w>
        <pc unit="sentence" xml:id="A19738-004-b-1020">.</pc>
@@ -4105,7 +4105,7 @@
        <w lemma="and" pos="cc" xml:id="A19738-007-a-0710">And</w>
        <w lemma="have" pos="vvd" xml:id="A19738-007-a-0720">had</w>
        <w lemma="she" pos="pns" xml:id="A19738-007-a-0730">she</w>
-       <w lemma="neither" pos="dx" xml:id="A19738-007-a-0740">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A19738-007-a-0740">neither</w>
        <w lemma="loveliness" pos="n1" reg="loveliness" xml:id="A19738-007-a-0750">louelinesse</w>
        <w lemma="nor" pos="ccx" xml:id="A19738-007-a-0760">nor</w>
        <w lemma="wit" pos="n1" xml:id="A19738-007-a-0770">wit</w>
@@ -13082,7 +13082,7 @@
       <l xml:id="A19738-e113010">
        <w lemma="Cyrus" pos="nn1" rend="hi" xml:id="A19738-018-a-0640">Cyrus</w>
        <w lemma="do" pos="vvz" xml:id="A19738-018-a-0650">doth</w>
-       <w lemma="neither" pos="dx" xml:id="A19738-018-a-0660">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A19738-018-a-0660">neither</w>
        <w lemma="know" pos="vvi" xml:id="A19738-018-a-0670">know</w>
        <pc xml:id="A19738-018-a-0680">,</pc>
        <w lemma="nor" pos="ccx" xml:id="A19738-018-a-0690">nor</w>

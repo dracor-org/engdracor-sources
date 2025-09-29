@@ -24,10 +24,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A10402</idno>
+    <idno type="STC">STC 20687</idno>
+    <idno type="STC">ESTC S942</idno>
+    <idno type="EEBO-CITATION">23066495</idno>
+    <idno type="OCLC">ocm 23066495</idno>
+    <idno type="VID">26172</idno>
+    <idno type="PROQUESTGOID">2240908361</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A10402.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -40,11 +46,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2004 March (TCP phase 1)</date>
-      <idno type="marc">23066495</idno>
-      <idno type="stc">STC (2nd ed.) 20687.</idno>
-      <idno type="vid">26172</idno>
-      <idno type="DLPS">A10402</idno>
-      <idno type="PROQUESTGOID">2240908361</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -2863,7 +2864,7 @@
        <pc xml:id="A10402-005-b-3510">,</pc>
        <w lemma="the" pos="d" xml:id="A10402-005-b-3520">the</w>
        <w lemma="poor" pos="j" reg="poor" xml:id="A10402-005-b-3530">poore</w>
-       <w lemma="country" orig="Coūtry" pos="n1" reg="Country" xml:id="A10402-005-b-3540">Country</w>
+       <w lemma="country" orig="Coūtry" pos="n1" xml:id="A10402-005-b-3540">Country</w>
        <w lemma="be" pos="vvd" xml:id="A10402-005-b-3550">were</w>
        <w lemma="as" pos="acp" xml:id="A10402-005-b-3560">as</w>
        <w lemma="good" pos="j" xml:id="A10402-005-b-3570">good</w>
@@ -3695,7 +3696,7 @@
        <w lemma="I" pos="pns" xml:id="A10402-006-b-3280">I</w>
        <w lemma="despair" pos="vvb" reg="despair" xml:id="A10402-006-b-3290">despaire</w>
        <w lemma="of" pos="acp" xml:id="A10402-006-b-3300">of</w>
-       <w lemma="understand" orig="vnderstāding" pos="vvg" reg="understanding" xml:id="A10402-006-b-3310">understanding</w>
+       <w lemma="understand" orig="vnderstāding" pos="vvg" xml:id="A10402-006-b-3310">understanding</w>
        <w lemma="they" pos="pno" xml:id="A10402-006-b-3320">them</w>
        <w lemma="either" pos="d" xml:id="A10402-006-b-3330">either</w>
        <w lemma="in" pos="acp" rend="hi" xml:id="A10402-006-b-3340">in</w>
@@ -4698,7 +4699,7 @@
        <w lemma="in" pos="acp" xml:id="A10402-008-a-0140">in</w>
        <w lemma="he" pos="pno" xml:id="A10402-008-a-0150">him</w>
        <w lemma="to" pos="acp" xml:id="A10402-008-a-0160">to</w>
-       <w join="right" lemma="sconce" pos="vvi" reg="sconce" xml:id="A10402-008-a-0170">sconce</w>
+       <w join="right" lemma="sconce" pos="vvi" xml:id="A10402-008-a-0170">sconce</w>
        <w join="left" lemma="they" pos="pno" reg="'em" xml:id="A10402-008-a-0171">'vm</w>
        <w lemma="sound" pos="av-j" xml:id="A10402-008-a-0180">soundly</w>
        <pc xml:id="A10402-008-a-0190">,</pc>
@@ -8799,7 +8800,7 @@
        <pc xml:id="A10402-012-b-0110">,</pc>
        <w lemma="and" pos="cc" xml:id="A10402-012-b-0120">and</w>
        <w lemma="will" pos="vmb" xml:id="A10402-012-b-0130">Will</w>
-       <w lemma="the" pos="d" xml:id="A10402-012-b-0140">de</w>
+       <w lemma="de" pos="nnp" xml:id="A10402-012-b-0140">de</w>
        <w lemma="hale" pos="n2" xml:id="A10402-012-b-0150">Hales</w>
        <pc xml:id="A10402-012-b-0160">,</pc>
       </l>
@@ -10394,7 +10395,7 @@
       <w lemma="three" pos="crd" xml:id="A10402-014-b-0020">three</w>
       <w lemma="scholar" pos="n2" reg="Scholars" xml:id="A10402-014-b-0030">Schollers</w>
       <w lemma="bring" pos="vvg" xml:id="A10402-014-b-0040">bringing</w>
-      <w lemma="forth" pos="av" type="unclear" xml:id="A10402-014-b-0050">fourth</w>
+      <w lemma="four" pos="ord" type="unclear" xml:id="A10402-014-b-0050">fourth</w>
       <w lemma="Aristippus" pos="nn1" xml:id="A10402-014-b-0060">Aristippus</w>
       <w lemma="in" pos="acp" xml:id="A10402-014-b-0070">in</w>
       <w lemma="his" pos="po" xml:id="A10402-014-b-0080">his</w>
@@ -12877,7 +12878,7 @@
      <w lemma="in" pos="acp" xml:id="A10402-017-b-0080">IN</w>
      <w lemma="a" pos="d" xml:id="A10402-017-b-0090">A</w>
      <w lemma="strange" pos="j" xml:id="A10402-017-b-0100">STRANGE</w>
-     <w lemma="show" orig="SHOVV" pos="n1" reg="show" xml:id="A10402-017-b-0110">SHOW</w>
+     <w lemma="show" orig="SHOVV" pos="n1" xml:id="A10402-017-b-0110">SHOW</w>
      <pc unit="sentence" xml:id="A10402-017-b-0120">.</pc>
     </head>
     <sp who="A10402-missing" xml:id="A10402-e106790">
@@ -17723,12 +17724,6 @@
    </div>
   </body>
   <back>
-   <div type="supplied_by_editor">
-    <head>Notes, typically marginal, from the original text</head>
-    <div corresp="A10402-e100100" xml:id="A10402-e100100-n">
-     <head>Notes for div A10402-e100100</head>
-    </div>
-   </div>
    <div type="machine-generated_castlist">
     <head>Machine-generated castlist</head>
     <list n="163-A10402">

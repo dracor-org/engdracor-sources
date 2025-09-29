@@ -23,10 +23,16 @@
     <publisher>EarlyPrint Project</publisher>
     <pubPlace>Evanston IL, Notre Dame IN, St.Louis, Washington MO</pubPlace>
     <date>2017</date>
+    <idno type="DLPS">A47372</idno>
+    <idno type="STC">Wing K450</idno>
+    <idno type="STC">ESTC R7715</idno>
+    <idno type="EEBO-CITATION">12417588</idno>
+    <idno type="OCLC">ocm 12417588</idno>
+    <idno type="VID">61734</idno>
+    <idno type="PROQUESTGOID">2240958636</idno>
     <availability>
      <licence target="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Distributed under a Creative Commons Attribution-NonCommercial 3.0 Unported License</licence>
     </availability>
-    <idno type="SHC">A47372_10.xml</idno>
    </publicationStmt>
    <sourceDesc>
     <biblFull n="TCP source">
@@ -39,11 +45,6 @@
       <publisher>University of Michigan, Digital Library Production Service</publisher>
       <pubPlace>Ann Arbor, Michigan</pubPlace>
       <date>2004 November (TCP phase 1)</date>
-      <idno type="marc">12417588</idno>
-      <idno type="stc">Wing K450.</idno>
-      <idno type="vid">61734</idno>
-      <idno type="DLPS">A47372</idno>
-      <idno type="PROQUESTGOID">2240958636</idno>
       <availability>
        <p>This keyboarded and encoded edition of the work described above is co-owned by the institutions providing financial support to the Early English Books Online Text Creation Partnership. Searching, reading, printing, or downloading EEBO-TCP texts is reserved for the authorized users of these project partner institutions. Permission must be granted for subsequent distribution, in print or electronically, of this text, in whole or in part. Please contact project staff at eebotcp-info@umich.edu for further information or permissions.</p>
       </availability>
@@ -98,7 +99,6 @@
     <ep:tcp>A47372</ep:tcp>
     <ep:estc>R7715</ep:estc>
     <ep:stc> (Wing K450). </ep:stc>
-    <ep:pageCount>46</ep:pageCount>
     <ep:wordCount>23526</ep:wordCount>
     <ep:untranscribedForeignCount>0</ep:untranscribedForeignCount>
     <ep:untranscribedMathCount>0</ep:untranscribedMathCount>
@@ -106,9 +106,9 @@
     <ep:defectiveTokenCount>0</ep:defectiveTokenCount>
     <ep:missingChunkCount>0</ep:missingChunkCount>
     <ep:missingPagesCount>0</ep:missingPagesCount>
-    <ep:defectRate>0</ep:defectRate>
+    <ep:defectRate>0.00</ep:defectRate>
     <ep:finalGrade>A</ep:finalGrade>
-    <ep:defectRangePerGrade> This text has no known defects that were recorded as gap elements at the time of transcription.</ep:defectRangePerGrade>
+    <ep:defectRangePerGrade>This text  has no known defects that were recorded as gap elements at the time of transcription. </ep:defectRangePerGrade>
    </ep:epHeader>
   </xenoData>
   <revisionDesc>
@@ -1306,7 +1306,7 @@
        <stage xml:id="A47372-e100650">
         <w lemma="A" pos="nn1" xml:id="A47372-289-a-3260">A</w>
         <w lemma="charge" pos="n1" xml:id="A47372-289-a-3270">Charge</w>
-        <w lemma="within" pos="nn1" xml:id="A47372-289-a-3280">within</w>
+        <w lemma="within" pos="acp" xml:id="A47372-289-a-3280">within</w>
         <pc join="right" unit="sentence" xml:id="A47372-289-a-3290">.</pc>
        </stage>
        <w lemma="misery" pos="n1" xml:id="A47372-289-a-3300">misery</w>
@@ -5374,7 +5374,7 @@
        <w lemma="leave" pos="vvn" xml:id="A47372-291-b1-2240">left</w>
        <w lemma="no" pos="dx" xml:id="A47372-291-b1-2250">no</w>
        <w lemma="other" pos="d" xml:id="A47372-291-b1-2260">other</w>
-       <w lemma="waty" pos="n1" xml:id="A47372-291-b1-2270">waty</w>
+       <w lemma="waty" pos="n1" xml:id="A47372-291-b1-2270">wary</w>
        <w lemma="to" pos="prt" xml:id="A47372-291-b1-2280">to</w>
        <w lemma="return" pos="vvi" xml:id="A47372-291-b1-2290">return</w>
        <w lemma="they" pos="pno" xml:id="A47372-291-b1-2300">them</w>
@@ -5569,7 +5569,7 @@
        <pc xml:id="A47372-291-b1-4070">,</pc>
        <w lemma="and" pos="cc" xml:id="A47372-291-b1-4080">and</w>
        <w lemma="aught" pos="pi" reg="aught" xml:id="A47372-291-b1-4090">ought</w>
-       <w lemma="n/a" pos="fmi" xml:id="A47372-291-b1-4100">ot</w>
+       <w lemma="ot" pos="fmi" xml:id="A47372-291-b1-4100">ot</w>
        <w lemma="be" pos="vvi" xml:id="A47372-291-b1-4110">be</w>
        <w lemma="so" pos="av" xml:id="A47372-291-b1-4120">so</w>
        <w lemma="in" pos="acp" xml:id="A47372-291-b1-4130">in</w>
@@ -8131,7 +8131,7 @@
        <w lemma="price" pos="n1" xml:id="A47372-293-a-2850">price</w>
        <w lemma="of" pos="acp" xml:id="A47372-293-a-2860">of</w>
        <w lemma="a" pos="d" xml:id="A47372-293-a-2870">a</w>
-       <w lemma="lie" pos="n1" reg="" xml:id="A47372-293-a-2880">Ly</w>
+       <w lemma="lie" pos="n1" xml:id="A47372-293-a-2880">Ly</w>
        <pc xml:id="A47372-293-a-2890">,</pc>
        <w lemma="and" pos="cc" xml:id="A47372-293-a-2900">and</w>
        <w lemma="at" pos="acp" xml:id="A47372-293-a-2910">at</w>
@@ -8175,7 +8175,7 @@
        <w lemma="root" pos="n1" xml:id="A47372-293-a-3280">Root</w>
        <pc xml:id="A47372-293-a-3290">,</pc>
        <w lemma="this" pos="d" xml:id="A47372-293-a-3300">this</w>
-       <w lemma="lie" pos="n1" reg="" xml:id="A47372-293-a-3310">Ly</w>
+       <w lemma="lie" pos="n1" xml:id="A47372-293-a-3310">Ly</w>
        <w lemma="stand" pos="vvb" xml:id="A47372-293-a-3320">stand</w>
        <w lemma="in" pos="acp" xml:id="A47372-293-a-3330">in</w>
        <w lemma="my" pos="po" xml:id="A47372-293-a-3340">my</w>
@@ -16992,7 +16992,7 @@
        <w lemma="thou" pos="pno" xml:id="A47372-299-b-5780">thee</w>
        <pc xml:id="A47372-299-b-5790">;</pc>
        <w lemma="and" pos="cc" xml:id="A47372-299-b-5800">and</w>
-       <w lemma="neither" pos="dx" xml:id="A47372-299-b-5810">neither</w>
+       <w lemma="neither" pos="avx-d" xml:id="A47372-299-b-5810">neither</w>
        <w lemma="hold" pos="vvi" xml:id="A47372-299-b-5820">hold</w>
        <w lemma="it" pos="pn" xml:id="A47372-299-b-5830">it</w>
        <w lemma="so" pos="av" xml:id="A47372-299-b-5840">so</w>
@@ -20056,7 +20056,7 @@
      <stage xml:id="A47372-e112790">
       <pc join="right" xml:id="A47372-302-a-1330">[</pc>
       <w lemma="he" pos="pns" xml:id="A47372-302-a-1340">He</w>
-      <w join="right" lemma="spy" pos="vvz" reg="spies" xml:id="A47372-302-a-1350">spies</w>
+      <w join="right" lemma="spy" pos="vvz" xml:id="A47372-302-a-1350">spies</w>
       <w join="left" lemma="they" pos="pno" xml:id="A47372-302-a-1351">'em</w>
       <pc unit="sentence" xml:id="A47372-302-a-1360">.</pc>
      </stage>
@@ -20926,7 +20926,7 @@
         <w lemma="to" pos="acp" rend="hi" xml:id="A47372-302-b-2880">to</w>
         <w lemma="Melintus" pos="nn1" xml:id="A47372-302-b-2890">Melintus</w>
         <w lemma="and" pos="cc" rend="hi" xml:id="A47372-302-b-2900">and</w>
-        <w join="right" lemma="part" pos="vvz" reg="parts" rend="hi" xml:id="A47372-302-b-2910">parts</w>
+        <w join="right" lemma="part" pos="vvz" rend="hi" xml:id="A47372-302-b-2910">parts</w>
         <w join="left" lemma="they" pos="pno" xml:id="A47372-302-b-2911">'em</w>
         <pc rend="hi" unit="sentence" xml:id="A47372-302-b-2920">.</pc>
        </stage>
@@ -21284,7 +21284,7 @@
        <pc unit="sentence" xml:id="A47372-302-b-5800"/>
       </speaker>
       <p xml:id="A47372-e113720">
-       <w lemma="oh" pos="j" xml:id="A47372-302-b-5810">Oh!</w>
+       <w lemma="oh!" pos="uh" xml:id="A47372-302-b-5810">Oh!</w>
        <w join="right" lemma="it" pos="pn" xml:id="A47372-302-b-5820">'t</w>
        <w join="left" lemma="be" pos="vvz" xml:id="A47372-302-b-5821">is</w>
        <w lemma="a" pos="d" xml:id="A47372-302-b-5830">a</w>
@@ -28158,7 +28158,7 @@
        <w lemma="a" pos="d" xml:id="A47372-308-a-1090">a</w>
        <w lemma="dog" pos="n1" xml:id="A47372-308-a-1100">Dog</w>
        <w lemma="to" pos="prt" xml:id="A47372-308-a-1110">to</w>
-       <w lemma="bay" pos="vvi" xml:id="A47372-308-a-1120">bay</w>
+       <w lemma="bay" pos="n1" xml:id="A47372-308-a-1120">bay</w>
        <w lemma="they" pos="pno" xml:id="A47372-308-a-1130">them</w>
        <w lemma="long" pos="av-j" xml:id="A47372-308-a-1140">long</w>
        <pc xml:id="A47372-308-a-1150">,</pc>
