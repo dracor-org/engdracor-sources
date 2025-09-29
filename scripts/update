@@ -2,20 +2,20 @@
 
 usage () {
   cat <<EOF
-Update repo with files from EarlyPrint repo
+Update repo with files from EarlyPrint repos
 
 Usage:
-$0 --download                  # download from bitbucket
-$0 --copy /path/to/repos       # copy from local EarlyPrint repos
 $0 [--all | --help]
 
 OPTIONS:
   -a, --all       update all files including existing ones
-  -d, --delay     number of seconds to wait between download requests (default: 1)
+  -d, --download  download files instead of using submodules
   -h, --help      show this message
 
-Note: the path to the repos is expected to point to a directory containing the
-two checked out bitbucket repositories 'eebotcp' and 'eccotcp'.
+Note: By default this script uses the earlyprint repos included
+as submodules. These are quite huge and take a while to init and
+update. To avoid this, the files can also be downloaded directly
+from the bitbucket repo using the --download switch.
 
 EOF
 }
@@ -25,7 +25,6 @@ EOF
 
 ALL=""
 PARAMS=""
-COPY=""
 DOWNLOAD=""
 DELAY=1
 
@@ -34,10 +33,6 @@ while (( "$#" )); do
     -h|--help)
       usage
       exit 0
-      ;;
-    -c|--copy)
-      COPY=yes
-      shift
       ;;
     -d|--download)
       DOWNLOAD=yes
@@ -50,20 +45,6 @@ while (( "$#" )); do
     -v|--verbose)
       VERBOSE=yes
       shift
-      ;;
-    -D|--delay)
-      if [ -n "$2" ] && [ ${2:0:1} != "-" ]; then
-        re='^[0-9.]+$'
-        if ! [[ $2 =~ $re ]]; then
-          echo "Delay must be a number!"
-          exit 1
-        fi
-        PORT=$2
-        shift 2
-      else
-        echo "Error: Argument for $1 is missing" >&2
-        exit 1
-      fi
       ;;
     -*|--*=) # unsupported flags
       echo "Error: Unsupported flag $1" >&2
@@ -79,26 +60,7 @@ done
 # set positional arguments in their proper place
 eval set -- "$PARAMS"
 
-REPO_PATH=$1
-
-if [ -n "$COPY" -a -n "$DOWNLOAD" ]; then
-  echo "--copy and --download are mutually exclusive"
-  echo
-  usage
-  exit 1
-fi
-
-if [ -z "$COPY" -a -z "$DOWNLOAD" ]; then
-  usage
-  exit 1
-fi
-
-if [ -n "$COPY" -a -z "$REPO_PATH" ]; then
-  echo "Missing repo path"
-  echo
-  usage
-  exit 1
-fi
+REPO_PATH=earlyprint
 
 # directory with original downloads
 TARGET_DIR=./xml
@@ -113,17 +75,31 @@ fi
 
 git checkout main
 
+# if we are not downloading we initialize and update the submodules before
+# copying
+if [ -z "$DOWNLOAD" ]; then
+  git submodule init
+  git submodule update
+  for d in $REPO_PATH/*; do
+    cd $d
+    pwd
+    git submodule init
+    git submodule update
+    cd -
+  done
+fi
+
 for id in $(cat ids.txt); do
   dir=$(echo $id | cut -c 1-3)
   file="$TARGET_DIR/$id.xml"
 
   [ -z $VERBOSE ] && echo "$id"
   if ! [[ -f $file ]] || [[ -n "$ALL" ]]; then
-    if [ -n "$COPY" ]; then
+    if [ -z "$DOWNLOAD" ]; then
       source=$(ls $REPO_PATH/{eccotcp,eebotcp}/texts/$dir/$id.xml 2>/dev/null)
       cp $v $source $file
     else
-      url="https://bitbucket.org/eplib/$dir/raw/master/$id.xml"
+      url="https://bitbucket.org/eads004/$dir/raw/master/$id.xml"
       curl -o $file $url
       sleep $DELAY
     fi
