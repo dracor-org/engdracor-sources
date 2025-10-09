@@ -21723,13 +21723,11 @@
         <pc unit="sentence" xml:id="A31469-022-a-2870">.</pc>
        </stage>
       </sp>
-      <list xml:id="A31469-e25210">
-       <item xml:id="A31469-e25220">
-        <w lemma="Aurelia" pos="nn1" xml:id="A31469-022-a-2880">Aurelia</w>
-        <w lemma="n/a" pos="fla" rend="hi" xml:id="A31469-022-a-2890">Sola</w>
-        <pc unit="sentence" xml:id="A31469-022-a-2900">.</pc>
-       </item>
-      </list>
+      <stage xml:id="A31469-e25220">
+       <w lemma="Aurelia" pos="nn1" xml:id="A31469-022-a-2880">Aurelia</w>
+       <w lemma="n/a" pos="fla" rend="hi" xml:id="A31469-022-a-2890">Sola</w>
+       <pc unit="sentence" xml:id="A31469-022-a-2900">.</pc>
+      </stage>
       <sp xml:id="A31469-e25240">
        <speaker xml:id="A31469-e25250">
         <w lemma="aur" pos="ab" xml:id="A31469-022-a-2910">Aur</w>
