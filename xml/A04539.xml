@@ -758,11 +758,12 @@
       <w lemma="devil" pos="n1" reg="Devil" xml:id="A04539-002-b-0700">Diuill</w>
       <pc unit="sentence" xml:id="A04539-002-b-0710">.</pc>
      </l>
-     <stage xml:id="A04539-e100220">
+     <sp>
+     <speaker xml:id="A04539-e100220">
       <w lemma="Francis" pos="nn1" xml:id="A04539-002-b-0720">Francis</w>
       <w lemma="Guicchiardine" pos="nn1" xml:id="A04539-002-b-0730">Guicchiardine</w>
       <pc unit="sentence" xml:id="A04539-002-b-0740">.</pc>
-     </stage>
+     </speaker>
      <l xml:id="A04539-e100230">
       <w lemma="send" pos="vvn" xml:id="A04539-002-b-0750">SEnt</w>
       <w lemma="from" pos="acp" xml:id="A04539-002-b-0760">from</w>
@@ -910,6 +911,7 @@
       <w lemma="declare" pos="vvz" xml:id="A04539-002-b-1900">declares</w>
       <pc unit="sentence" xml:id="A04539-002-b-1910">.</pc>
      </l>
+    </sp>
      <stage xml:id="A04539-e100380">
       <w lemma="he" pos="pns" reg="He" xml:id="A04539-002-b-1920">Hee</w>
       <w lemma="with" pos="acp" xml:id="A04539-002-b-1930">with</w>
@@ -926,8 +928,6 @@
      <stage xml:id="A04539-e100390">
       <w lemma="enter" pos="vvb" xml:id="A04539-002-b-2030">Enter</w>
       <pc xml:id="A04539-002-b-2040">,</pc>
-     </stage>
-     <p xml:id="A04539-e100400">
       <w lemma="at" pos="acp" xml:id="A04539-002-b-2050">At</w>
       <w lemma="one" pos="crd" xml:id="A04539-002-b-2060">one</w>
       <w lemma="door" pos="n1" reg="door" xml:id="A04539-002-b-2070">doore</w>
@@ -999,12 +999,14 @@
       <w lemma="of" pos="acp" xml:id="A04539-002-b-2720">of</w>
       <w lemma="hand" pos="n2" xml:id="A04539-002-b-2730">hands</w>
       <pc unit="sentence" xml:id="A04539-002-b-2740">.</pc>
+      </stage>
       <stage xml:id="A04539-e100410">
        <w lemma="n/a" pos="fla" rend="hi" xml:id="A04539-002-b-2750">Exeunt</w>
        <w lemma="Card." pos="ab" xml:id="A04539-002-b-2760">Card.</w>
        <w lemma="n/a" pos="fla" rend="hi" xml:id="A04539-002-b-2770">Manet</w>
        <w lemma="Roderigo" pos="nn1" xml:id="A04539-002-b-2780">Roderigo</w>
       </stage>
+      <stage>
       <pb facs="tcp:23109:3" xml:id="A04539-003-a"/>
       <w lemma="To" pos="prt" xml:id="A04539-003-a-0010">To</w>
       <w lemma="who" pos="crq" reg="whom" type="unclear" xml:id="A04539-003-a-0020">whome</w>
@@ -1292,7 +1294,7 @@
       <w lemma="and" pos="cc" xml:id="A04539-003-a-2830">and</w>
       <w lemma="depart" pos="vvz" xml:id="A04539-003-a-2840">departeth</w>
       <pc unit="sentence" xml:id="A04539-003-a-2850">.</pc>
-     </p>
+     </stage>
      <stage xml:id="A04539-e100420">
       <w lemma="Guicchiardine" pos="nn1" xml:id="A04539-003-a-2860">Guicchiardine</w>
       <pc unit="sentence" xml:id="A04539-003-a-2870">.</pc>
