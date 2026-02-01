@@ -1199,7 +1199,7 @@
        <w lemma="this" pos="d" xml:id="A17460-004-a-1280">this</w>
        <pc unit="sentence" xml:id="A17460-004-a-1290">?</pc>
       </l>
-      <stage xml:id="A17460-e100890">
+      <p xml:id="A17460-e100890">
        <w lemma="Amaymon" pos="nn1" rend="hi" xml:id="A17460-004-a-1300">Amaymon</w>
        <w lemma="king" pos="n1" xml:id="A17460-004-a-1310">King</w>
        <w lemma="of" pos="acp" xml:id="A17460-004-a-1320">of</w>
@@ -1247,7 +1247,7 @@
        <w lemma="till" pos="acp" xml:id="A17460-004-a-1740">till</w>
        <w lemma="noon" pos="n1" reg="Noon" xml:id="A17460-004-a-1750">Noone</w>
        <pc unit="sentence" xml:id="A17460-004-a-1760">.</pc>
-      </stage>
+      </p>
       <l xml:id="A17460-e100900">
        <w lemma="pish" pos="uh" xml:id="A17460-004-a-1770">Pish</w>
        <pc xml:id="A17460-004-a-1780">,</pc>
@@ -1258,7 +1258,7 @@
        <w lemma="i" pos="pno" xml:id="A17460-004-a-1830">me</w>
        <pc unit="sentence" xml:id="A17460-004-a-1840">.</pc>
       </l>
-      <stage xml:id="A17460-e100910">
+      <p xml:id="A17460-e100910">
        <w lemma="Asmody" pos="nn1" rend="hi" xml:id="A17460-004-a-1850">Asmody</w>
        <pc rend="hi" xml:id="A17460-004-a-1860">;</pc>
        <w lemma="a" pos="d" xml:id="A17460-004-a-1870">a</w>
@@ -1368,14 +1368,14 @@
        <w lemma="man" pos="n1" xml:id="A17460-004-a-2910">man</w>
        <w lemma="invisible" pos="j" reg="invisible" xml:id="A17460-004-a-2920">inuisible</w>
        <pc unit="sentence" xml:id="A17460-004-a-2930">.</pc>
-      </stage>
+      </p>
       <l xml:id="A17460-e100920">
        <w lemma="ay" pos="uh" reg="ay" xml:id="A17460-004-a-2940">I</w>
        <pc xml:id="A17460-004-a-2950">,</pc>
        <w lemma="this" pos="d" xml:id="A17460-004-a-2960">this</w>
        <pc unit="sentence" xml:id="A17460-004-a-2970">.</pc>
       </l>
-      <stage xml:id="A17460-e100930">
+      <p xml:id="A17460-e100930">
        <pb facs="tcp:7776:4" xml:id="A17460-004-b"/>
        <w lemma="he" pos="pns" xml:id="A17460-004-b-0010">He</w>
        <w lemma="show" pos="vvz" reg="showeth" xml:id="A17460-004-b-0020">sheweth</w>
@@ -1385,7 +1385,7 @@
        <w lemma="treasure" pos="n1" xml:id="A17460-004-b-0060">Treasure</w>
        <w lemma="lie" pos="vvi" reg="lie" xml:id="A17460-004-b-0070">lye</w>
        <pc unit="sentence" xml:id="A17460-004-b-0080">.</pc>
-      </stage>
+      </p>
       <l xml:id="A17460-e100940">
        <w lemma="I" pos="pns" xml:id="A17460-004-b-0090">I</w>
        <w lemma="do" pos="vvbx" reg="do not" xml:id="A17460-004-b-0100">donnot</w>
@@ -1394,14 +1394,14 @@
        <w lemma="treasure" pos="n1" xml:id="A17460-004-b-0130">Treasure</w>
        <pc unit="sentence" xml:id="A17460-004-b-0140">.</pc>
       </l>
-      <stage xml:id="A17460-e100950">
+      <p xml:id="A17460-e100950">
        <w lemma="he" pos="pns" xml:id="A17460-004-b-0150">He</w>
        <w lemma="make" pos="vvz" xml:id="A17460-004-b-0160">maketh</w>
        <w lemma="a" pos="d" xml:id="A17460-004-b-0170">a</w>
        <w lemma="man" pos="n1" xml:id="A17460-004-b-0180">man</w>
        <w lemma="invisible" pos="j" reg="invisible" xml:id="A17460-004-b-0190">inuisible</w>
        <pc unit="sentence" xml:id="A17460-004-b-0200">.</pc>
-      </stage>
+      </p>
       <l xml:id="A17460-e100960">
        <w lemma="This" pos="d" xml:id="A17460-004-b-0210">This</w>
        <pc xml:id="A17460-004-b-0220">,</pc>
@@ -1507,7 +1507,7 @@
        <w lemma="name" pos="n2" xml:id="A17460-004-b-1140">Names</w>
        <pc xml:id="A17460-004-b-1150">:</pc>
       </l>
-      <stage xml:id="A17460-e101010">
+      <p xml:id="A17460-e101010">
        <w lemma="Panthon" pos="nn1" xml:id="A17460-004-b-1160">Panthon</w>
        <pc xml:id="A17460-004-b-1170">,</pc>
        <w lemma="Adonay" pos="nn1" xml:id="A17460-004-b-1180">Adonay</w>
@@ -1582,7 +1582,7 @@
        <w lemma="the" pos="d" rend="hi" xml:id="A17460-004-b-1870">the</w>
        <w lemma="north" pos="n1" rend="hi" xml:id="A17460-004-b-1880">North</w>
        <pc rend="hi" unit="sentence" xml:id="A17460-004-b-1890">.</pc>
-      </stage>
+      </p>
       <stage xml:id="A17460-e101020">
        <w lemma="enter" pos="vvb" xml:id="A17460-004-b-1900">Enter</w>
        <w lemma="landoffe" pos="nn1" rend="hi" xml:id="A17460-004-b-1910">Landoffe</w>
