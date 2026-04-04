@@ -17235,6 +17235,8 @@
        <w lemma="kiss" pos="n1" reg="kiss" xml:id="A07023-021-b-0350">kisse</w>
        <pc unit="sentence" xml:id="A07023-021-b-0360">.</pc>
       </l>
+     </sp>
+     <sp who="A07023-lord">
       <stage xml:id="A07023-e116720">
        <w lemma="enter" pos="vvb" xml:id="A07023-021-b-0370">Enter</w>
        <w lemma="a" pos="d" xml:id="A07023-021-b-0380">a</w>
